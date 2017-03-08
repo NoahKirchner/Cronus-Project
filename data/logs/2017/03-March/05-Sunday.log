@@ -1,0 +1,566 @@
+
+
+Starting up. (ID: bNl-dFDf) 19:50.15
+---------------------
+[13:30:00] bNl-dFDf ADMIN: Loading jobban_rank
+[13:30:00] bNl-dFDf ADMIN: jobban_keylist was empty
+[13:30:00] bNl-dFDf ADMIN: Loading Banlist
+[13:30:00] bNl-dFDf DEBUG: Rebuilding Master Controller
+[13:30:00] bNl-dFDf DEBUG: Runtime in turbolift_map.dm,224: list index out of bounds <A HREF='?src=[0x2100873d];viewruntime=[0x2100873d]'>[view]</A>
+[13:30:00] bNl-dFDf ACCESS: Login: Ultimate Shrek Fan/(Ultimate Shrek Fan) from 127.0.0.1-1238305795 || BYOND v511
+[13:30:00] bNl-dFDf DEBUG: Exodus turbolift map placeholder - Engineering cannot find a component turf at 0,0 on floor 0. Aborting.
+[13:30:00] bNl-dFDf DEBUG: Exodus turbolift map placeholder - Research cannot find a component turf at 0,0 on floor 0. Aborting.
+[13:30:00] bNl-dFDf DEBUG: Exodus turbolift map placeholder - Cargo cannot find a component turf at 0,0 on floor 0. Aborting.
+[13:30:00] bNl-dFDf DEBUG: Exodus turbolift map placeholder - Securiy cannot find a component turf at 0,0 on floor 0. Aborting.
+[13:30:00] bNl-dFDf ADMIN: Ultimate Shrek Fan has started the game.
+[13:30:00] bNl-dFDf ACCESS: Logout: *no key*/(Ultimate Shrek Fan)
+[13:30:00] bNl-dFDf ACCESS: Login: Ultimate Shrek Fan/(Woodrow Houser) from 127.0.0.1-1238305795 || BYOND v511
+[13:30:00] bNl-dFDf DEBUG: Next event of severity Mundane in 12.948 minutes.
+[13:30:00] bNl-dFDf DEBUG: Next event of severity Moderate in 47.282 minutes.
+[13:30:00] bNl-dFDf DEBUG: Next event of severity Major in 85.87 minutes.
+[13:30:16] bNl-dFDf EMOTE: mouse (111)/ : <B>The mouse (111)</B> squeaks.
+[13:30:45] bNl-dFDf EMOTE: mouse (104)/ : <B>The mouse (104)</B> squeeks.
+[13:30:51] bNl-dFDf SAY: mouse (107)/ : SQUEEK!
+[13:30:51] bNl-dFDf EMOTE: Ian/ : <B>Ian</B> pants.
+[13:30:57] bNl-dFDf EMOTE: Ian/ : <B>Ian</B> chases their tail
+[13:31:13] bNl-dFDf ADMIN: Ultimate Shrek Fan/(Woodrow Houser) spawned /obj/random/hardsuit at (121,124,4) (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=121;Y=124;Z=4'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x300005b]'>MOB</a>)
+[13:31:23] bNl-dFDf ACCESS: Logout: *no key*/(Woodrow Houser)
+[13:31:23] bNl-dFDf ACCESS: Login: Ultimate Shrek Fan/(Woodrow Houser) from 127.0.0.1-1238305795 || BYOND v511
+[13:31:28] bNl-dFDf EMOTE: Coffee/ : <B>Coffee</B> clacks.
+[13:31:31] bNl-dFDf ACCESS: Logout: *no key*/(Woodrow Houser)
+[13:31:31] bNl-dFDf ACCESS: Login: Ultimate Shrek Fan/(Woodrow Houser) from 127.0.0.1-1238305795 || BYOND v511
+[13:31:45] bNl-dFDf SAY: mouse (105)/ : SQUEEK!
+[13:31:59] bNl-dFDf EMOTE: mouse (106)/ : <B>The mouse (106)</B> squeaks.
+[13:32:24] bNl-dFDf EMOTE: Runtime/ : <B>Runtime</B> mews.
+[13:32:34] bNl-dFDf ADMIN: Ultimate Shrek Fan/(Woodrow Houser) spawned /obj/item/weapon/rig/light/internalaffairs at (121,124,4) (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=121;Y=124;Z=4'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x300005b]'>MOB</a>)
+[13:32:34] bNl-dFDf SAY: mouse (102)/ : Squeek?
+[13:32:41] bNl-dFDf EMOTE: mouse (115)/ : <B>The mouse (115)</B> scritches at something.
+[13:32:43] bNl-dFDf EMOTE: Experiment 68a/ : <B>Experiment 68a</B> clicks.
+[13:33:34] bNl-dFDf EMOTE: mouse (103)/ : <B>The mouse (103)</B> shakes.
+[13:34:05] bNl-dFDf EMOTE: mouse (103)/ : <B>The mouse (103)</B> squiks.
+[13:34:13] bNl-dFDf ADMIN: Ultimate Shrek Fan/(Woodrow Houser) spawned /obj/item/weapon/rig/ert/assetprotection at (122,124,4) (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=122;Y=124;Z=4'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x300005b]'>MOB</a>)
+[13:34:41] bNl-dFDf EMOTE: mouse (115)/ : <B>The mouse (115)</B> scritches at something.
+[13:34:55] bNl-dFDf EMOTE: Tom/ : <B>Tom</B> shakes.
+[13:35:18] bNl-dFDf EMOTE: Ian/ : <B>Ian</B> chases their tail
+[13:35:34] bNl-dFDf ADMIN: Ultimate Shrek Fan/(Woodrow Houser) spawned /obj/item/weapon/rig/military at (123,124,4) (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=123;Y=124;Z=4'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x300005b]'>MOB</a>)
+[13:35:45] bNl-dFDf EMOTE: Runtime/ : <B>Runtime</B> mews.
+[13:36:14] bNl-dFDf EMOTE: Experiment 97d/ : <B>Experiment 97d</B> shakes its head.
+[13:36:30] bNl-dFDf SAY: grey baby slime (842)/ : Rawr...
+[13:38:20] bNl-dFDf EMOTE: Ian/ : <B>Ian</B> chases their tail
+[13:38:28] bNl-dFDf EMOTE: Coffee/ : <B>Coffee</B> clicks.
+[13:38:59] bNl-dFDf SAY: mouse (103)/ : Squeek?
+[13:39:20] bNl-dFDf ADMIN: Ultimate Shrek Fan/(Woodrow Houser) jumped to the Cargo - Quartermaster's Office (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=94;Y=112;Z=4'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x300005b]'>MOB</a>)
+[13:39:28] bNl-dFDf ADMIN: Ultimate Shrek Fan/(Woodrow Houser) jumped to the Engine Monitoring Room (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=179;Y=76;Z=2'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x300005b]'>MOB</a>)
+[13:39:57] bNl-dFDf SAY: mouse (108)/ : SQUEEK!
+[13:39:58] bNl-dFDf ADMIN: Ultimate Shrek Fan/(Woodrow Houser) spawned /obj/item/device/flashlight/drone at (176,83,2) (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=176;Y=83;Z=2'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x300005b]'>MOB</a>)
+[13:40:12] bNl-dFDf SAY: crab/ : ...
+[13:40:27] bNl-dFDf ADMIN: Ultimate Shrek Fan/(Woodrow Houser) spawned /obj/item/device/flashlight/lamp at (176,85,2) (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=176;Y=85;Z=2'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x300005b]'>MOB</a>)
+[13:40:41] bNl-dFDf ADMIN: Ultimate Shrek Fan/(Woodrow Houser) spawned /obj/item/device/flashlight at (176,84,2) (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=176;Y=84;Z=2'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x300005b]'>MOB</a>)
+[13:41:14] bNl-dFDf SAY: Coffee/ : ...
+[13:42:14] bNl-dFDf EMOTE: Experiment 68a/ : <B>Experiment 68a</B> clicks.
+[13:42:50] bNl-dFDf ADMIN: Ultimate Shrek Fan/(Woodrow Houser) spawned /obj/item/weapon/crowbar/brace_jack at (173,74,2) (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=173;Y=74;Z=2'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x300005b]'>MOB</a>)
+[13:42:58] bNl-dFDf DEBUG: Next event of severity Mundane in 16.76 minutes.
+[13:42:58] bNl-dFDf DEBUG: Starting event 'Economic News' of severity Mundane.
+[13:43:12] bNl-dFDf SAY: mouse (106)/ : Squeek?
+[13:43:24] bNl-dFDf EMOTE: Ian/ : <B>Ian</B> barks.
+[13:43:26] bNl-dFDf EMOTE: Coffee/ : <B>Coffee</B> clacks.
+[13:43:49] bNl-dFDf EMOTE: Coffee/ : <B>Coffee</B> clacks.
+[13:44:26] bNl-dFDf SAY: mouse (108)/ : SQUEEK!
+[13:45:06] bNl-dFDf SAY: Runtime/ : Esp!
+[13:46:02] bNl-dFDf EMOTE: mouse (106)/ : <B>The mouse (106)</B> squeeks.
+[13:47:08] bNl-dFDf SAY: mouse (108)/ : Squeek!
+[13:47:43] bNl-dFDf ADMIN: Woodrow Houser(ultimateshrekfan) has forced open an emergency shutter.
+[13:47:56] bNl-dFDf EMOTE: Experiment 97d/ : <B>Experiment 97d</B> glares around.
+[13:47:59] bNl-dFDf ADMIN: Ultimate Shrek Fan/(Woodrow Houser) healed / revived <a href='?priv_msg=[0x5000000]'>Ultimate Shrek Fan</a>/(Woodrow Houser)! (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=158;Y=104;Z=2'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x300005b]'>MOB</a>)
+[13:48:47] bNl-dFDf ADMIN: Ultimate Shrek Fan/(Woodrow Houser) healed / revived <a href='?priv_msg=[0x5000000]'>Ultimate Shrek Fan</a>/(Woodrow Houser)! (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=141;Y=101;Z=2'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x300005b]'>MOB</a>)
+[13:49:33] bNl-dFDf SAY: Ian/ : Bark!
+[13:50:29] bNl-dFDf ADMIN: Ultimate Shrek Fan/(Woodrow Houser) has sent a fax message to Head of Security
+[13:50:45] bNl-dFDf SAY: Runtime/ : Esp!
+[13:51:06] bNl-dFDf SAY: grey baby slime (131)/ : Blop...
+[13:51:25] bNl-dFDf ADMIN: Ultimate Shrek Fan/(Woodrow Houser) jumped to the Heads of Staff Meeting Room (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=103;Y=131;Z=4'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x300005b]'>MOB</a>)
+[13:51:33] bNl-dFDf DEBUG: Event 'Economic News' has completed at 13:52.
+[13:52:25] bNl-dFDf EMOTE: Ian/ : <B>Ian</B> barks.
+[13:54:06] bNl-dFDf EMOTE: Ian/ : <B>Ian</B> shivers.
+[13:54:08] bNl-dFDf EMOTE: Ian/ : <B>Ian</B> chases their tail
+[13:55:10] bNl-dFDf EMOTE: Ian/ : <B>Ian</B> chases their tail
+[13:55:31] bNl-dFDf EMOTE: Ian/ : <B>Ian</B> dances around
+[13:55:41] bNl-dFDf EMOTE: Experiment 68a/ : <B>Experiment 68a</B> clacks.
+[13:56:19] bNl-dFDf EMOTE: Ian/ : <B>Ian</B> dances around
+[13:58:54] bNl-dFDf SAY: Coffee/ : ...
+[13:59:08] bNl-dFDf EMOTE: Ian/ : <B>Ian</B> dances around
+[13:59:44] bNl-dFDf DEBUG: Next event of severity Mundane in 16.732 minutes.
+[13:59:44] bNl-dFDf DEBUG: Starting event 'Nothing' of severity Mundane.
+[13:59:46] bNl-dFDf DEBUG: Event 'Nothing' has completed at 14:00.
+[14:00:06] bNl-dFDf EMOTE: Coffee/ : <B>Coffee</B> clacks.
+[14:01:50] bNl-dFDf SAY: Experiment 97d/ : EHEHEHEHEH
+[14:01:52] bNl-dFDf EMOTE: Coffee/ : <B>Coffee</B> clicks.
+[14:02:30] bNl-dFDf ADMIN: Ultimate Shrek Fan/(Woodrow Houser) spawned /obj/item/clothing/suit/storage/service/expeditionary/medical/command at (118,181,4) (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=118;Y=181;Z=4'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x300005b]'>MOB</a>)
+[14:02:44] bNl-dFDf EMOTE: Ian/ : <B>Ian</B> dances around
+[14:03:33] bNl-dFDf ADMIN: Ultimate Shrek Fan/(Woodrow Houser) spawned /obj/item/clothing/suit/space/void/swat at (117,180,4) (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=117;Y=180;Z=4'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x300005b]'>MOB</a>)
+[14:03:44] bNl-dFDf EMOTE: crab/ : <B>The crab</B> clicks.
+[14:04:00] bNl-dFDf EMOTE: Experiment 97d/ : <B>Experiment 97d</B> glares around.
+[14:04:27] bNl-dFDf EMOTE: Ian/ : <B>Ian</B> woofs.
+[14:04:31] bNl-dFDf EMOTE: Experiment 97d/ : <B>Experiment 97d</B> shakes its head.
+[14:04:52] bNl-dFDf EMOTE: Experiment 97d/ : <B>Experiment 97d</B> glares around.
+[14:05:08] bNl-dFDf EMOTE: Runtime/ : <B>Runtime</B> meows.
+[14:05:44] bNl-dFDf SAY: Coffee/ : ...
+[14:06:09] bNl-dFDf EMOTE: Experiment 68a/ : <B>Experiment 68a</B> clacks.
+[14:07:42] bNl-dFDf ADMIN: Ultimate Shrek Fan/(Woodrow Houser) spawned /obj/item/clothing/under/color/black at (115,181,4) (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=115;Y=181;Z=4'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x300005b]'>MOB</a>)
+[14:07:52] bNl-dFDf EMOTE: Ian/ : <B>Ian</B> shivers.
+[14:08:02] bNl-dFDf SAY: Coffee/ : ...
+[14:08:29] bNl-dFDf ADMIN: Ultimate Shrek Fan/(Woodrow Houser) spawned /obj/item/clothing/mask/balaclava at (117,179,4) (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=117;Y=179;Z=4'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x300005b]'>MOB</a>)
+[14:08:42] bNl-dFDf EMOTE: Ian/ : <B>Ian</B> dances around
+[14:09:25] bNl-dFDf EMOTE: Ian/ : <B>Ian</B> dances around
+[14:10:25] bNl-dFDf ADMIN: Ultimate Shrek Fan/(Woodrow Houser) spawned /obj/item/clothing/gloves/tactical at (116,180,4) (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=116;Y=180;Z=4'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x300005b]'>MOB</a>)
+[14:10:40] bNl-dFDf EMOTE: crab/ : <B>The crab</B> clicks.
+[14:11:23] bNl-dFDf EMOTE: Ian/ : <B>Ian</B> pants.
+[14:11:52] bNl-dFDf SAY: Ian/ : YAP
+[14:12:27] bNl-dFDf EMOTE: Ian/ : <B>Ian</B> barks.
+[14:13:27] bNl-dFDf EMOTE: Ian/ : <B>Ian</B> chases their tail
+[14:14:58] bNl-dFDf EMOTE: Experiment 68a/ : <B>Experiment 68a</B> clicks.
+[14:15:04] bNl-dFDf ACCESS: Logout: *no key*/(Woodrow Houser)
+[14:15:04] bNl-dFDf ACCESS: Login: Ultimate Shrek Fan/(Woodrow Houser) from 127.0.0.1-1238305795 || BYOND v511
+[14:15:15] bNl-dFDf EMOTE: Ian/ : <B>Ian</B> chases their tail
+[14:15:27] bNl-dFDf EMOTE: crab/ : <B>The crab</B> clicks.
+[14:16:28] bNl-dFDf DEBUG: Next event of severity Mundane in 13.878 minutes.
+[14:16:28] bNl-dFDf DEBUG: Starting event 'Mundane News' of severity Mundane.
+[14:16:30] bNl-dFDf EMOTE: Experiment 97d/ : <B>Experiment 97d</B> shakes its head.
+[14:16:51] bNl-dFDf DEBUG: Event 'Mundane News' has completed at 14:17.
+[14:17:18] bNl-dFDf DEBUG: Next event of severity Moderate in 43.434 minutes.
+[14:17:18] bNl-dFDf DEBUG: Starting event 'Nothing' of severity Moderate.
+[14:17:20] bNl-dFDf DEBUG: Event 'Nothing' has completed at 14:17.
+[14:17:25] bNl-dFDf EMOTE: Ian/ : <B>Ian</B> chases their tail
+[14:17:44] bNl-dFDf EMOTE: Experiment 97d/ : <B>Experiment 97d</B> brays.
+[14:18:05] bNl-dFDf EMOTE: Coffee/ : <B>Coffee</B> clacks.
+[14:20:34] bNl-dFDf EMOTE: Ian/ : <B>Ian</B> chases their tail
+[14:20:36] bNl-dFDf EMOTE: Ian/ : <B>Ian</B> chases their tail
+[14:20:48] bNl-dFDf EMOTE: Experiment 68a/ : <B>Experiment 68a</B> clicks.
+[14:20:54] bNl-dFDf EMOTE: Ian/ : <B>Ian</B> dances around
+[14:22:13] bNl-dFDf EMOTE: Ian/ : <B>Ian</B> chases their tail
+[14:22:19] bNl-dFDf SAY: grey baby slime (842)/ : Lonely...
+[14:22:19] bNl-dFDf SAY: Experiment 68a/ : ...
+[14:23:19] bNl-dFDf SAY: crab/ : ...
+[14:23:46] bNl-dFDf SAY: grey baby slime (842)/ : Rawr...
+[14:25:08] bNl-dFDf ADMIN: Ultimate Shrek Fan/(Woodrow Houser) modified power storage unit's charge from '0' to '200000' (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=111;Y=69;Z=4'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000053]'>MOB</a>)
+[14:25:32] bNl-dFDf EMOTE: Ian/ : <B>Ian</B> dances around
+[14:25:32] bNl-dFDf ACCESS: Logout: *no key*/(Woodrow Houser)
+[14:25:32] bNl-dFDf ACCESS: Login: Ultimate Shrek Fan/(Woodrow Houser) from 127.0.0.1-1238305795 || BYOND v511
+[14:27:19] bNl-dFDf EMOTE: Ian/ : <B>Ian</B> chases their tail
+[14:27:38] bNl-dFDf SAY: Experiment 68a/ : ...
+[14:28:15] bNl-dFDf EMOTE: Ian/ : <B>Ian</B> chases their tail
+[14:28:31] bNl-dFDf ADMIN: Ultimate Shrek Fan/(Woodrow Houser) spawned /obj/item/clothing/under/frontier at (112,147,4) (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=112;Y=147;Z=4'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x300005b]'>MOB</a>)
+[14:28:42] bNl-dFDf EMOTE: Ian/ : <B>Ian</B> chases their tail
+[14:29:08] bNl-dFDf ADMIN: Ultimate Shrek Fan/(Woodrow Houser) spawned /obj/item/clothing/under/service/fleet at (112,146,4) (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=112;Y=146;Z=4'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x300005b]'>MOB</a>)
+[14:29:24] bNl-dFDf EMOTE: crab/ : <B>The crab</B> clacks.
+[14:29:28] bNl-dFDf SAY: crab/ : ...
+[14:29:51] bNl-dFDf SAY: Coffee/ : ...
+[14:29:57] bNl-dFDf SAY: crab/ : ...
+[14:30:02] bNl-dFDf ADMIN: Ultimate Shrek Fan/(Woodrow Houser) spawned /obj/item/clothing/under/service/marine/command at (112,142,4) (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=112;Y=142;Z=4'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x300005b]'>MOB</a>)
+[14:30:18] bNl-dFDf EMOTE: Ian/ : <B>Ian</B> chases their tail
+[14:30:22] bNl-dFDf DEBUG: Next event of severity Mundane in 16.798 minutes.
+[14:30:22] bNl-dFDf DEBUG: Starting event 'Sensor Suit Jamming' of severity Mundane.
+[14:30:49] bNl-dFDf SAY: Experiment 97d/ : eh?
+[14:31:11] bNl-dFDf SAY: Experiment 68a/ : ...
+[14:31:18] bNl-dFDf DEBUG: Event 'Sensor Suit Jamming' has completed at 14:31.
+[14:31:30] bNl-dFDf EMOTE: Coffee/ : <B>Coffee</B> clicks.
+[14:31:56] bNl-dFDf ADMIN: Ultimate Shrek Fan/(Woodrow Houser) spawned /obj/item/clothing/under/suit_jacket/really_black at (114,141,4) (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=114;Y=141;Z=4'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x300005b]'>MOB</a>)
+[14:33:40] bNl-dFDf ADMIN: Ultimate Shrek Fan/(Woodrow Houser) spawned /obj/item/clothing/under/mildress/expeditionary/command at (114,142,4) (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=114;Y=142;Z=4'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x300005b]'>MOB</a>)
+[14:34:09] bNl-dFDf ADMIN: Ultimate Shrek Fan/(Woodrow Houser) spawned /obj/item/clothing/under/chameleon at (114,142,4) (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=114;Y=142;Z=4'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x300005b]'>MOB</a>)
+[14:34:26] bNl-dFDf SAY: Runtime/ : Purr!
+[14:35:16] bNl-dFDf SAY: Coffee/ : ...
+[14:35:30] bNl-dFDf EMOTE: Ian/ : <B>Ian</B> chases their tail
+[14:35:45] bNl-dFDf EMOTE: crab/ : <B>The crab</B> clicks.
+[14:36:49] bNl-dFDf SAY: Coffee/ : ...
+[14:37:14] bNl-dFDf EMOTE: Coffee/ : <B>Coffee</B> clacks.
+[14:37:53] bNl-dFDf EMOTE: Ian/ : <B>Ian</B> chases their tail
+[14:38:18] bNl-dFDf SAY: Runtime/ : HSSSSS
+[14:38:18] bNl-dFDf EMOTE: Experiment 97d/ : <B>Experiment 97d</B> glares around.
+[14:39:14] bNl-dFDf SAY: Ian/ : Woof!
+[14:39:47] bNl-dFDf ACCESS: Logout: Ultimate Shrek Fan/(Woodrow Houser)
+
+
+Starting up. (ID: bNm-afCg) 21:11.36
+---------------------
+[08:30:00] bNm-afCg ADMIN: Loading jobban_rank
+[08:30:00] bNm-afCg ADMIN: jobban_keylist was empty
+[08:30:00] bNm-afCg ADMIN: Loading Banlist
+[08:30:00] bNm-afCg DEBUG: Rebuilding Master Controller
+[08:30:00] bNm-afCg DEBUG: Runtime in turbolift_map.dm,224: list index out of bounds <A HREF='?src=[0x21008727];viewruntime=[0x21008727]'>[view]</A>
+[08:30:00] bNm-afCg ACCESS: Login: Ultimate Shrek Fan/(Ultimate Shrek Fan) from 127.0.0.1-1238305795 || BYOND v511
+[08:30:00] bNm-afCg DEBUG: Exodus turbolift map placeholder - Engineering cannot find a component turf at 0,0 on floor 0. Aborting.
+[08:30:00] bNm-afCg DEBUG: Exodus turbolift map placeholder - Research cannot find a component turf at 0,0 on floor 0. Aborting.
+[08:30:00] bNm-afCg DEBUG: Exodus turbolift map placeholder - Cargo cannot find a component turf at 0,0 on floor 0. Aborting.
+[08:30:00] bNm-afCg DEBUG: Exodus turbolift map placeholder - Securiy cannot find a component turf at 0,0 on floor 0. Aborting.
+[08:30:00] bNm-afCg ADMIN: Ultimate Shrek Fan has started the game.
+[08:30:00] bNm-afCg ACCESS: Logout: *no key*/(Ultimate Shrek Fan)
+[08:30:00] bNm-afCg ACCESS: Login: Ultimate Shrek Fan/(Woodrow Houser) from 127.0.0.1-1238305795 || BYOND v511
+[08:30:00] bNm-afCg DEBUG: Next event of severity Mundane in 13.028 minutes.
+[08:30:00] bNm-afCg DEBUG: Next event of severity Moderate in 46.394 minutes.
+[08:30:00] bNm-afCg DEBUG: Next event of severity Major in 80.6183 minutes.
+[08:30:04] bNm-afCg EMOTE: Ian/ : <B>Ian</B> dances around
+[08:30:12] bNm-afCg EMOTE: mouse (118)/ : <B>The mouse (118)</B> squeaks.
+[08:30:21] bNm-afCg SAY: mouse (119)/ : Squeek?
+[08:30:35] bNm-afCg EMOTE: mouse (117)/ : <B>The mouse (117)</B> squeeks.
+[08:30:43] bNm-afCg EMOTE: mouse (122)/ : <B>The mouse (122)</B> shakes.
+[08:30:45] bNm-afCg SAY: Runtime/ : Purr!
+[08:30:50] bNm-afCg EMOTE: Ian/ : <B>Ian</B> dances around
+[08:30:50] bNm-afCg EMOTE: mouse (110)/ : <B>The mouse (110)</B> squiks.
+[08:30:52] bNm-afCg EMOTE: mouse (115)/ : <B>The mouse (115)</B> runs in a circle.
+[08:30:52] bNm-afCg ADMIN: Ultimate Shrek Fan/(Woodrow Houser) spawned /obj/item/clothing/under/aaa at (121,126,4) (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=121;Y=126;Z=4'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x300005a]'>MOB</a>)
+[08:30:58] bNm-afCg SAY: mouse (100)/ : Squeek?
+[08:31:00] bNm-afCg EMOTE: mouse (113)/ : <B>The mouse (113)</B> scritches at something.
+[08:31:02] bNm-afCg EMOTE: mouse (100)/ : <B>The mouse (100)</B> shakes.
+[08:31:08] bNm-afCg EMOTE: mouse (115)/ : <B>The mouse (115)</B> squeaks.
+[08:31:10] bNm-afCg EMOTE: mouse (119)/ : <B>The mouse (119)</B> squeaks.
+[08:31:35] bNm-afCg EMOTE: mouse (117)/ : <B>The mouse (117)</B> shakes.
+[08:31:41] bNm-afCg EMOTE: mouse (119)/ : <B>The mouse (119)</B> scritches at something.
+[08:31:50] bNm-afCg ADMIN: Ultimate Shrek Fan/(Woodrow Houser) spawned /obj/item/weapon/rig/ert/assetprotection at (121,125,4) (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=121;Y=125;Z=4'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x300005a]'>MOB</a>)
+[08:31:56] bNm-afCg SAY: mouse (105)/ : Squeek?
+[08:31:58] bNm-afCg EMOTE: mouse (102)/ : <B>The mouse (102)</B> scritches at something.
+[08:32:00] bNm-afCg SAY: mouse (118)/ : Squeek?
+[08:32:06] bNm-afCg SAY: mouse (115)/ : Squeek!
+[08:32:10] bNm-afCg EMOTE: mouse (111)/ : <B>The mouse (111)</B> shakes.
+[08:32:46] bNm-afCg SAY: mouse (117)/ : SQUEEK!
+[08:32:54] bNm-afCg ADMIN: Ultimate Shrek Fan/(Woodrow Houser) jumped to the Engine Monitoring Room (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=180;Y=77;Z=2'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x300005a]'>MOB</a>)
+[08:33:08] bNm-afCg EMOTE: Runtime/ : <B>Runtime</B> shivers.
+[08:33:12] bNm-afCg EMOTE: mouse (112)/ : <B>The mouse (112)</B> runs in a circle.
+[08:33:17] bNm-afCg SAY: crab/ : ...
+[08:33:29] bNm-afCg SAY: mouse (107)/ : Squeek?
+[08:33:52] bNm-afCg SAY: mouse (121)/ : SQUEEK!
+[08:34:27] bNm-afCg EMOTE: crab/ : <B>The crab</B> clicks.
+[08:34:50] bNm-afCg EMOTE: mouse (102)/ : <B>The mouse (102)</B> shakes.
+[08:35:02] bNm-afCg EMOTE: Ian/ : <B>Ian</B> dances around
+[08:35:33] bNm-afCg EMOTE: Experiment 97d/ : <B>Experiment 97d</B> stamps a foot.
+[08:35:35] bNm-afCg EMOTE: Ian/ : <B>Ian</B> shivers.
+[08:35:56] bNm-afCg SAY: Runtime/ : Esp!
+[08:36:27] bNm-afCg EMOTE: Runtime/ : <B>Runtime</B> shakes their head.
+[08:38:05] bNm-afCg ADMIN: Ultimate Shrek Fan/(Woodrow Houser) jumped to the Security - Armory (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=127;Y=83;Z=2'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x300005a]'>MOB</a>)
+[08:38:13] bNm-afCg SAY: Runtime/ : HSSSSS
+[08:38:22] bNm-afCg ADMIN: Ultimate Shrek Fan/(Woodrow Houser) jumped to the Research Lab (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=183;Y=120;Z=4'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x300005a]'>MOB</a>)
+[08:38:23] bNm-afCg SAY: crab/ : ...
+[08:38:50] bNm-afCg SAY: mouse (107)/ : SQUEEK!
+[08:38:58] bNm-afCg SAY: Experiment 97d/ : eh?
+[08:38:58] bNm-afCg SAY: Experiment 68a/ : ...
+[08:39:27] bNm-afCg EMOTE: Ian/ : <B>Ian</B> shivers.
+[08:39:48] bNm-afCg EMOTE: crab/ : <B>The crab</B> clacks.
+[08:40:21] bNm-afCg EMOTE: Runtime/ : <B>Runtime</B> meows.
+[08:40:40] bNm-afCg EMOTE: mouse (121)/ : <B>The mouse (121)</B> squeeks.
+[08:41:21] bNm-afCg EMOTE: Experiment 68a/ : <B>Experiment 68a</B> clacks.
+[08:41:35] bNm-afCg EMOTE: Experiment 68a/ : <B>Experiment 68a</B> clicks.
+[08:43:00] bNm-afCg EMOTE: Ian/ : <B>Ian</B> chases their tail
+[08:43:02] bNm-afCg DEBUG: Next event of severity Mundane in 12.044 minutes.
+[08:43:02] bNm-afCg DEBUG: Starting event 'Economic News' of severity Mundane.
+[08:43:11] bNm-afCg EMOTE: Ian/ : <B>Ian</B> chases their tail
+[08:43:56] bNm-afCg EMOTE: Experiment 97d/ : <B>Experiment 97d</B> stamps a foot.
+[08:44:05] bNm-afCg SAY: Ian/ : YAP
+[08:44:17] bNm-afCg EMOTE: Ian/ : <B>Ian</B> chases their tail
+[08:44:21] bNm-afCg EMOTE: mouse (121)/ : <B>The mouse (121)</B> squeeks.
+[08:44:25] bNm-afCg EMOTE: Ian/ : <B>Ian</B> chases their tail
+[08:44:40] bNm-afCg EMOTE: Ian/ : <B>Ian</B> chases their tail
+[08:46:42] bNm-afCg ACCESS: Logout: Ultimate Shrek Fan/(Woodrow Houser)
+
+
+Starting up. (ID: bNm-alQw) 21:50.25
+---------------------
+[13:30:00] bNm-alQw ADMIN: Loading jobban_rank
+[13:30:00] bNm-alQw ADMIN: jobban_keylist was empty
+[13:30:00] bNm-alQw ADMIN: Loading Banlist
+[13:30:00] bNm-alQw DEBUG: Rebuilding Master Controller
+[13:30:00] bNm-alQw ACCESS: Login: Ultimate Shrek Fan/(Ultimate Shrek Fan) from 127.0.0.1-1238305795 || BYOND v511
+[13:30:00] bNm-alQw ADMIN: Ultimate Shrek Fan has started the game.
+[13:30:00] bNm-alQw ACCESS: Logout: *no key*/(Ultimate Shrek Fan)
+[13:30:00] bNm-alQw ACCESS: Login: Ultimate Shrek Fan/(Woodrow Houser) from 127.0.0.1-1238305795 || BYOND v511
+[13:30:00] bNm-alQw DEBUG: Next event of severity Mundane in 12.76 minutes.
+[13:30:00] bNm-alQw DEBUG: Next event of severity Moderate in 51.106 minutes.
+[13:30:00] bNm-alQw DEBUG: Next event of severity Major in 86.3867 minutes.
+[13:30:22] bNm-alQw EMOTE: mouse (101)/ : <B>The mouse (101)</B> shakes.
+[13:30:39] bNm-alQw EMOTE: mouse (123)/ : <B>The mouse (123)</B> squiks.
+[13:30:45] bNm-alQw SAY: mouse (112)/ : Squeek!
+[13:30:47] bNm-alQw SAY: mouse (111)/ : Squeek!
+[13:30:47] bNm-alQw SAY: mouse (120)/ : Squeek?
+[13:30:51] bNm-alQw SAY: mouse (118)/ : Squeek!
+[13:30:53] bNm-alQw EMOTE: mouse (107)/ : <B>The mouse (107)</B> shakes.
+[13:31:10] bNm-alQw SAY: mouse (115)/ : Squeek?
+[13:31:32] bNm-alQw EMOTE: mouse (103)/ : <B>The mouse (103)</B> shakes.
+[13:31:43] bNm-alQw EMOTE: Coffee/ : <B>Coffee</B> clacks.
+[13:32:04] bNm-alQw EMOTE: Tom/ : <B>Tom</B> scritches at something.
+[13:32:08] bNm-alQw EMOTE: mouse (112)/ : <B>The mouse (112)</B> runs in a circle.
+[13:32:14] bNm-alQw EMOTE: mouse (100)/ : <B>The mouse (100)</B> squeaks.
+[13:32:24] bNm-alQw SAY: mouse (121)/ : Squeek!
+[13:32:28] bNm-alQw EMOTE: mouse (102)/ : <B>The mouse (102)</B> squiks.
+[13:32:49] bNm-alQw EMOTE: crab/ : <B>The crab</B> clicks.
+[13:33:18] bNm-alQw EMOTE: mouse (108)/ : <B>The mouse (108)</B> runs in a circle.
+[13:33:28] bNm-alQw SAY: Experiment 97d/ : EHEHEHEHEH
+[13:33:43] bNm-alQw EMOTE: crab/ : <B>The crab</B> clicks.
+[13:33:49] bNm-alQw EMOTE: Ian/ : <B>Ian</B> chases their tail
+[13:34:02] bNm-alQw EMOTE: Experiment 97d/ : <B>Experiment 97d</B> stamps a foot.
+[13:34:22] bNm-alQw SAY: grey baby slime (353)/ : Blorble...
+[13:34:22] bNm-alQw EMOTE: mouse (103)/ : <B>The mouse (103)</B> squeaks.
+[13:34:35] bNm-alQw ADMIN: Ultimate Shrek Fan/(Woodrow Houser) spawned /obj/machinery/atmospherics/pipe/tank/phoron at (118,66,3) (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=118;Y=66;Z=3'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x300005d]'>MOB</a>)
+[13:34:35] bNm-alQw EMOTE: mouse (103)/ : <B>The mouse (103)</B> shakes.
+[13:34:57] bNm-alQw EMOTE: mouse (122)/ : <B>The mouse (122)</B> squeaks.
+[13:35:07] bNm-alQw ADMIN: Ultimate Shrek Fan/(Woodrow Houser) spawned /obj/machinery/portable_atmospherics/canister/phoron/engine_setup at (119,67,3) (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=119;Y=67;Z=3'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x300005d]'>MOB</a>)
+[13:35:08] bNm-alQw EMOTE: mouse (107)/ : <B>The mouse (107)</B> runs in a circle.
+[13:35:14] bNm-alQw SAY: mouse (103)/ : Squeek!
+[13:36:10] bNm-alQw EMOTE: mouse (105)/ : <B>The mouse (105)</B> scritches at something.
+[13:36:14] bNm-alQw SAY: Experiment 97d/ : EHEHEHEHEH
+[13:36:20] bNm-alQw EMOTE: mouse (122)/ : <B>The mouse (122)</B> runs in a circle.
+[13:36:28] bNm-alQw EMOTE: mouse (105)/ : <B>The mouse (105)</B> squeaks.
+[13:36:56] bNm-alQw ADMIN: Ultimate Shrek Fan/(Woodrow Houser) turned on the emitter (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=114;Y=65;Z=3'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x300005d]'>MOB</a>)
+[13:37:06] bNm-alQw EMOTE: Experiment 68a/ : <B>Experiment 68a</B> clicks.
+[13:37:16] bNm-alQw SAY: Ian/ : AUUUUUU
+[13:37:16] bNm-alQw SAY: mouse (122)/ : Squeek!
+[13:37:18] bNm-alQw EMOTE: mouse (122)/ : <B>The mouse (122)</B> squeaks.
+[13:37:21] bNm-alQw ADMIN: Ultimate Shrek Fan/(Woodrow Houser) turned off the emitter (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=114;Y=65;Z=3'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x300005d]'>MOB</a>)
+[13:37:29] bNm-alQw SAY: grey baby slime (814)/ : Rawr...
+[13:37:45] bNm-alQw SAY: Ian/ : Bark!
+[13:37:49] bNm-alQw EMOTE: mouse (122)/ : <B>The mouse (122)</B> scritches at something.
+[13:38:20] bNm-alQw EMOTE: mouse (122)/ : <B>The mouse (122)</B> squiks.
+[13:38:31] bNm-alQw EMOTE: Ian/ : <B>Ian</B> chases their tail
+[13:38:43] bNm-alQw SAY: Experiment 97d/ : EHEHEHEHEH
+[13:38:53] bNm-alQw EMOTE: Ian/ : <B>Ian</B> chases their tail
+[13:39:47] bNm-alQw SAY: mouse (100)/ : Squeek!
+[13:40:00] bNm-alQw EMOTE: Coffee/ : <B>Coffee</B> clacks.
+[13:40:22] bNm-alQw SAY: crab/ : ...
+[13:41:18] bNm-alQw ADMIN: Ultimate Shrek Fan/(Woodrow Houser) spawned /obj/item/weapon/rig/hazard at (113,97,3) (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=113;Y=97;Z=3'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x300005d]'>MOB</a>)
+[13:41:47] bNm-alQw EMOTE: Ian/ : <B>Ian</B> shakes its head.
+[13:42:06] bNm-alQw EMOTE: Experiment 68a/ : <B>Experiment 68a</B> clacks.
+[13:42:41] bNm-alQw SAY: mouse (113)/ : SQUEEK!
+[13:42:43] bNm-alQw EMOTE: Ian/ : <B>Ian</B> dances around
+[13:42:45] bNm-alQw DEBUG: Next event of severity Mundane in 14.838 minutes.
+[13:42:45] bNm-alQw DEBUG: Starting event 'Trivial News' of severity Mundane.
+[13:43:08] bNm-alQw DEBUG: Event 'Trivial News' has completed at 13:43.
+[13:43:25] bNm-alQw EMOTE: mouse (110)/ : <B>The mouse (110)</B> squeaks.
+[13:43:54] bNm-alQw EMOTE: Ian/ : <B>Ian</B> chases their tail
+[13:43:58] bNm-alQw EMOTE: Ian/ : <B>Ian</B> dances around
+[13:44:23] bNm-alQw SAY: Ian/ : Woof!
+[13:44:50] bNm-alQw ADMIN: Ultimate Shrek Fan/(Woodrow Houser) spawned /obj/item/weapon/rig/combat at (113,94,3) (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=113;Y=94;Z=3'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x300005d]'>MOB</a>)
+[13:45:06] bNm-alQw EMOTE: Ian/ : <B>Ian</B> dances around
+[13:45:23] bNm-alQw SAY: mouse (115)/ : Squeek!
+[13:45:23] bNm-alQw EMOTE: Experiment 68a/ : <B>Experiment 68a</B> clicks.
+[13:46:06] bNm-alQw EMOTE: Ian/ : <B>Ian</B> dances around
+[13:46:10] bNm-alQw EMOTE: mouse (115)/ : <B>The mouse (115)</B> squeaks.
+[13:46:21] bNm-alQw SAY: crab/ : ...
+[13:46:21] bNm-alQw EMOTE: Coffee/ : <B>Coffee</B> clicks.
+[13:47:00] bNm-alQw ADMIN: Ultimate Shrek Fan/(Woodrow Houser) spawned /obj/item/weapon/rig/military/equipped at (112,95,3) (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=112;Y=95;Z=3'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x300005d]'>MOB</a>)
+[13:47:25] bNm-alQw EMOTE: Runtime/ : <B>Runtime</B> shivers.
+[13:47:27] bNm-alQw EMOTE: mouse (115)/ : <B>The mouse (115)</B> squiks.
+[13:49:12] bNm-alQw SAY: mouse (122)/ : Squeek?
+[13:49:19] bNm-alQw EMOTE: Experiment 97d/ : <B>Experiment 97d</B> shakes its head.
+[13:49:39] bNm-alQw EMOTE: Experiment 68a/ : <B>Experiment 68a</B> clicks.
+[13:50:25] bNm-alQw EMOTE: Ian/ : <B>Ian</B> chases their tail
+[13:50:35] bNm-alQw ADMIN: Ultimate Shrek Fan/(Woodrow Houser) spawned /mob/living/carbon/human/monkey at (136,135,3) (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=136;Y=135;Z=3'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x300005d]'>MOB</a>)
+[13:50:58] bNm-alQw SAY: crab/ : ...
+[13:51:19] bNm-alQw EMOTE: mouse (110)/ : <B>The mouse (110)</B> squeaks.
+[13:51:43] bNm-alQw EMOTE: Experiment 97d/ : <B>Experiment 97d</B> brays.
+[13:52:21] bNm-alQw EMOTE: Ian/ : <B>Ian</B> chases their tail
+[13:52:31] bNm-alQw EMOTE: Experiment 68a/ : <B>Experiment 68a</B> clicks.
+[13:53:15] bNm-alQw EMOTE: mouse (110)/ : <B>The mouse (110)</B> squiks.
+[13:54:04] bNm-alQw SAY: Ian/ : AUUUUUU
+[13:54:37] bNm-alQw EMOTE: mouse (122)/ : <B>The mouse (122)</B> squeeks.
+[13:54:50] bNm-alQw ADMIN: Ultimate Shrek Fan/(Woodrow Houser) spawned /obj/item/weapon/rig/ert/security at (130,126,3) (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=130;Y=126;Z=3'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x300005d]'>MOB</a>)
+[13:54:56] bNm-alQw SAY: Experiment 97d/ : eh?
+[13:55:35] bNm-alQw SAY: Experiment 97d/ : eh?
+[13:55:37] bNm-alQw EMOTE: Ian/ : <B>Ian</B> dances around
+[13:56:00] bNm-alQw EMOTE: Ian/ : <B>Ian</B> chases their tail
+[13:56:04] bNm-alQw EMOTE: mouse (105)/ : <B>The mouse (105)</B> runs in a circle.
+[13:56:10] bNm-alQw EMOTE: Ian/ : <B>Ian</B> chases their tail
+[13:56:13] bNm-alQw ADMIN: Ultimate Shrek Fan/(Woodrow Houser) spawned /obj/item/weapon/rig/ert at (129,124,3) (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=129;Y=124;Z=3'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x300005d]'>MOB</a>)
+[13:56:29] bNm-alQw EMOTE: Runtime/ : <B>Runtime</B> shivers.
+[13:56:58] bNm-alQw EMOTE: crab/ : <B>The crab</B> clicks.
+[13:57:38] bNm-alQw DEBUG: Next event of severity Mundane in 14.074 minutes.
+[13:57:38] bNm-alQw DEBUG: Starting event 'Mundane News' of severity Mundane.
+[13:58:00] bNm-alQw DEBUG: Event 'Mundane News' has completed at 13:58.
+[13:58:02] bNm-alQw ADMIN: Ultimate Shrek Fan/(Woodrow Houser) spawned /obj/item/weapon/rig/light/internalaffairs at (130,124,3) (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=130;Y=124;Z=3'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x300005d]'>MOB</a>)
+[13:58:06] bNm-alQw EMOTE: Experiment 97d/ : <B>Experiment 97d</B> brays.
+[13:59:22] bNm-alQw ADMIN: Ultimate Shrek Fan/(Woodrow Houser) spawned /obj/item/weapon/rig/eva/equipped at (129,123,3) (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=129;Y=123;Z=3'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x300005d]'>MOB</a>)
+[14:00:21] bNm-alQw EMOTE: Coffee/ : <B>Coffee</B> clicks.
+[14:00:44] bNm-alQw EMOTE: Ian/ : <B>Ian</B> barks.
+[14:01:19] bNm-alQw EMOTE: Experiment 68a/ : <B>Experiment 68a</B> clicks.
+[14:01:57] bNm-alQw ADMIN: Ultimate Shrek Fan/(Woodrow Houser) spawned /obj/item/weapon/rig/industrial/equipped at (129,120,3) (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=129;Y=120;Z=3'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x300005d]'>MOB</a>)
+[14:02:21] bNm-alQw ADMIN: Ultimate Shrek Fan/(Woodrow Houser) spawned /obj/item/weapon/rig/merc/empty at (129,119,3) (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=129;Y=119;Z=3'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x300005d]'>MOB</a>)
+[14:02:35] bNm-alQw ADMIN: Ultimate Shrek Fan/(Woodrow Houser) spawned /obj/item/weapon/rig/merc at (128,119,3) (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=128;Y=119;Z=3'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x300005d]'>MOB</a>)
+[14:02:38] bNm-alQw SAY: Runtime/ : HSSSSS
+[14:02:47] bNm-alQw ADMIN: Ultimate Shrek Fan/(Woodrow Houser) spawned /obj/item/weapon/rig/light at (128,120,3) (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=128;Y=120;Z=3'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x300005d]'>MOB</a>)
+[14:03:19] bNm-alQw SAY: Experiment 68a/ : ...
+[14:05:15] bNm-alQw SAY: Experiment 68a/ : ...
+[14:05:25] bNm-alQw EMOTE: Coffee/ : <B>Coffee</B> clicks.
+[14:08:11] bNm-alQw EMOTE: crab/ : <B>The crab</B> clicks.
+[14:08:31] bNm-alQw ADMIN: Ultimate Shrek Fan/(Woodrow Houser) spawned /obj/item/weapon/rig/hazmat at (128,122,3) (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=128;Y=122;Z=3'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x300005d]'>MOB</a>)
+[14:08:42] bNm-alQw SAY: grey baby slime (814)/ : Lonely...
+[14:10:58] bNm-alQw EMOTE: Ian/ : <B>Ian</B> dances around
+[14:11:13] bNm-alQw EMOTE: Experiment 68a/ : <B>Experiment 68a</B> clacks.
+[14:11:42] bNm-alQw DEBUG: Next event of severity Mundane in 16.304 minutes.
+[14:11:42] bNm-alQw DEBUG: Starting event 'Brand Intelligence' of severity Mundane.
+[14:11:46] bNm-alQw DEBUG: Event 'Brand Intelligence' has completed at 14:11.
+[14:12:07] bNm-alQw EMOTE: Ian/ : <B>Ian</B> dances around
+[14:12:48] bNm-alQw SAY: Experiment 68a/ : ...
+[14:13:07] bNm-alQw EMOTE: Experiment 97d/ : <B>Experiment 97d</B> stamps a foot.
+[14:14:03] bNm-alQw SAY: grey baby slime (814)/ : Blorble...
+[14:14:17] bNm-alQw SAY: Experiment 68a/ : ...
+[14:16:40] bNm-alQw EMOTE: Ian/ : <B>Ian</B> chases their tail
+[14:17:24] bNm-alQw SAY: grey baby slime (353)/ : Blop...
+[14:17:28] bNm-alQw EMOTE: Ian/ : <B>Ian</B> barks.
+[14:18:01] bNm-alQw EMOTE: Ian/ : <B>Ian</B> chases their tail
+[14:18:15] bNm-alQw EMOTE: Ian/ : <B>Ian</B> dances around
+[14:19:24] bNm-alQw SAY: Runtime/ : Meow!
+[14:19:50] bNm-alQw EMOTE: crab/ : <B>The crab</B> clicks.
+[14:20:38] bNm-alQw EMOTE: Coffee/ : <B>Coffee</B> clicks.
+[14:21:07] bNm-alQw DEBUG: Next event of severity Moderate in 38.754 minutes.
+[14:21:07] bNm-alQw DEBUG: Starting event 'Nothing' of severity Moderate.
+[14:21:09] bNm-alQw DEBUG: Event 'Nothing' has completed at 14:21.
+[14:21:17] bNm-alQw EMOTE: Ian/ : <B>Ian</B> dances around
+[14:21:59] bNm-alQw EMOTE: Coffee/ : <B>Coffee</B> clicks.
+[14:22:30] bNm-alQw EMOTE: Experiment 97d/ : <B>Experiment 97d</B> glares around.
+[14:23:28] bNm-alQw EMOTE: Ian/ : <B>Ian</B> dances around
+[14:24:18] bNm-alQw EMOTE: Experiment 68a/ : <B>Experiment 68a</B> clicks.
+[14:24:22] bNm-alQw EMOTE: Coffee/ : <B>Coffee</B> clacks.
+[14:25:18] bNm-alQw EMOTE: Runtime/ : <B>Runtime</B> mews.
+[14:26:38] bNm-alQw EMOTE: Experiment 97d/ : <B>Experiment 97d</B> stamps a foot.
+[14:28:01] bNm-alQw DEBUG: Next event of severity Mundane in 17.26 minutes.
+[14:28:01] bNm-alQw DEBUG: Starting event 'Economic News' of severity Mundane.
+[14:28:51] bNm-alQw SAY: Experiment 68a/ : ...
+[14:28:57] bNm-alQw SAY: grey baby slime (814)/ : Blop...
+[14:29:14] bNm-alQw SAY: grey baby slime (814)/ : Blorble...
+[14:31:34] bNm-alQw SAY: grey baby slime (353)/ : Blorble...
+[14:31:36] bNm-alQw EMOTE: Experiment 68a/ : <B>Experiment 68a</B> clicks.
+[14:31:51] bNm-alQw SAY: grey baby slime (353)/ : Rawr...
+[14:34:05] bNm-alQw EMOTE: Ian/ : <B>Ian</B> dances around
+[14:34:05] bNm-alQw SAY: Coffee/ : ...
+[14:34:18] bNm-alQw EMOTE: Ian/ : <B>Ian</B> chases their tail
+[14:34:32] bNm-alQw EMOTE: crab/ : <B>The crab</B> clacks.
+[14:35:05] bNm-alQw SAY: Experiment 97d/ : eh?
+[14:35:12] bNm-alQw DEBUG: Event 'Economic News' has completed at 14:35.
+[14:38:34] bNm-alQw EMOTE: Experiment 68a/ : <B>Experiment 68a</B> clicks.
+[14:38:59] bNm-alQw EMOTE: Experiment 97d/ : <B>Experiment 97d</B> shakes its head.
+[14:39:45] bNm-alQw EMOTE: crab/ : <B>The crab</B> clicks.
+[14:40:04] bNm-alQw ADMIN: Ultimate Shrek Fan/(Woodrow Houser) spawned /obj/item/weapon/rig/industrial/equipped at (130,123,3) (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=130;Y=123;Z=3'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x300005d]'>MOB</a>)
+[14:40:22] bNm-alQw SAY: Runtime/ : HSSSSS
+[14:40:32] bNm-alQw EMOTE: Ian/ : <B>Ian</B> dances around
+[14:40:55] bNm-alQw EMOTE: Experiment 97d/ : <B>Experiment 97d</B> glares around.
+[14:41:18] bNm-alQw EMOTE: Runtime/ : <B>Runtime</B> shakes their head.
+[14:41:24] bNm-alQw SAY: grey baby slime (353)/ : Lonely...
+[14:42:10] bNm-alQw EMOTE: crab/ : <B>The crab</B> clicks.
+[14:42:38] bNm-alQw ADMIN: Ultimate Shrek Fan/(Woodrow Houser) spawned /obj/item/weapon/rig/ce/equipped at (129,121,3) (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=129;Y=121;Z=3'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x300005d]'>MOB</a>)
+[14:42:41] bNm-alQw EMOTE: Experiment 97d/ : <B>Experiment 97d</B> glares around.
+[14:43:02] bNm-alQw ADMIN: Ultimate Shrek Fan/(Woodrow Houser) spawned /obj/item/weapon/rig/hazard/equipped at (129,121,3) (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=129;Y=121;Z=3'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x300005d]'>MOB</a>)
+[14:43:24] bNm-alQw SAY: Experiment 68a/ : ...
+[14:45:18] bNm-alQw DEBUG: Next event of severity Mundane in 14.848 minutes.
+[14:45:18] bNm-alQw DEBUG: Starting event 'Nothing' of severity Mundane.
+[14:45:20] bNm-alQw DEBUG: Event 'Nothing' has completed at 14:45.
+[14:45:22] bNm-alQw SAY: Experiment 97d/ : eh?
+[14:45:24] bNm-alQw SAY: grey baby slime (353)/ : Blorble...
+[14:45:51] bNm-alQw ADMIN: Ultimate Shrek Fan/(Woodrow Houser) spawned /obj/item/weapon/rig/hazmat/equipped at (130,120,3) (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=130;Y=120;Z=3'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x300005d]'>MOB</a>)
+[14:47:04] bNm-alQw EMOTE: crab/ : <B>The crab</B> clicks.
+[14:47:06] bNm-alQw ADMIN: Ultimate Shrek Fan/(Woodrow Houser) spawned /obj/item/weapon/rig/hazmat/equipped at (130,119,3) (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=130;Y=119;Z=3'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x300005d]'>MOB</a>)
+[14:48:18] bNm-alQw EMOTE: Experiment 68a/ : <B>Experiment 68a</B> clacks.
+[14:48:25] bNm-alQw ACCESS: Logout: *no key*/(Woodrow Houser)
+[14:48:25] bNm-alQw ACCESS: Login: Ultimate Shrek Fan/(Woodrow Houser) from 127.0.0.1-1238305795 || BYOND v511
+[14:48:37] bNm-alQw ACCESS: Logout: *no key*/(Woodrow Houser)
+[14:48:37] bNm-alQw ACCESS: Login: Ultimate Shrek Fan/(Woodrow Houser) from 127.0.0.1-1238305795 || BYOND v511
+[14:48:39] bNm-alQw EMOTE: Runtime/ : <B>Runtime</B> mews.
+[14:49:12] bNm-alQw EMOTE: Ian/ : <B>Ian</B> chases their tail
+[14:50:04] bNm-alQw EMOTE: crab/ : <B>The crab</B> clacks.
+[14:50:08] bNm-alQw EMOTE: Ian/ : <B>Ian</B> chases their tail
+[14:51:08] bNm-alQw SAY: Experiment 68a/ : ...
+[14:51:41] bNm-alQw EMOTE: Coffee/ : <B>Coffee</B> clacks.
+[14:53:20] bNm-alQw SAY: grey baby slime (353)/ : Rawr...
+[14:54:04] bNm-alQw SAY: Experiment 97d/ : EHEHEHEHEH
+[14:54:41] bNm-alQw SAY: Runtime/ : Esp!
+[14:56:21] bNm-alQw EMOTE: Ian/ : <B>Ian</B> dances around
+[14:56:25] bNm-alQw DEBUG: Next event of severity Major in 69.788 minutes.
+[14:56:25] bNm-alQw DEBUG: Starting event 'Nothing' of severity Major.
+[14:56:27] bNm-alQw DEBUG: Event 'Nothing' has completed at 14:56.
+[14:56:45] bNm-alQw SAY: Experiment 97d/ : EHEHEHEHEH
+[14:56:50] bNm-alQw EMOTE: Coffee/ : <B>Coffee</B> clicks.
+[14:57:23] bNm-alQw SAY: Experiment 68a/ : ...
+[14:57:41] bNm-alQw EMOTE: Coffee/ : <B>Coffee</B> clicks.
+[14:57:58] bNm-alQw SAY: Experiment 68a/ : ...
+[14:58:10] bNm-alQw SAY: Ian/ : Bark!
+[14:59:54] bNm-alQw DEBUG: Next event of severity Moderate in 49.954 minutes.
+[14:59:54] bNm-alQw DEBUG: Starting event 'Communication Blackout' of severity Moderate.
+[14:59:56] bNm-alQw DEBUG: Event 'Communication Blackout' has completed at 15:00.
+[15:00:11] bNm-alQw DEBUG: Next event of severity Mundane in 17.502 minutes.
+[15:00:11] bNm-alQw DEBUG: Starting event 'Space Dust' of severity Mundane.
+[15:00:12] bNm-alQw EMOTE: Runtime/ : <B>Runtime</B> shivers.
+[15:00:29] bNm-alQw EMOTE: Ian/ : <B>Ian</B> chases their tail
+[15:00:56] bNm-alQw SAY: Ian/ : Bark!
+[15:01:10] bNm-alQw SAY: grey baby slime (814)/ : Blorble...
+[15:01:15] bNm-alQw DEBUG: Event 'Space Dust' has completed at 15:01.
+[15:04:08] bNm-alQw SAY: Experiment 97d/ : eh?
+[15:04:29] bNm-alQw SAY: crab/ : ...
+[15:04:33] bNm-alQw EMOTE: Ian/ : <B>Ian</B> chases their tail
+[15:04:41] bNm-alQw EMOTE: Ian/ : <B>Ian</B> dances around
+[15:05:04] bNm-alQw SAY: Runtime/ : Meow!
+[15:05:04] bNm-alQw EMOTE: crab/ : <B>The crab</B> clacks.
+[15:05:21] bNm-alQw EMOTE: Ian/ : <B>Ian</B> dances around
+[15:06:29] bNm-alQw SAY: Ian/ : AUUUUUU
+[15:08:18] bNm-alQw ACCESS: Logout: Ultimate Shrek Fan/(Woodrow Houser)
+
+
+Starting up. (ID: bNm-aCSd) 23:39.28
+---------------------
+[22:30:00] bNm-aCSd ADMIN: Loading jobban_rank
+[22:30:00] bNm-aCSd ADMIN: jobban_keylist was empty
+[22:30:00] bNm-aCSd ADMIN: Loading Banlist
+[22:30:00] bNm-aCSd DEBUG: Rebuilding Master Controller
+[22:30:00] bNm-aCSd ACCESS: Login: Ultimate Shrek Fan/(Ultimate Shrek Fan) from 127.0.0.1-1238305795 || BYOND v511
+[22:30:00] bNm-aCSd ADMIN: Ultimate Shrek Fan has started the game.
+[22:30:00] bNm-aCSd ACCESS: Logout: *no key*/(Ultimate Shrek Fan)
+[22:30:00] bNm-aCSd ACCESS: Login: Ultimate Shrek Fan/(Woodrow Houser) from 127.0.0.1-1238305795 || BYOND v511
+[22:30:00] bNm-aCSd DEBUG: Next event of severity Mundane in 17.116 minutes.
+[22:30:00] bNm-aCSd DEBUG: Next event of severity Moderate in 42.876 minutes.
+[22:30:00] bNm-aCSd DEBUG: Next event of severity Major in 84.3633 minutes.
+[22:30:00] bNm-aCSd EMOTE: mouse (100)/ : <B>The mouse (100)</B> scritches at something.
+[22:30:16] bNm-aCSd EMOTE: mouse (117)/ : <B>The mouse (117)</B> runs in a circle.
+[22:30:19] bNm-aCSd ADMIN: Ultimate Shrek Fan/(Woodrow Houser) spawned /obj/item/weapon/rig/hazmat/equipped at (122,126,3) (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=122;Y=126;Z=3'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x300005c]'>MOB</a>)
+[22:30:55] bNm-aCSd EMOTE: Runtime/ : <B>Runtime</B> shakes their head.
+[22:30:57] bNm-aCSd EMOTE: mouse (117)/ : <B>The mouse (117)</B> squeaks.
+[22:30:57] bNm-aCSd EMOTE: Experiment 68a/ : <B>Experiment 68a</B> clicks.
+[22:31:12] bNm-aCSd EMOTE: mouse (105)/ : <B>The mouse (105)</B> runs in a circle.
+[22:31:16] bNm-aCSd EMOTE: mouse (121)/ : <B>The mouse (121)</B> shakes.
+[22:31:24] bNm-aCSd EMOTE: mouse (120)/ : <B>The mouse (120)</B> shakes.
+[22:31:43] bNm-aCSd SAY: mouse (105)/ : Squeek?
+[22:31:53] bNm-aCSd EMOTE: Ian/ : <B>Ian</B> chases their tail
+[22:32:41] bNm-aCSd SAY: mouse (104)/ : Squeek?
+[22:32:45] bNm-aCSd EMOTE: mouse (106)/ : <B>The mouse (106)</B> squeaks.
+[22:33:04] bNm-aCSd EMOTE: mouse (101)/ : <B>The mouse (101)</B> shakes.
+[22:33:04] bNm-aCSd EMOTE: Ian/ : <B>Ian</B> dances around
+[22:33:14] bNm-aCSd SAY: mouse (102)/ : SQUEEK!
+[22:33:28] bNm-aCSd SAY: Experiment 97d/ : EHEHEHEHEH
+[22:34:08] bNm-aCSd EMOTE: mouse (123)/ : <B>The mouse (123)</B> runs in a circle.
+[22:34:26] bNm-aCSd EMOTE: crab/ : <B>The crab</B> clacks.
+[22:35:33] bNm-aCSd EMOTE: mouse (106)/ : <B>The mouse (106)</B> squeaks.
+[22:36:10] bNm-aCSd SAY: mouse (123)/ : Squeek!
+[22:36:24] bNm-aCSd EMOTE: Ian/ : <B>Ian</B> chases their tail
+[22:36:33] bNm-aCSd SAY: mouse (122)/ : Squeek!
+[22:37:20] bNm-aCSd EMOTE: mouse (111)/ : <B>The mouse (111)</B> runs in a circle.
+[22:38:37] bNm-aCSd SAY: grey baby slime (789)/ : Blop...
+[22:38:47] bNm-aCSd EMOTE: Ian/ : <B>Ian</B> barks.
+[22:39:27] bNm-aCSd EMOTE: mouse (111)/ : <B>The mouse (111)</B> runs in a circle.
+[22:39:41] bNm-aCSd EMOTE: mouse (115)/ : <B>The mouse (115)</B> squiks.
+[22:39:43] bNm-aCSd EMOTE: mouse (106)/ : <B>The mouse (106)</B> squiks.
+[22:39:43] bNm-aCSd EMOTE: mouse (114)/ : <B>The mouse (114)</B> squeaks.
+[22:40:24] bNm-aCSd SAY: mouse (114)/ : Squeek!
+[22:40:27] bNm-aCSd SAY: Ian/ : AUUUUUU
+[22:40:29] bNm-aCSd SAY: grey baby slime (789)/ : Rawr...
+[22:41:00] bNm-aCSd SAY: grey baby slime (721)/ : Rawr...
+[22:41:12] bNm-aCSd SAY: mouse (111)/ : Squeek!
+[22:41:53] bNm-aCSd EMOTE: Experiment 97d/ : <B>Experiment 97d</B> brays.
+[22:42:14] bNm-aCSd EMOTE: mouse (111)/ : <B>The mouse (111)</B> squiks.
+[22:43:27] bNm-aCSd SAY: Runtime/ : Esp!
+[22:44:00] bNm-aCSd EMOTE: Experiment 68a/ : <B>Experiment 68a</B> clacks.
+[22:45:04] bNm-aCSd EMOTE: mouse (111)/ : <B>The mouse (111)</B> squiks.
+[22:45:06] bNm-aCSd SAY: mouse (111)/ : SQUEEK!
+[22:47:04] bNm-aCSd EMOTE: Experiment 97d/ : <B>Experiment 97d</B> shakes its head.
+[22:47:08] bNm-aCSd DEBUG: Next event of severity Mundane in 13.284 minutes.
+[22:47:08] bNm-aCSd DEBUG: Starting event 'Mundane News' of severity Mundane.
+[22:47:31] bNm-aCSd DEBUG: Event 'Mundane News' has completed at 22:47.
+[22:49:04] bNm-aCSd EMOTE: Experiment 68a/ : <B>Experiment 68a</B> clicks.
+[22:51:39] bNm-aCSd EMOTE: Experiment 97d/ : <B>Experiment 97d</B> stamps a foot.
+[22:52:39] bNm-aCSd EMOTE: Ian/ : <B>Ian</B> barks.
+[22:53:52] bNm-aCSd SAY: Runtime/ : Meow!
+[22:54:35] bNm-aCSd EMOTE: crab/ : <B>The crab</B> clacks.
+[22:54:48] bNm-aCSd EMOTE: Experiment 68a/ : <B>Experiment 68a</B> clacks.
+[22:55:23] bNm-aCSd SAY: grey baby slime (721)/ : Rawr...
+[22:55:28] bNm-aCSd ACCESS: Logout: Ultimate Shrek Fan/(Woodrow Houser)

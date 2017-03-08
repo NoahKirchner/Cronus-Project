@@ -1,0 +1,373 @@
+
+
+Starting up. (ID: bNk-cKQe) 13:47.42
+---------------------
+[13:30:00] bNk-cKQe ADMIN: Loading jobban_rank
+[13:30:00] bNk-cKQe ADMIN: jobban_keylist was empty
+[13:30:00] bNk-cKQe ADMIN: Loading Banlist
+[13:30:00] bNk-cKQe DEBUG: Rebuilding Master Controller
+[13:30:00] bNk-cKQe ACCESS: Login: Ultimate Shrek Fan/(Ultimate Shrek Fan) from 127.0.0.1-1238305795 || BYOND v511
+[13:30:00] bNk-cKQe DEBUG: Runtime in turbolift_map.dm,224: list index out of bounds <A HREF='?src=[0x210075fa];viewruntime=[0x210075fa]'>[view]</A>
+[13:30:00] bNk-cKQe DEBUG: Exodus turbolift map placeholder - Engineering cannot find a component turf at 0,0 on floor 0. Aborting.
+[13:30:00] bNk-cKQe DEBUG: Exodus turbolift map placeholder - Research cannot find a component turf at 0,0 on floor 0. Aborting.
+[13:30:00] bNk-cKQe DEBUG: Exodus turbolift map placeholder - Cargo cannot find a component turf at 0,0 on floor 0. Aborting.
+[13:30:00] bNk-cKQe DEBUG: Exodus turbolift map placeholder - Securiy cannot find a component turf at 0,0 on floor 0. Aborting.
+[13:30:00] bNk-cKQe ADMIN: Ultimate Shrek Fan has started the game.
+[13:30:00] bNk-cKQe ACCESS: Logout: *no key*/(Ultimate Shrek Fan)
+[13:30:00] bNk-cKQe ACCESS: Login: Ultimate Shrek Fan/(Woodrow Houser) from 127.0.0.1-1238305795 || BYOND v511
+[13:30:00] bNk-cKQe DEBUG: Next event of severity Mundane in 16.212 minutes.
+[13:30:00] bNk-cKQe DEBUG: Next event of severity Moderate in 47.392 minutes.
+[13:30:00] bNk-cKQe DEBUG: Next event of severity Major in 90.8033 minutes.
+[13:30:10] bNk-cKQe SAY: mouse (104)/ : Squeek?
+[13:30:10] bNk-cKQe SAY: Runtime/ : HSSSSS
+[13:30:20] bNk-cKQe SAY: mouse (116)/ : SQUEEK!
+[13:30:24] bNk-cKQe EMOTE: mouse (102)/ : <B>The mouse (102)</B> squeeks.
+[13:30:28] bNk-cKQe EMOTE: mouse (112)/ : <B>The mouse (112)</B> squeeks.
+[13:31:03] bNk-cKQe ADMIN: Ultimate Shrek Fan/(Woodrow Houser) jumped to the Operating Theatre 3 (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=130;Y=99;Z=3'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x300005c]'>MOB</a>)
+[13:31:18] bNk-cKQe EMOTE: mouse (123)/ : <B>The mouse (123)</B> shakes.
+[13:31:22] bNk-cKQe SAY: Runtime/ : Esp!
+[13:31:32] bNk-cKQe EMOTE: Experiment 68a/ : <B>Experiment 68a</B> clicks.
+[13:31:45] bNk-cKQe ADMIN: Ultimate Shrek Fan/(Woodrow Houser) spawned /obj/item/weapon/card/emag at (151,100,3) (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=151;Y=100;Z=3'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x300005c]'>MOB</a>)
+[13:31:55] bNk-cKQe ADMIN: Ultimate Shrek Fan/(Woodrow Houser) emagged Medbay. (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=150;Y=100;Z=3'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x300005c]'>MOB</a>)
+[13:31:58] bNk-cKQe ADMIN: Ultimate Shrek Fan/(Woodrow Houser) emagged Medbay. (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=150;Y=94;Z=3'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x300005c]'>MOB</a>)
+[13:32:14] bNk-cKQe SAY: mouse (114)/ : Squeek?
+[13:33:06] bNk-cKQe EMOTE: Experiment 97d/ : <B>Experiment 97d</B> glares around.
+[13:33:37] bNk-cKQe EMOTE: mouse (106)/ : <B>The mouse (106)</B> runs in a circle.
+[13:33:53] bNk-cKQe EMOTE: Ian/ : <B>Ian</B> dances around
+[13:34:17] bNk-cKQe ADMIN: Ultimate Shrek Fan/(Woodrow Houser) jumped to the Engineering Break Room (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=116;Y=96;Z=5'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x300005c]'>MOB</a>)
+[13:34:22] bNk-cKQe EMOTE: mouse (106)/ : <B>The mouse (106)</B> squiks.
+[13:34:24] bNk-cKQe SAY: Coffee/ : ...
+[13:34:37] bNk-cKQe EMOTE: Ian/ : <B>Ian</B> chases their tail
+[13:34:38] bNk-cKQe ADMIN: Ultimate Shrek Fan/(Woodrow Houser) jumped to the Engineering - CE's Office (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=107;Y=100;Z=5'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x300005c]'>MOB</a>)
+[13:34:39] bNk-cKQe SAY: Experiment 68a/ : ...
+[13:34:43] bNk-cKQe EMOTE: Ian/ : <B>Ian</B> chases their tail
+[13:34:45] bNk-cKQe SAY: mouse (106)/ : SQUEEK!
+[13:34:47] bNk-cKQe SAY: Runtime/ : Meow!
+[13:35:23] bNk-cKQe ADMIN: Ultimate Shrek Fan/(Woodrow Houser) jumped to the Operating Theatre 4 (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=137;Y=95;Z=3'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x300005c]'>MOB</a>)
+[13:35:29] bNk-cKQe ADMIN: Ultimate Shrek Fan/(Woodrow Houser) emagged Maintenance Hatch. (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=137;Y=98;Z=3'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x300005c]'>MOB</a>)
+[13:35:37] bNk-cKQe EMOTE: mouse (120)/ : <B>The mouse (120)</B> squeeks.
+[13:35:37] bNk-cKQe EMOTE: mouse (121)/ : <B>The mouse (121)</B> squiks.
+[13:35:51] bNk-cKQe SAY: Runtime/ : Meow!
+[13:36:06] bNk-cKQe EMOTE: mouse (102)/ : <B>The mouse (102)</B> squiks.
+[13:37:06] bNk-cKQe SAY: mouse (102)/ : SQUEEK!
+[13:37:08] bNk-cKQe SAY: grey baby slime (44)/ : Lonely...
+[13:38:04] bNk-cKQe SAY: grey baby slime (44)/ : Blorble...
+[13:39:24] bNk-cKQe EMOTE: Coffee/ : <B>Coffee</B> clicks.
+[13:40:22] bNk-cKQe SAY: Runtime/ : Meow!
+[13:40:56] bNk-cKQe EMOTE: mouse (121)/ : <B>The mouse (121)</B> runs in a circle.
+[13:41:18] bNk-cKQe SAY: Ian/ : Bark!
+[13:41:45] bNk-cKQe EMOTE: mouse (121)/ : <B>The mouse (121)</B> squeeks.
+[13:41:54] bNk-cKQe ADMIN: Ultimate Shrek Fan/(Woodrow Houser) spawned /obj/machinery/atmospherics/pipe/simple/hidden/cyan at (184,75,3) (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=184;Y=75;Z=3'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x300005c]'>MOB</a>)
+[13:41:58] bNk-cKQe EMOTE: mouse (121)/ : <B>The mouse (121)</B> squeaks.
+[13:42:02] bNk-cKQe SAY: mouse (100)/ : Squeek!
+[13:42:04] bNk-cKQe EMOTE: Ian/ : <B>Ian</B> dances around
+[13:42:08] bNk-cKQe EMOTE: Coffee/ : <B>Coffee</B> clicks.
+[13:42:33] bNk-cKQe EMOTE: crab/ : <B>The crab</B> clicks.
+[13:42:35] bNk-cKQe EMOTE: mouse (100)/ : <B>The mouse (100)</B> shakes.
+[13:42:54] bNk-cKQe EMOTE: mouse (100)/ : <B>The mouse (100)</B> scritches at something.
+[13:43:06] bNk-cKQe EMOTE: Coffee/ : <B>Coffee</B> clicks.
+[13:43:29] bNk-cKQe EMOTE: Runtime/ : <B>Runtime</B> mews.
+[13:44:45] bNk-cKQe EMOTE: Experiment 97d/ : <B>Experiment 97d</B> glares around.
+[13:45:07] bNk-cKQe ADMIN: Ultimate Shrek Fan/(Woodrow Houser) turned on the emitter (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=181;Y=69;Z=3'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x300005c]'>MOB</a>)
+[13:45:12] bNk-cKQe EMOTE: Experiment 68a/ : <B>Experiment 68a</B> clicks.
+[13:45:14] bNk-cKQe ADMIN: Ultimate Shrek Fan/(Woodrow Houser) turned off the emitter (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=181;Y=69;Z=3'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x300005c]'>MOB</a>)
+[13:45:25] bNk-cKQe SAY: mouse (100)/ : Squeek?
+[13:45:58] bNk-cKQe EMOTE: Ian/ : <B>Ian</B> dances around
+[13:46:12] bNk-cKQe DEBUG: Next event of severity Mundane in 12.228 minutes.
+[13:46:12] bNk-cKQe DEBUG: Starting event 'Vermin Infestation' of severity Mundane.
+[13:46:15] bNk-cKQe ADMIN: EVENT Vermin infestation spawned (lizards x2) in Supply Shuttle (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=145;Y=131;Z=6'>LOC</a>)
+[13:46:37] bNk-cKQe EMOTE: crab/ : <B>The crab</B> clicks.
+[13:46:37] bNk-cKQe DEBUG: Event 'Vermin Infestation' has completed at 13:47.
+[13:47:09] bNk-cKQe ADMIN: Ultimate Shrek Fan/(Woodrow Houser) modified power storage unit's use_power from '0' to '1' (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=187;Y=78;Z=3'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x300005c]'>MOB</a>)
+[13:47:12] bNk-cKQe EMOTE: Ian/ : <B>Ian</B> woofs.
+[13:48:09] bNk-cKQe ADMIN: Ultimate Shrek Fan/(Woodrow Houser) spawned /obj/item/clothing/gloves/insulated at (186,75,3) (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=186;Y=75;Z=3'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x300005c]'>MOB</a>)
+[13:48:16] bNk-cKQe EMOTE: Ian/ : <B>Ian</B> chases their tail
+[13:50:43] bNk-cKQe ADMIN: Ultimate Shrek Fan/(Woodrow Houser) modified power storage unit's active_power_usage from '0' to '1' (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=187;Y=78;Z=3'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x300005c]'>MOB</a>)
+[13:52:06] bNk-cKQe SAY: mouse (121)/ : SQUEEK!
+[13:52:37] bNk-cKQe ADMIN: Ultimate Shrek Fan/(Woodrow Houser) modified power storage unit's interact_offline from '0' to '1' (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=187;Y=78;Z=3'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x300005c]'>MOB</a>)
+[13:52:41] bNk-cKQe ADMIN: Ultimate Shrek Fan/(Woodrow Houser) modified power storage unit's in_use from '0' to '1' (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=187;Y=78;Z=3'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x300005c]'>MOB</a>)
+[13:52:58] bNk-cKQe EMOTE: Ian/ : <B>Ian</B> dances around
+[13:53:29] bNk-cKQe ACCESS: Logout: Ultimate Shrek Fan/(Woodrow Houser)
+
+
+Starting up. (ID: bNk-cSFu) 14:38.12
+---------------------
+[03:30:00] bNk-cSFu ADMIN: Loading jobban_rank
+[03:30:00] bNk-cSFu ADMIN: jobban_keylist was empty
+[03:30:00] bNk-cSFu ADMIN: Loading Banlist
+[03:30:00] bNk-cSFu DEBUG: Rebuilding Master Controller
+[03:30:00] bNk-cSFu ACCESS: Login: Ultimate Shrek Fan/(Ultimate Shrek Fan) from 127.0.0.1-1238305795 || BYOND v511
+[03:30:00] bNk-cSFu DEBUG: Runtime in turbolift_map.dm,224: list index out of bounds <A HREF='?src=[0x2100759e];viewruntime=[0x2100759e]'>[view]</A>
+[03:30:00] bNk-cSFu DEBUG: Exodus turbolift map placeholder - Engineering cannot find a component turf at 0,0 on floor 0. Aborting.
+[03:30:00] bNk-cSFu DEBUG: Exodus turbolift map placeholder - Research cannot find a component turf at 0,0 on floor 0. Aborting.
+[03:30:00] bNk-cSFu DEBUG: Exodus turbolift map placeholder - Cargo cannot find a component turf at 0,0 on floor 0. Aborting.
+[03:30:00] bNk-cSFu DEBUG: Exodus turbolift map placeholder - Securiy cannot find a component turf at 0,0 on floor 0. Aborting.
+[03:30:00] bNk-cSFu ADMIN: Ultimate Shrek Fan has started the game.
+[03:30:00] bNk-cSFu ACCESS: Logout: *no key*/(Ultimate Shrek Fan)
+[03:30:00] bNk-cSFu ACCESS: Login: Ultimate Shrek Fan/(Woodrow Houser) from 127.0.0.1-1238305795 || BYOND v511
+[03:30:00] bNk-cSFu DEBUG: Next event of severity Mundane in 17.35 minutes.
+[03:30:00] bNk-cSFu DEBUG: Next event of severity Moderate in 41.396 minutes.
+[03:30:00] bNk-cSFu DEBUG: Next event of severity Major in 82.5217 minutes.
+[03:30:36] bNk-cSFu EMOTE: mouse (100)/ : <B>The mouse (100)</B> squeaks.
+[03:30:59] bNk-cSFu EMOTE: mouse (114)/ : <B>The mouse (114)</B> scritches at something.
+[03:31:24] bNk-cSFu SAY: mouse (111)/ : Squeek?
+[03:31:29] bNk-cSFu ADMIN: Ultimate Shrek Fan/(Woodrow Houser) jumped to the Central Primary Hallway (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=178;Y=92;Z=3'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x300005a]'>MOB</a>)
+[03:31:46] bNk-cSFu EMOTE: mouse (113)/ : <B>The mouse (113)</B> squeeks.
+[03:32:24] bNk-cSFu EMOTE: mouse (107)/ : <B>The mouse (107)</B> scritches at something.
+[03:33:07] bNk-cSFu EMOTE: Runtime/ : <B>Runtime</B> shakes their head.
+[03:33:53] bNk-cSFu EMOTE: Ian/ : <B>Ian</B> chases their tail
+[03:34:01] bNk-cSFu SAY: Runtime/ : Purr!
+[03:34:07] bNk-cSFu EMOTE: mouse (101)/ : <B>The mouse (101)</B> runs in a circle.
+[03:34:16] bNk-cSFu ACCESS: Logout: Ultimate Shrek Fan/(Woodrow Houser)
+
+
+Starting up. (ID: bNk-cWWO) 15:05.39
+---------------------
+[08:30:00] bNk-cWWO ADMIN: Loading jobban_rank
+[08:30:00] bNk-cWWO ADMIN: jobban_keylist was empty
+[08:30:00] bNk-cWWO ADMIN: Loading Banlist
+[08:30:00] bNk-cWWO DEBUG: Rebuilding Master Controller
+[08:30:00] bNk-cWWO ACCESS: Login: Ultimate Shrek Fan/(Ultimate Shrek Fan) from 127.0.0.1-1238305795 || BYOND v511
+[08:30:00] bNk-cWWO DEBUG: Runtime in turbolift_map.dm,224: list index out of bounds <A HREF='?src=[0x210074f8];viewruntime=[0x210074f8]'>[view]</A>
+[08:30:00] bNk-cWWO DEBUG: Exodus turbolift map placeholder - Engineering cannot find a component turf at 0,0 on floor 0. Aborting.
+[08:30:00] bNk-cWWO DEBUG: Exodus turbolift map placeholder - Research cannot find a component turf at 0,0 on floor 0. Aborting.
+[08:30:00] bNk-cWWO DEBUG: Exodus turbolift map placeholder - Cargo cannot find a component turf at 0,0 on floor 0. Aborting.
+[08:30:00] bNk-cWWO DEBUG: Exodus turbolift map placeholder - Securiy cannot find a component turf at 0,0 on floor 0. Aborting.
+[08:30:00] bNk-cWWO ADMIN: Ultimate Shrek Fan has started the game.
+[08:30:00] bNk-cWWO ACCESS: Logout: *no key*/(Ultimate Shrek Fan)
+[08:30:00] bNk-cWWO ACCESS: Login: Ultimate Shrek Fan/(Woodrow Houser) from 127.0.0.1-1238305795 || BYOND v511
+[08:30:00] bNk-cWWO DEBUG: Next event of severity Mundane in 17.38 minutes.
+[08:30:00] bNk-cWWO DEBUG: Next event of severity Moderate in 46.478 minutes.
+[08:30:00] bNk-cWWO DEBUG: Next event of severity Major in 99.48 minutes.
+[08:30:03] bNk-cWWO SAY: Coffee/ : ...
+[08:30:06] bNk-cWWO EMOTE: Tom/ : <B>Tom</B> runs in a circle.
+[08:30:14] bNk-cWWO SAY: Experiment 97d/ : eh?
+[08:30:14] bNk-cWWO EMOTE: mouse (119)/ : <B>The mouse (119)</B> squeeks.
+[08:30:20] bNk-cWWO SAY: mouse (115)/ : Squeek?
+[08:30:26] bNk-cWWO SAY: mouse (100)/ : SQUEEK!
+[08:31:12] bNk-cWWO EMOTE: mouse (113)/ : <B>The mouse (113)</B> runs in a circle.
+[08:31:14] bNk-cWWO SAY: grey baby slime (63)/ : Lonely...
+[08:31:20] bNk-cWWO EMOTE: mouse (112)/ : <B>The mouse (112)</B> squeeks.
+[08:31:41] bNk-cWWO EMOTE: mouse (103)/ : <B>The mouse (103)</B> squeaks.
+[08:31:45] bNk-cWWO EMOTE: mouse (112)/ : <B>The mouse (112)</B> shakes.
+[08:31:49] bNk-cWWO EMOTE: mouse (105)/ : <B>The mouse (105)</B> scritches at something.
+[08:31:49] bNk-cWWO EMOTE: Ian/ : <B>Ian</B> chases their tail
+[08:31:57] bNk-cWWO EMOTE: mouse (113)/ : <B>The mouse (113)</B> squeeks.
+[08:32:41] bNk-cWWO SAY: Runtime/ : HSSSSS
+[08:32:45] bNk-cWWO EMOTE: mouse (121)/ : <B>The mouse (121)</B> scritches at something.
+[08:32:47] bNk-cWWO EMOTE: mouse (112)/ : <B>The mouse (112)</B> squiks.
+[08:32:49] bNk-cWWO EMOTE: Coffee/ : <B>Coffee</B> clicks.
+[08:32:57] bNk-cWWO EMOTE: mouse (112)/ : <B>The mouse (112)</B> runs in a circle.
+[08:33:06] bNk-cWWO EMOTE: mouse (119)/ : <B>The mouse (119)</B> squiks.
+[08:33:12] bNk-cWWO SAY: mouse (115)/ : Squeek!
+[08:33:12] bNk-cWWO EMOTE: mouse (125)/ : <B>The mouse (125)</B> runs in a circle.
+[08:33:16] bNk-cWWO SAY: mouse (112)/ : Squeek?
+[08:33:22] bNk-cWWO SAY: mouse (106)/ : Squeek!
+[08:33:30] bNk-cWWO ADMIN: Ultimate Shrek Fan/(Woodrow Houser) jumped to the Central Primary Hallway (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=122;Y=92;Z=3'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x300005c]'>MOB</a>)
+[08:34:20] bNk-cWWO SAY: mouse (119)/ : Squeek!
+[08:34:22] bNk-cWWO EMOTE: mouse (106)/ : <B>The mouse (106)</B> scritches at something.
+[08:34:26] bNk-cWWO EMOTE: mouse (115)/ : <B>The mouse (115)</B> squeaks.
+[08:34:29] bNk-cWWO SAY: Coffee/ : ...
+[08:34:39] bNk-cWWO EMOTE: Runtime/ : <B>Runtime</B> mews.
+[08:35:14] bNk-cWWO ADMIN: Ultimate Shrek Fan/(Woodrow Houser) jumped to the Engineering Foyer (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=110;Y=94;Z=5'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x300005c]'>MOB</a>)
+[08:35:59] bNk-cWWO ADMIN: Ultimate Shrek Fan/(Woodrow Houser) jumped to the Engine Monitoring Room (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=113;Y=75;Z=5'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x300005c]'>MOB</a>)
+[08:36:02] bNk-cWWO EMOTE: Ian/ : <B>Ian</B> chases their tail
+[08:36:31] bNk-cWWO ADMIN: Ultimate Shrek Fan/(Woodrow Houser) jumped to the Central Primary Hallway (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=125;Y=113;Z=5'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x300005c]'>MOB</a>)
+[08:36:35] bNk-cWWO SAY: Experiment 97d/ : eh?
+[08:36:41] bNk-cWWO EMOTE: mouse (107)/ : <B>The mouse (107)</B> squeeks.
+[08:36:42] bNk-cWWO ADMIN: Ultimate Shrek Fan/(Woodrow Houser) jumped to the Engine Room (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=112;Y=60;Z=5'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x300005c]'>MOB</a>)
+[08:36:51] bNk-cWWO ADMIN: Ultimate Shrek Fan/(Woodrow Houser) jumped to Supply Shuttle (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=86;Y=91;Z=2'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x300005c]'>MOB</a>)
+[08:37:00] bNk-cWWO EMOTE: mouse (106)/ : <B>The mouse (106)</B> shakes.
+[08:37:06] bNk-cWWO EMOTE: mouse (107)/ : <B>The mouse (107)</B> squiks.
+[08:37:12] bNk-cWWO ADMIN: Ultimate Shrek Fan/(Woodrow Houser) jumped to the Operating Theatre 4 (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=137;Y=96;Z=3'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x300005c]'>MOB</a>)
+[08:37:19] bNk-cWWO ADMIN: Ultimate Shrek Fan/(Woodrow Houser) spawned /obj/item/weapon/card/emag_broken at (137,96,3) (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=137;Y=96;Z=3'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x300005c]'>MOB</a>)
+[08:37:24] bNk-cWWO SAY: mouse (125)/ : SQUEEK!
+[08:37:25] bNk-cWWO ADMIN: Ultimate Shrek Fan/(Woodrow Houser) spawned /obj/item/weapon/card/emag at (137,96,3) (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=137;Y=96;Z=3'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x300005c]'>MOB</a>)
+[08:37:33] bNk-cWWO ADMIN: Ultimate Shrek Fan/(Woodrow Houser) emagged Maintenance Hatch. (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=137;Y=99;Z=3'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x300005c]'>MOB</a>)
+[08:37:39] bNk-cWWO EMOTE: Tom/ : <B>Tom</B> shakes.
+[08:37:41] bNk-cWWO ADMIN: Ultimate Shrek Fan/(Woodrow Houser) emagged Medbay. (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=150;Y=98;Z=3'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x300005c]'>MOB</a>)
+[08:37:42] bNk-cWWO ADMIN: Ultimate Shrek Fan/(Woodrow Houser) emagged Medbay. (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=150;Y=94;Z=3'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x300005c]'>MOB</a>)
+[08:37:51] bNk-cWWO EMOTE: mouse (125)/ : <B>The mouse (125)</B> runs in a circle.
+[08:39:16] bNk-cWWO EMOTE: Experiment 97d/ : <B>Experiment 97d</B> brays.
+[08:39:27] bNk-cWWO EMOTE: Experiment 97d/ : <B>Experiment 97d</B> brays.
+[08:39:39] bNk-cWWO EMOTE: Ian/ : <B>Ian</B> barks.
+[08:39:43] bNk-cWWO ADMIN: Ultimate Shrek Fan/(Woodrow Houser) spawned /obj/machinery/atmospherics/pipe/simple/hidden/cyan at (184,76,3) (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=184;Y=76;Z=3'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x300005c]'>MOB</a>)
+[08:40:04] bNk-cWWO ADMIN: Ultimate Shrek Fan/(Woodrow Houser) spawned /obj/machinery/atmospherics/pipe/simple/hidden/cyan at (185,75,3) (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=185;Y=75;Z=3'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x300005c]'>MOB</a>)
+[08:40:39] bNk-cWWO EMOTE: mouse (121)/ : <B>The mouse (121)</B> scritches at something.
+[08:40:49] bNk-cWWO SAY: Experiment 97d/ : eh?
+[08:41:20] bNk-cWWO EMOTE: mouse (121)/ : <B>The mouse (121)</B> squeeks.
+[08:42:58] bNk-cWWO SAY: mouse (121)/ : Squeek?
+[08:43:10] bNk-cWWO ADMIN: Ultimate Shrek Fan/(Woodrow Houser) turned on the emitter (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=181;Y=69;Z=3'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x300005c]'>MOB</a>)
+[08:43:15] bNk-cWWO ADMIN: Ultimate Shrek Fan/(Woodrow Houser) turned off the emitter (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=181;Y=69;Z=3'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x300005c]'>MOB</a>)
+[08:44:28] bNk-cWWO ADMIN: Ultimate Shrek Fan/(Woodrow Houser) turned on the emitter (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=184;Y=70;Z=3'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x300005c]'>MOB</a>)
+[08:44:55] bNk-cWWO ADMIN: Ultimate Shrek Fan/(Woodrow Houser) turned off the emitter (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=181;Y=70;Z=3'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x300005c]'>MOB</a>)
+[08:44:55] bNk-cWWO ADMIN: Ultimate Shrek Fan/(Woodrow Houser) turned on the emitter (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=181;Y=70;Z=3'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x300005c]'>MOB</a>)
+[08:45:02] bNk-cWWO EMOTE: mouse (119)/ : <B>The mouse (119)</B> squeaks.
+[08:45:06] bNk-cWWO ADMIN: Ultimate Shrek Fan/(Woodrow Houser) healed / revived <a href='?priv_msg=[0x5000000]'>Ultimate Shrek Fan</a>/(Woodrow Houser)! (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=181;Y=70;Z=3'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x300005c]'>MOB</a>)
+[08:45:12] bNk-cWWO EMOTE: mouse (116)/ : <B>The mouse (116)</B> runs in a circle.
+[08:45:33] bNk-cWWO SAY: Runtime/ : Meow!
+[08:45:33] bNk-cWWO SAY: mouse (121)/ : SQUEEK!
+[08:46:12] bNk-cWWO ADMIN: Ultimate Shrek Fan/(Woodrow Houser) has possessed Blast Door (/obj/machinery/door/blast/regular) at (187, 71, 3)
+[08:46:23] bNk-cWWO EMOTE: mouse (122)/ : <B>The mouse (122)</B> squeeks.
+[08:46:25] bNk-cWWO EMOTE: Ian/ : <B>Ian</B> dances around
+[08:46:25] bNk-cWWO EMOTE: crab/ : <B>The crab</B> clacks.
+[08:46:39] bNk-cWWO DEBUG: Moved - Supermatter Monitor was deleted while still listening to the station intercom (General).
+[08:46:58] bNk-cWWO DEBUG: Moved - Supermatter Monitor was deleted while still listening to the station intercom (General).
+[08:47:16] bNk-cWWO DEBUG: Moved - Supermatter Monitor was deleted while still listening to the station intercom (General).
+[08:47:23] bNk-cWWO DEBUG: Next event of severity Mundane in 12.474 minutes.
+[08:47:23] bNk-cWWO DEBUG: Starting event 'Space Dust' of severity Mundane.
+[08:47:29] bNk-cWWO EMOTE: Ian/ : <B>Ian</B> chases their tail
+[08:47:35] bNk-cWWO DEBUG: Moved - Supermatter Monitor was deleted while still listening to the station intercom (General).
+[08:47:54] bNk-cWWO DEBUG: Moved - Supermatter Monitor was deleted while still listening to the station intercom (General).
+[08:47:59] bNk-cWWO ACCESS: Logout: *no key*/(Woodrow Houser)
+[08:47:59] bNk-cWWO ACCESS: Login: Ultimate Shrek Fan/(Woodrow Houser) from 127.0.0.1-1238305795 || BYOND v511
+[08:48:06] bNk-cWWO ADMIN: Ultimate Shrek Fan/(Woodrow Houser) has possessed Blast Door (/obj/machinery/door/blast/regular) at (188, 67, 3)
+[08:48:06] bNk-cWWO SAY: mouse (100)/ : Squeek!
+[08:48:12] bNk-cWWO DEBUG: Moved - Supermatter Monitor was deleted while still listening to the station intercom (General).
+[08:48:27] bNk-cWWO DEBUG: Event 'Space Dust' has completed at 08:48.
+[08:48:29] bNk-cWWO ADMIN: Ultimate Shrek Fan/(Woodrow Houser) deleted Supermatter at (188,69,3)
+[08:48:31] bNk-cWWO DEBUG: Moved - Supermatter Monitor was deleted while still listening to the station intercom (General).
+[08:48:42] bNk-cWWO ACCESS: Logout: *no key*/(Woodrow Houser)
+[08:48:42] bNk-cWWO ACCESS: Login: Ultimate Shrek Fan/(Woodrow Houser) from 127.0.0.1-1238305795 || BYOND v511
+[08:48:50] bNk-cWWO DEBUG: Moved - Supermatter Monitor was deleted while still listening to the station intercom (General).
+[08:48:50] bNk-cWWO DEBUG: Moved - Supermatter Monitor was deleted while still listening to the station intercom (General).
+[08:49:00] bNk-cWWO ACCESS: Logout: *no key*/(Woodrow Houser)
+[08:49:00] bNk-cWWO ACCESS: Login: Ultimate Shrek Fan/(Woodrow Houser) from 127.0.0.1-1238305795 || BYOND v511
+[08:49:02] bNk-cWWO EMOTE: Ian/ : <B>Ian</B> dances around
+[08:49:02] bNk-cWWO DEBUG: Moved - Supermatter Monitor was deleted while still listening to the station intercom (General).
+[08:49:05] bNk-cWWO ADMIN: Ultimate Shrek Fan/(Woodrow Houser) deleted Supermatter at (188,69,3)
+[08:49:15] bNk-cWWO DEBUG: Moved - Supermatter Monitor was deleted while still listening to the station intercom (General).
+[08:49:17] bNk-cWWO DEBUG: Moved - Supermatter Monitor was deleted while still listening to the station intercom (General).
+[08:49:17] bNk-cWWO ADMIN: EVENT Supermatter delaminating at 113 61 5
+[08:49:35] bNk-cWWO EMOTE: Experiment 68a/ : <B>Experiment 68a</B> clacks.
+[08:49:35] bNk-cWWO ADMIN: Ultimate Shrek Fan/(Woodrow Houser) initiated a reboot.
+[08:49:39] bNk-cWWO SAY: mouse (100)/ : Squeek!
+[08:49:40] bNk-cWWO ACCESS: Logout: Ultimate Shrek Fan/(Woodrow Houser)
+
+
+Starting up. (ID: bNk-c4io) 15:46.25
+---------------------
+[22:30:00] bNk-c4io ADMIN: Loading jobban_rank
+[22:30:00] bNk-c4io ADMIN: jobban_keylist was empty
+[22:30:00] bNk-c4io ADMIN: Loading Banlist
+[22:30:00] bNk-c4io DEBUG: Rebuilding Master Controller
+[22:30:00] bNk-c4io ACCESS: Login: Ultimate Shrek Fan/(Ultimate Shrek Fan) from 127.0.0.1-1238305795 || BYOND v511
+[22:30:00] bNk-c4io DEBUG: Runtime in turbolift_map.dm,224: list index out of bounds <A HREF='?src=[0x21007585];viewruntime=[0x21007585]'>[view]</A>
+[22:30:00] bNk-c4io ADMIN: Ultimate Shrek Fan has started the game.
+[22:30:00] bNk-c4io DEBUG: Exodus turbolift map placeholder - Engineering cannot find a component turf at 0,0 on floor 0. Aborting.
+[22:30:00] bNk-c4io DEBUG: Exodus turbolift map placeholder - Research cannot find a component turf at 0,0 on floor 0. Aborting.
+[22:30:00] bNk-c4io DEBUG: Exodus turbolift map placeholder - Cargo cannot find a component turf at 0,0 on floor 0. Aborting.
+[22:30:00] bNk-c4io DEBUG: Exodus turbolift map placeholder - Securiy cannot find a component turf at 0,0 on floor 0. Aborting.
+[22:30:00] bNk-c4io ACCESS: Logout: *no key*/(Ultimate Shrek Fan)
+[22:30:00] bNk-c4io ACCESS: Login: Ultimate Shrek Fan/(Woodrow Houser) from 127.0.0.1-1238305795 || BYOND v511
+[22:30:00] bNk-c4io DEBUG: Next event of severity Mundane in 16.362 minutes.
+[22:30:00] bNk-c4io DEBUG: Next event of severity Moderate in 36.782 minutes.
+[22:30:00] bNk-c4io DEBUG: Next event of severity Major in 96.945 minutes.
+[22:30:06] bNk-c4io EMOTE: mouse (103)/ : <B>The mouse (103)</B> shakes.
+[22:30:18] bNk-c4io EMOTE: mouse (104)/ : <B>The mouse (104)</B> scritches at something.
+[22:30:20] bNk-c4io EMOTE: Experiment 68a/ : <B>Experiment 68a</B> clicks.
+[22:30:43] bNk-c4io EMOTE: mouse (125)/ : <B>The mouse (125)</B> squiks.
+[22:31:01] bNk-c4io SAY: mouse (110)/ : SQUEEK!
+[22:31:06] bNk-c4io ADMIN: Ultimate Shrek Fan/(Woodrow Houser) jumped to the Central Primary Hallway (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=180;Y=80;Z=3'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x300005e]'>MOB</a>)
+[22:32:01] bNk-c4io EMOTE: mouse (117)/ : <B>The mouse (117)</B> runs in a circle.
+[22:32:24] bNk-c4io EMOTE: Runtime/ : <B>Runtime</B> shakes their head.
+[22:32:24] bNk-c4io EMOTE: mouse (108)/ : <B>The mouse (108)</B> squeaks.
+[22:32:26] bNk-c4io EMOTE: mouse (125)/ : <B>The mouse (125)</B> squeeks.
+[22:33:10] bNk-c4io EMOTE: Ian/ : <B>Ian</B> chases their tail
+[22:33:35] bNk-c4io EMOTE: mouse (107)/ : <B>The mouse (107)</B> squeaks.
+[22:34:01] bNk-c4io ADMIN: Ultimate Shrek Fan/(Woodrow Houser) has possessed Blast Door (/obj/machinery/door/blast/regular) at (187, 71, 3)
+[22:34:02] bNk-c4io EMOTE: Ian/ : <B>Ian</B> dances around
+[22:34:30] bNk-c4io SAY: mouse (114)/ : SQUEEK!
+[22:34:45] bNk-c4io EMOTE: mouse (117)/ : <B>The mouse (117)</B> scritches at something.
+[22:34:53] bNk-c4io EMOTE: Experiment 68a/ : <B>Experiment 68a</B> clacks.
+[22:34:55] bNk-c4io SAY: Coffee/ : ...
+[22:35:02] bNk-c4io EMOTE: Experiment 68a/ : <B>Experiment 68a</B> clicks.
+[22:35:10] bNk-c4io EMOTE: Ian/ : <B>Ian</B> dances around
+[22:35:31] bNk-c4io EMOTE: mouse (116)/ : <B>The mouse (116)</B> scritches at something.
+[22:36:36] bNk-c4io ADMIN: Ultimate Shrek Fan/(Woodrow Houser) turned on the emitter (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=181;Y=69;Z=3'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x300005e]'>MOB</a>)
+[22:36:36] bNk-c4io ADMIN: Ultimate Shrek Fan/(Woodrow Houser) turned on the emitter (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=181;Y=69;Z=3'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x300005e]'>MOB</a>)
+[22:36:49] bNk-c4io EMOTE: Ian/ : <B>Ian</B> shakes its head.
+[22:37:04] bNk-c4io ADMIN: Ultimate Shrek Fan/(Woodrow Houser) turned off the emitter (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=181;Y=69;Z=3'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x300005e]'>MOB</a>)
+[22:37:04] bNk-c4io ADMIN: Ultimate Shrek Fan/(Woodrow Houser) turned off the emitter (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=181;Y=69;Z=3'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x300005e]'>MOB</a>)
+[22:37:22] bNk-c4io EMOTE: mouse (112)/ : <B>The mouse (112)</B> shakes.
+[22:37:43] bNk-c4io SAY: mouse (112)/ : Squeek?
+[22:38:45] bNk-c4io EMOTE: mouse (123)/ : <B>The mouse (123)</B> squiks.
+[22:39:08] bNk-c4io SAY: mouse (116)/ : Squeek?
+[22:39:10] bNk-c4io SAY: Coffee/ : ...
+[22:39:31] bNk-c4io SAY: Ian/ : Bark!
+[22:39:39] bNk-c4io SAY: crab/ : ...
+[22:39:55] bNk-c4io EMOTE: mouse (117)/ : <B>The mouse (117)</B> squeeks.
+[22:40:02] bNk-c4io SAY: mouse (117)/ : Squeek?
+[22:40:08] bNk-c4io EMOTE: Ian/ : <B>Ian</B> dances around
+[22:40:16] bNk-c4io SAY: mouse (124)/ : Squeek?
+[22:40:29] bNk-c4io SAY: Runtime/ : Esp!
+[22:40:31] bNk-c4io SAY: Experiment 68a/ : ...
+[22:40:36] bNk-c4io ACCESS: Logout: Ultimate Shrek Fan/(Woodrow Houser)
+
+
+Starting up. (ID: bNk-deio) 16:57.14
+---------------------
+[13:30:00] bNk-deio ADMIN: Loading jobban_rank
+[13:30:00] bNk-deio ADMIN: jobban_keylist was empty
+[13:30:00] bNk-deio ADMIN: Loading Banlist
+[13:30:00] bNk-deio DEBUG: Rebuilding Master Controller
+[13:30:00] bNk-deio ACCESS: Login: Ultimate Shrek Fan/(Ultimate Shrek Fan) from 127.0.0.1-1238305795 || BYOND v511
+[13:30:00] bNk-deio DEBUG: Runtime in turbolift_map.dm,224: list index out of bounds <A HREF='?src=[0x21007718];viewruntime=[0x21007718]'>[view]</A>
+[13:30:00] bNk-deio DEBUG: Exodus turbolift map placeholder - Engineering cannot find a component turf at 0,0 on floor 0. Aborting.
+[13:30:00] bNk-deio DEBUG: Exodus turbolift map placeholder - Research cannot find a component turf at 0,0 on floor 0. Aborting.
+[13:30:00] bNk-deio DEBUG: Exodus turbolift map placeholder - Cargo cannot find a component turf at 0,0 on floor 0. Aborting.
+[13:30:00] bNk-deio DEBUG: Exodus turbolift map placeholder - Securiy cannot find a component turf at 0,0 on floor 0. Aborting.
+[13:30:00] bNk-deio ADMIN: Ultimate Shrek Fan has started the game.
+[13:30:00] bNk-deio ACCESS: Logout: *no key*/(Ultimate Shrek Fan)
+[13:30:00] bNk-deio ACCESS: Login: Ultimate Shrek Fan/(Woodrow Houser) from 127.0.0.1-1238305795 || BYOND v511
+[13:30:00] bNk-deio DEBUG: Next event of severity Mundane in 17.996 minutes.
+[13:30:00] bNk-deio DEBUG: Next event of severity Moderate in 47.088 minutes.
+[13:30:00] bNk-deio DEBUG: Next event of severity Major in 85.735 minutes.
+[13:30:12] bNk-deio EMOTE: mouse (100)/ : <B>The mouse (100)</B> scritches at something.
+[13:30:35] bNk-deio SAY: mouse (116)/ : SQUEEK!
+[13:30:55] bNk-deio ADMIN: Ultimate Shrek Fan/(Woodrow Houser) jumped to the Engine Room (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=185;Y=75;Z=3'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x300005a]'>MOB</a>)
+[13:31:08] bNk-deio ADMIN: Ultimate Shrek Fan/(Woodrow Houser) healed / revived <a href='?priv_msg=[0x5000000]'>Ultimate Shrek Fan</a>/(Woodrow Houser)! (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=181;Y=73;Z=3'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x300005a]'>MOB</a>)
+[13:31:35] bNk-deio EMOTE: Tom/ : <B>Tom</B> squeaks.
+[13:31:45] bNk-deio EMOTE: mouse (100)/ : <B>The mouse (100)</B> squeeks.
+[13:31:57] bNk-deio SAY: mouse (123)/ : Squeek?
+[13:32:22] bNk-deio EMOTE: mouse (107)/ : <B>The mouse (107)</B> squiks.
+[13:32:53] bNk-deio SAY: Experiment 97d/ : EHEHEHEHEH
+[13:32:55] bNk-deio EMOTE: crab/ : <B>The crab</B> clicks.
+[13:33:04] bNk-deio EMOTE: Ian/ : <B>Ian</B> barks.
+[13:33:12] bNk-deio EMOTE: mouse (116)/ : <B>The mouse (116)</B> shakes.
+[13:33:20] bNk-deio SAY: mouse (106)/ : Squeek!
+[13:33:20] bNk-deio EMOTE: mouse (116)/ : <B>The mouse (116)</B> squeeks.
+[13:33:20] bNk-deio EMOTE: Experiment 68a/ : <B>Experiment 68a</B> clicks.
+[13:33:28] bNk-deio EMOTE: mouse (116)/ : <B>The mouse (116)</B> shakes.
+[13:33:35] bNk-deio EMOTE: mouse (100)/ : <B>The mouse (100)</B> shakes.
+[13:33:45] bNk-deio SAY: mouse (101)/ : Squeek!
+[13:33:45] bNk-deio EMOTE: mouse (117)/ : <B>The mouse (117)</B> squeeks.
+[13:33:55] bNk-deio EMOTE: mouse (121)/ : <B>The mouse (121)</B> squiks.
+[13:34:12] bNk-deio EMOTE: mouse (111)/ : <B>The mouse (111)</B> squeeks.
+[13:34:43] bNk-deio EMOTE: mouse (123)/ : <B>The mouse (123)</B> squeaks.
+[13:34:51] bNk-deio SAY: Ian/ : YAP
+[13:34:51] bNk-deio EMOTE: Experiment 68a/ : <B>Experiment 68a</B> clacks.
+[13:35:06] bNk-deio ADMIN: Ultimate Shrek Fan/(Woodrow Houser) has possessed the thermoelectric generator (/obj/machinery/power/generator) at (190, 77, 3)
+[13:35:10] bNk-deio EMOTE: mouse (106)/ : <B>The mouse (106)</B> squiks.
+[13:35:10] bNk-deio EMOTE: mouse (120)/ : <B>The mouse (120)</B> runs in a circle.
+[13:35:32] bNk-deio ADMIN: Ultimate Shrek Fan/(Woodrow Houser) modified thermoelectric generator's anchored from '0' to '1' (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=189;Y=77;Z=3'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x300005a]'>MOB</a>)
+[13:35:43] bNk-deio EMOTE: mouse (105)/ : <B>The mouse (105)</B> shakes.
+[13:36:12] bNk-deio SAY: mouse (117)/ : Squeek?
+[13:36:24] bNk-deio ADMIN: Ultimate Shrek Fan/(Woodrow Houser) turned on the emitter (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=181;Y=69;Z=3'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x300005a]'>MOB</a>)
+[13:36:24] bNk-deio ADMIN: Ultimate Shrek Fan/(Woodrow Houser) turned on the emitter (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=181;Y=69;Z=3'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x300005a]'>MOB</a>)
+[13:36:43] bNk-deio ADMIN: Ultimate Shrek Fan/(Woodrow Houser) turned off the emitter (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=181;Y=69;Z=3'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x300005a]'>MOB</a>)
+[13:36:43] bNk-deio ADMIN: Ultimate Shrek Fan/(Woodrow Houser) turned off the emitter (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=181;Y=69;Z=3'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x300005a]'>MOB</a>)
+[13:37:10] bNk-deio EMOTE: mouse (117)/ : <B>The mouse (117)</B> squeeks.
+[13:37:12] bNk-deio EMOTE: Experiment 97d/ : <B>Experiment 97d</B> glares around.
+[13:38:00] bNk-deio ACCESS: Logout: Ultimate Shrek Fan/(Woodrow Houser)
+[13:38:00] bNk-deio ACCESS: Login: Ultimate Shrek Fan/(Woodrow Houser) from 127.0.0.1-1238305795 || BYOND v511
+[13:38:12] bNk-deio SAY: mouse (107)/ : SQUEEK!
+[13:38:33] bNk-deio EMOTE: mouse (117)/ : <B>The mouse (117)</B> shakes.
+[13:40:35] bNk-deio EMOTE: mouse (108)/ : <B>The mouse (108)</B> squeeks.
+[13:40:40] bNk-deio ADMIN: Ultimate Shrek Fan/(Woodrow Houser) deleted Blast Door at (187,71,3)
+[13:40:49] bNk-deio ADMIN: Ultimate Shrek Fan/(Woodrow Houser) deleted Blast Door at (188,67,3)
+[13:41:12] bNk-deio ADMIN: Ultimate Shrek Fan/(Woodrow Houser) deleted Blast Door at (189,71,3)
+[13:41:36] bNk-deio ADMIN: Ultimate Shrek Fan/(Woodrow Houser) deleted Supermatter at (188,69,3)
+[13:41:42] bNk-deio DEBUG: Moved - Supermatter Monitor was deleted while still listening to the station intercom (General).
+[13:41:58] bNk-deio EMOTE: mouse (114)/ : <B>The mouse (114)</B> runs in a circle.
+[13:41:58] bNk-deio ACCESS: Logout: Ultimate Shrek Fan/(Woodrow Houser)

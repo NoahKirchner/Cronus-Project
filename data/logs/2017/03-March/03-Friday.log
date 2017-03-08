@@ -1,0 +1,62 @@
+
+
+Starting up. (ID: bNk-abZA) 20:50.41
+---------------------
+[03:30:00] bNk-abZA MISC: Failed to connect to database in load_admins(). Reverting to legacy system.
+[03:30:00] bNk-abZA MISC: Database connection failed. Reverting to the legacy ban system.
+[03:30:00] bNk-abZA DEBUG: Rebuilding Master Controller
+
+
+Starting up. (ID: bNk-advz) 20:59.52
+---------------------
+[03:30:00] bNk-advz ADMIN: Loading jobban_rank
+[03:30:00] bNk-advz ADMIN: jobban_keylist was empty
+[03:30:00] bNk-advz ADMIN: Loading Banlist
+[03:30:00] bNk-advz DEBUG: Rebuilding Master Controller
+[03:30:00] bNk-advz ACCESS: Login: Ultimate Shrek Fan/(Ultimate Shrek Fan) from 127.0.0.1-1238305795 || BYOND v511
+[03:30:00] bNk-advz DEBUG: Runtime in turbolift_map.dm,224: list index out of bounds <A HREF='?src=[0x210073f8];viewruntime=[0x210073f8]'>[view]</A>
+[03:30:00] bNk-advz DEBUG: Exodus turbolift map placeholder - Engineering cannot find a component turf at 0,0 on floor 0. Aborting.
+[03:30:00] bNk-advz DEBUG: Exodus turbolift map placeholder - Research cannot find a component turf at 0,0 on floor 0. Aborting.
+[03:30:00] bNk-advz DEBUG: Exodus turbolift map placeholder - Cargo cannot find a component turf at 0,0 on floor 0. Aborting.
+[03:30:00] bNk-advz DEBUG: Exodus turbolift map placeholder - Securiy cannot find a component turf at 0,0 on floor 0. Aborting.
+[03:30:00] bNk-advz ADMIN: Ultimate Shrek Fan has started the game.
+[03:30:00] bNk-advz ACCESS: Logout: *no key*/(Ultimate Shrek Fan)
+[03:30:00] bNk-advz ACCESS: Login: Ultimate Shrek Fan/(Woodrow Houser) from 127.0.0.1-1238305795 || BYOND v511
+[03:30:00] bNk-advz DEBUG: Next event of severity Mundane in 12.634 minutes.
+[03:30:00] bNk-advz DEBUG: Next event of severity Moderate in 46.996 minutes.
+[03:30:00] bNk-advz DEBUG: Next event of severity Major in 81.5933 minutes.
+[03:30:12] bNk-advz EMOTE: mouse (118)/ : <B>The mouse (118)</B> shakes.
+[03:30:15] bNk-advz ADMIN: Ultimate Shrek Fan/(Woodrow Houser) jumped to the Officers Dorms (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=157;Y=76;Z=3'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000058]'>MOB</a>)
+[03:30:19] bNk-advz EMOTE: mouse (117)/ : <B>The mouse (117)</B> runs in a circle.
+[03:30:27] bNk-advz EMOTE: mouse (112)/ : <B>The mouse (112)</B> runs in a circle.
+[03:30:52] bNk-advz EMOTE: Ian/ : <B>Ian</B> dances around
+[03:30:52] bNk-advz EMOTE: mouse (115)/ : <B>The mouse (115)</B> squiks.
+[03:30:56] bNk-advz EMOTE: Ian/ : <B>Ian</B> chases their tail
+[03:31:04] bNk-advz EMOTE: mouse (108)/ : <B>The mouse (108)</B> runs in a circle.
+[03:31:43] bNk-advz EMOTE: mouse (112)/ : <B>The mouse (112)</B> squeaks.
+[03:31:48] bNk-advz SAY: mouse (111)/ : SQUEEK!
+[03:31:56] bNk-advz SAY: crab/ : ...
+[03:32:12] bNk-advz EMOTE: mouse (112)/ : <B>The mouse (112)</B> squiks.
+[03:32:17] bNk-advz EMOTE: Experiment 68a/ : <B>Experiment 68a</B> clicks.
+[03:32:23] bNk-advz SAY: grey baby slime (316)/ : Blop...
+[03:32:23] bNk-advz EMOTE: mouse (114)/ : <B>The mouse (114)</B> squiks.
+[03:32:58] bNk-advz SAY: mouse (114)/ : Squeek?
+[03:34:35] bNk-advz SAY: mouse (111)/ : Squeek?
+[03:34:47] bNk-advz ACCESS: Logout: *no key*/(Woodrow Houser)
+[03:34:47] bNk-advz ACCESS: Login: Ultimate Shrek Fan/(Woodrow Houser) from 127.0.0.1-1238305795 || BYOND v511
+[03:34:50] bNk-advz SAY: mouse (111)/ : Squeek?
+[03:34:54] bNk-advz SAY: Ian/ : Bark!
+[03:35:19] bNk-advz ADMIN: Ultimate Shrek Fan/(Woodrow Houser) dropped a pod containing 1 Mulebot #3 at (143,81,3)
+[03:35:19] bNk-advz GAME: Explosion with size (1, 2, 6) in area Security Office 
+[03:35:33] bNk-advz SAY: Runtime/ : HSSSSS
+[03:36:00] bNk-advz SAY: mouse (108)/ : Squeek?
+[03:36:03] bNk-advz ADMIN: Ultimate Shrek Fan/(Woodrow Houser) dropped a pod containing 1 Mulebot #4 at (166,107,3)
+[03:36:03] bNk-advz GAME: Explosion with size (1, 2, 6) in area Break Room 
+[03:36:08] bNk-advz EMOTE: Experiment 68a/ : <B>Experiment 68a</B> clacks.
+[03:36:23] bNk-advz ACCESS: Logout: *no key*/(Woodrow Houser)
+[03:36:23] bNk-advz ACCESS: Login: Ultimate Shrek Fan/(Woodrow Houser) from 127.0.0.1-1238305795 || BYOND v511
+[03:36:38] bNk-advz ADMIN: Ultimate Shrek Fan/(Woodrow Houser) healed / revived *no key*/(Mulebot #4)! (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=149;Y=100;Z=3'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000058]'>MOB</a>)
+[03:36:48] bNk-advz ADMIN: Ultimate Shrek Fan/(Woodrow Houser) healed / revived <a href='?priv_msg=[0x5000000]'>Ultimate Shrek Fan</a>/(Woodrow Houser)! (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=149;Y=100;Z=3'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000058]'>MOB</a>)
+[03:37:02] bNk-advz SAY: Runtime/ : Meow!
+[03:37:23] bNk-advz EMOTE: Coffee/ : <B>Coffee</B> clicks.
+[03:37:24] bNk-advz ACCESS: Logout: Ultimate Shrek Fan/(Woodrow Houser)
