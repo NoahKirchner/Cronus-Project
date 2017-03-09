@@ -126,3 +126,312 @@ Starting up. (ID: bNo-dxJI) 18:53.01
 [22:40:24] bNo-dxJI ACCESS: Logout: Ultimate Shrek Fan/(Woodrow Houser)
 [22:40:24] bNo-dxJI ACCESS: Login: Ultimate Shrek Fan/(Woodrow Houser) from 127.0.0.1-1238305795 || BYOND v511
 [22:44:26] bNo-dxJI ACCESS: Logout: Ultimate Shrek Fan/(Woodrow Houser)
+
+
+Starting up. (ID: bNo-dJsF) 20:08.14
+---------------------
+[13:30:00] bNo-dJsF ADMIN: Loading jobban_rank
+[13:30:00] bNo-dJsF ADMIN: jobban_keylist was empty
+[13:30:00] bNo-dJsF ADMIN: Loading Banlist
+[13:30:00] bNo-dJsF DEBUG: Rebuilding Master Controller
+[13:30:00] bNo-dJsF ACCESS: Login: Ultimate Shrek Fan/(Ultimate Shrek Fan) from 127.0.0.1-1238305795 || BYOND v511
+[13:30:00] bNo-dJsF ADMIN: Ultimate Shrek Fan has started the game.
+[13:30:00] bNo-dJsF ACCESS: Logout: *no key*/(Ultimate Shrek Fan)
+[13:30:00] bNo-dJsF ACCESS: Login: Ultimate Shrek Fan/(Woodrow Houser) from 127.0.0.1-1238305795 || BYOND v511
+[13:30:00] bNo-dJsF DEBUG: Next event of severity Mundane in 14.33 minutes.
+[13:30:00] bNo-dJsF DEBUG: Next event of severity Moderate in 53.838 minutes.
+[13:30:00] bNo-dJsF DEBUG: Next event of severity Major in 83.875 minutes.
+[13:33:51] bNo-dJsF SAY: Woodrow Houser/Ultimate Shrek Fan : test
+[13:44:21] bNo-dJsF DEBUG: Next event of severity Mundane in 13.61 minutes.
+[13:44:21] bNo-dJsF DEBUG: Starting event 'Economic News' of severity Mundane.
+[13:52:15] bNo-dJsF DEBUG: Event 'Economic News' has completed at 13:52.
+[13:56:19] bNo-dJsF ACCESS: Logout: Ultimate Shrek Fan/(Woodrow Houser)
+
+
+Starting up. (ID: bNp-aa5R) 20:36.20
+---------------------
+[03:30:00] bNp-aa5R ADMIN: Loading jobban_rank
+[03:30:00] bNp-aa5R ADMIN: jobban_keylist was empty
+[03:30:00] bNp-aa5R ADMIN: Loading Banlist
+[03:30:00] bNp-aa5R DEBUG: Rebuilding Master Controller
+[03:30:00] bNp-aa5R ACCESS: Login: Ultimate Shrek Fan/(Ultimate Shrek Fan) from 127.0.0.1-1238305795 || BYOND v511
+[03:30:00] bNp-aa5R ADMIN: Ultimate Shrek Fan has started the game.
+[03:30:00] bNp-aa5R ACCESS: Logout: *no key*/(Ultimate Shrek Fan)
+[03:30:00] bNp-aa5R ACCESS: Login: Ultimate Shrek Fan/(Woodrow Houser) from 127.0.0.1-1238305795 || BYOND v511
+[03:30:00] bNp-aa5R DEBUG: Runtime in job_controller.dm,434: pick() from empty list <A HREF='?src=[0x21002843];viewruntime=[0x21002843]'>[view]</A>
+[03:30:00] bNp-aa5R DEBUG: Next event of severity Mundane in 15.9 minutes.
+[03:30:00] bNp-aa5R DEBUG: Next event of severity Moderate in 39.248 minutes.
+[03:30:00] bNp-aa5R DEBUG: Next event of severity Major in 93.91 minutes.
+[03:30:09] bNp-aa5R ADMIN: Ultimate Shrek Fan/(Woodrow Houser) jumped to the Colonial Administrator's Office (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=115;Y=95;Z=2'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000002]'>MOB</a>)
+[03:30:14] bNp-aa5R ADMIN: Ultimate Shrek Fan/(Woodrow Houser) healed / revived <a href='?priv_msg=[0x5000000]'>Ultimate Shrek Fan</a>/(Woodrow Houser)! (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=114;Y=89;Z=2'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000002]'>MOB</a>)
+[03:37:20] bNp-aa5R ACCESS: Logout: Ultimate Shrek Fan/(Woodrow Houser)
+
+
+Starting up. (ID: bNp-acY3) 20:48.27
+---------------------
+[03:30:00] bNp-acY3 ADMIN: Loading jobban_rank
+[03:30:00] bNp-acY3 ADMIN: jobban_keylist was empty
+[03:30:00] bNp-acY3 ADMIN: Loading Banlist
+[03:30:00] bNp-acY3 DEBUG: Rebuilding Master Controller
+[03:30:00] bNp-acY3 ACCESS: Login: Ultimate Shrek Fan/(Ultimate Shrek Fan) from 127.0.0.1-1238305795 || BYOND v511
+[03:30:00] bNp-acY3 ADMIN: Ultimate Shrek Fan has started the game.
+[03:30:00] bNp-acY3 DEBUG: Next event of severity Mundane in 16.914 minutes.
+[03:30:00] bNp-acY3 DEBUG: Next event of severity Moderate in 52.012 minutes.
+[03:30:00] bNp-acY3 DEBUG: Next event of severity Major in 83.0667 minutes.
+[03:30:22] bNp-acY3 DEBUG: Runtime in new_player.dm,316: pick() from empty list <A HREF='?src=[0x21001c5a];viewruntime=[0x21001c5a]'>[view]</A>
+[03:30:33] bNp-acY3 DEBUG: Runtime in new_player.dm,316: pick() from empty list <A HREF='?src=[0x21002845];viewruntime=[0x21002845]'>[view]</A>
+[03:30:49] bNp-acY3 ACCESS: Logout: *no key*/(Ultimate Shrek Fan)
+[03:30:49] bNp-acY3 ACCESS: Login: Ultimate Shrek Fan/(Woodrow Houser) from 127.0.0.1-1238305795 || BYOND v511
+[03:30:49] bNp-acY3 DEBUG: Moved - Arrivals Announcement Computer was deleted while still listening to the station intercom (General).
+[03:31:47] bNp-acY3 ADMIN: Ultimate Shrek Fan/(Woodrow Houser) modified Solitary Lockdown Shutter's id from 'solitaryld' to 'sld' (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=158;Y=76;Z=2'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000004]'>MOB</a>)
+[03:32:17] bNp-acY3 ADMIN: Ultimate Shrek Fan/(Woodrow Houser) modified Solitary Lockdown's id from 'solitaryld' to 'sld' (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=158;Y=76;Z=2'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000004]'>MOB</a>)
+[03:34:37] bNp-acY3 ADMIN: Ultimate Shrek Fan/(Woodrow Houser) deleted the Primary Hallway - Port APC at (152,87,2)
+[03:38:03] bNp-acY3 ACCESS: Logout: Ultimate Shrek Fan/(Woodrow Houser)
+
+
+Starting up. (ID: bNp-aeLD) 20:59.52
+---------------------
+[13:30:00] bNp-aeLD ADMIN: Loading jobban_rank
+[13:30:00] bNp-aeLD ADMIN: jobban_keylist was empty
+[13:30:00] bNp-aeLD ADMIN: Loading Banlist
+[13:30:00] bNp-aeLD DEBUG: Rebuilding Master Controller
+[13:30:00] bNp-aeLD ACCESS: Login: Ultimate Shrek Fan/(Ultimate Shrek Fan) from 127.0.0.1-1238305795 || BYOND v511
+[13:30:00] bNp-aeLD ADMIN: Ultimate Shrek Fan has started the game.
+[13:30:00] bNp-aeLD ACCESS: Logout: *no key*/(Ultimate Shrek Fan)
+[13:30:00] bNp-aeLD ACCESS: Login: Ultimate Shrek Fan/(Woodrow Houser) from 127.0.0.1-1238305795 || BYOND v511
+[13:30:00] bNp-aeLD DEBUG: Next event of severity Mundane in 15.834 minutes.
+[13:30:00] bNp-aeLD DEBUG: Next event of severity Moderate in 43.604 minutes.
+[13:30:00] bNp-aeLD DEBUG: Next event of severity Major in 98.6933 minutes.
+[13:31:00] bNp-aeLD ACCESS: Logout: Ultimate Shrek Fan/(Woodrow Houser)
+
+
+Starting up. (ID: bNp-agzI) 21:11.28
+---------------------
+[08:30:00] bNp-agzI ADMIN: Loading jobban_rank
+[08:30:00] bNp-agzI ADMIN: jobban_keylist was empty
+[08:30:00] bNp-agzI ADMIN: Loading Banlist
+[08:30:00] bNp-agzI DEBUG: Rebuilding Master Controller
+[08:30:00] bNp-agzI ACCESS: Login: Ultimate Shrek Fan/(Ultimate Shrek Fan) from 127.0.0.1-1238305795 || BYOND v511
+[08:30:00] bNp-agzI ADMIN: Ultimate Shrek Fan has started the game.
+[08:30:00] bNp-agzI ACCESS: Logout: *no key*/(Ultimate Shrek Fan)
+[08:30:00] bNp-agzI ACCESS: Login: Ultimate Shrek Fan/(Woodrow Houser) from 127.0.0.1-1238305795 || BYOND v511
+[08:30:00] bNp-agzI DEBUG: Next event of severity Mundane in 15.982 minutes.
+[08:30:00] bNp-agzI DEBUG: Next event of severity Moderate in 50.408 minutes.
+[08:30:00] bNp-agzI DEBUG: Next event of severity Major in 92.0283 minutes.
+[08:30:43] bNp-agzI ADMIN: Ultimate Shrek Fan/(Woodrow Houser) Full atmosphere reset initiated by Woodrow Houser. (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=113;Y=87;Z=2'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000002]'>MOB</a>)
+[08:30:46] bNp-agzI ADMIN: Ultimate Shrek Fan/(Woodrow Houser) healed / revived <a href='?priv_msg=[0x5000000]'>Ultimate Shrek Fan</a>/(Woodrow Houser)! (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=113;Y=87;Z=2'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000002]'>MOB</a>)
+[08:30:54] bNp-agzI ADMIN: Ultimate Shrek Fan/(Woodrow Houser) Full atmosphere reset initiated by Woodrow Houser. (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=112;Y=87;Z=2'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000002]'>MOB</a>)
+[08:31:01] bNp-agzI ACCESS: Logout: *no key*/(Woodrow Houser)
+[08:31:01] bNp-agzI ACCESS: Login: Ultimate Shrek Fan/(Woodrow Houser) from 127.0.0.1-1238305795 || BYOND v511
+[08:31:16] bNp-agzI ADMIN: Ultimate Shrek Fan/(Woodrow Houser) Full atmosphere reset initiated by Woodrow Houser. (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=105;Y=94;Z=2'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000001]'>MOB</a>)
+[08:35:10] bNp-agzI ACCESS: Logout: *no key*/(Woodrow Houser)
+[08:35:10] bNp-agzI ACCESS: Login: Ultimate Shrek Fan/(Woodrow Houser) from 127.0.0.1-1238305795 || BYOND v511
+[08:35:16] bNp-agzI ADMIN: Ultimate Shrek Fan/(Woodrow Houser) healed / revived <a href='?priv_msg=[0x5000000]'>Ultimate Shrek Fan</a>/(Woodrow Houser)! (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=112;Y=90;Z=2'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000002]'>MOB</a>)
+[08:35:28] bNp-agzI ADMIN: Ultimate Shrek Fan/(Woodrow Houser) Full atmosphere reset initiated by Woodrow Houser. (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=112;Y=87;Z=2'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000002]'>MOB</a>)
+[08:35:34] bNp-agzI ACCESS: Logout: *no key*/(Woodrow Houser)
+[08:35:34] bNp-agzI ACCESS: Login: Ultimate Shrek Fan/(Woodrow Houser) from 127.0.0.1-1238305795 || BYOND v511
+[08:44:16] bNp-agzI ACCESS: Logout: Ultimate Shrek Fan/(Woodrow Houser)
+
+
+Starting up. (ID: bNp-ajd1) 21:28.26
+---------------------
+[13:30:00] bNp-ajd1 ADMIN: Loading jobban_rank
+[13:30:00] bNp-ajd1 ADMIN: jobban_keylist was empty
+[13:30:00] bNp-ajd1 ADMIN: Loading Banlist
+[13:30:00] bNp-ajd1 DEBUG: Rebuilding Master Controller
+[13:30:00] bNp-ajd1 ACCESS: Login: Ultimate Shrek Fan/(Ultimate Shrek Fan) from 127.0.0.1-1238305795 || BYOND v511
+[13:30:00] bNp-ajd1 ADMIN: Ultimate Shrek Fan has started the game.
+[13:30:00] bNp-ajd1 ACCESS: Logout: *no key*/(Ultimate Shrek Fan)
+[13:30:00] bNp-ajd1 ACCESS: Login: Ultimate Shrek Fan/(Woodrow Houser) from 127.0.0.1-1238305795 || BYOND v511
+[13:30:00] bNp-ajd1 DEBUG: Next event of severity Mundane in 13.136 minutes.
+[13:30:00] bNp-ajd1 DEBUG: Next event of severity Moderate in 47.01 minutes.
+[13:30:00] bNp-ajd1 DEBUG: Next event of severity Major in 96.3383 minutes.
+[13:30:24] bNp-ajd1 ADMIN: Ultimate Shrek Fan/(Woodrow Houser) jumped to the Bridge (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=118;Y=91;Z=2'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000002]'>MOB</a>)
+[13:30:51] bNp-ajd1 ACCESS: Logout: Ultimate Shrek Fan/(Woodrow Houser)
+
+
+Starting up. (ID: bNp-aj7W) 21:34.07
+---------------------
+[13:30:00] bNp-aj7W ADMIN: Loading jobban_rank
+[13:30:00] bNp-aj7W ADMIN: jobban_keylist was empty
+[13:30:00] bNp-aj7W ADMIN: Loading Banlist
+[13:30:00] bNp-aj7W DEBUG: Rebuilding Master Controller
+[13:30:00] bNp-aj7W ACCESS: Login: Ultimate Shrek Fan/(Ultimate Shrek Fan) from 127.0.0.1-1238305795 || BYOND v511
+[13:30:00] bNp-aj7W ADMIN: Ultimate Shrek Fan has started the game.
+[13:30:00] bNp-aj7W ACCESS: Logout: *no key*/(Ultimate Shrek Fan)
+[13:30:00] bNp-aj7W ACCESS: Login: Ultimate Shrek Fan/(Woodrow Houser) from 127.0.0.1-1238305795 || BYOND v511
+[13:30:00] bNp-aj7W DEBUG: Next event of severity Mundane in 13.366 minutes.
+[13:30:00] bNp-aj7W DEBUG: Next event of severity Moderate in 37.546 minutes.
+[13:30:00] bNp-aj7W DEBUG: Next event of severity Major in 84.3217 minutes.
+[13:30:06] bNp-aj7W ADMIN: Ultimate Shrek Fan/(Woodrow Houser) jumped to the Bridge (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=120;Y=89;Z=2'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000002]'>MOB</a>)
+[13:30:18] bNp-aj7W ACCESS: Logout: Ultimate Shrek Fan/(Woodrow Houser)
+
+
+Starting up. (ID: bNp-alH2) 21:44.21
+---------------------
+[03:30:00] bNp-alH2 ADMIN: Loading jobban_rank
+[03:30:00] bNp-alH2 ADMIN: jobban_keylist was empty
+[03:30:00] bNp-alH2 ADMIN: Loading Banlist
+[03:30:00] bNp-alH2 DEBUG: Rebuilding Master Controller
+[03:30:00] bNp-alH2 ACCESS: Login: Ultimate Shrek Fan/(Ultimate Shrek Fan) from 127.0.0.1-1238305795 || BYOND v511
+[03:30:00] bNp-alH2 ADMIN: Ultimate Shrek Fan has started the game.
+[03:30:00] bNp-alH2 DEBUG: Next event of severity Mundane in 17.138 minutes.
+[03:30:00] bNp-alH2 DEBUG: Next event of severity Moderate in 47.382 minutes.
+[03:30:00] bNp-alH2 DEBUG: Next event of severity Major in 92.6767 minutes.
+[03:30:14] bNp-alH2 ACCESS: Logout: *no key*/(Ultimate Shrek Fan)
+[03:30:14] bNp-alH2 ACCESS: Login: Ultimate Shrek Fan/(Woodrow Houser) from 127.0.0.1-1238305795 || BYOND v511
+[03:30:14] bNp-alH2 DEBUG: Moved - Arrivals Announcement Computer was deleted while still listening to the station intercom (General).
+[03:30:28] bNp-alH2 ADMIN: Ultimate Shrek Fan/(Woodrow Houser) jumped to the Bridge (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=107;Y=95;Z=2'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000002]'>MOB</a>)
+[03:30:44] bNp-alH2 ACCESS: Logout: *no key*/(Woodrow Houser)
+[03:30:44] bNp-alH2 ACCESS: Login: Ultimate Shrek Fan/(Woodrow Houser) from 127.0.0.1-1238305795 || BYOND v511
+[03:31:10] bNp-alH2 ACCESS: Logout: Ultimate Shrek Fan/(Woodrow Houser)
+
+
+Starting up. (ID: bNp-amY4) 21:52.36
+---------------------
+[13:30:00] bNp-amY4 ADMIN: Loading jobban_rank
+[13:30:00] bNp-amY4 ADMIN: jobban_keylist was empty
+[13:30:00] bNp-amY4 ADMIN: Loading Banlist
+[13:30:00] bNp-amY4 DEBUG: Rebuilding Master Controller
+[13:30:00] bNp-amY4 ACCESS: Login: Ultimate Shrek Fan/(Ultimate Shrek Fan) from 127.0.0.1-1238305795 || BYOND v511
+[13:30:00] bNp-amY4 ADMIN: Ultimate Shrek Fan has started the game.
+[13:30:00] bNp-amY4 DEBUG: Next event of severity Mundane in 13.882 minutes.
+[13:30:00] bNp-amY4 DEBUG: Next event of severity Moderate in 51.246 minutes.
+[13:30:00] bNp-amY4 DEBUG: Next event of severity Major in 86.2117 minutes.
+[13:30:06] bNp-amY4 ACCESS: Logout: *no key*/(Ultimate Shrek Fan)
+[13:30:06] bNp-amY4 ACCESS: Login: Ultimate Shrek Fan/(Woodrow Houser) from 127.0.0.1-1238305795 || BYOND v511
+[13:30:06] bNp-amY4 DEBUG: Moved - Arrivals Announcement Computer was deleted while still listening to the station intercom (General).
+[13:30:11] bNp-amY4 ADMIN: Ultimate Shrek Fan/(Woodrow Houser) jumped to the Bridge (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=112;Y=90;Z=2'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000002]'>MOB</a>)
+[13:32:25] bNp-amY4 ACCESS: Logout: *no key*/(Woodrow Houser)
+[13:32:25] bNp-amY4 ACCESS: Login: Ultimate Shrek Fan/(Woodrow Houser) from 127.0.0.1-1238305795 || BYOND v511
+[13:33:34] bNp-amY4 ADMIN: Ultimate Shrek Fan/(Woodrow Houser) changed their view range to 128. (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=113;Y=90;Z=2'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000001]'>MOB</a>)
+[13:33:41] bNp-amY4 ADMIN: Ultimate Shrek Fan/(Woodrow Houser) changed their view range to 7. (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=133;Y=90;Z=2'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000001]'>MOB</a>)
+[13:33:46] bNp-amY4 ADMIN: Ultimate Shrek Fan/(Woodrow Houser) changed their view range to 14. (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=133;Y=90;Z=2'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000001]'>MOB</a>)
+[13:34:12] bNp-amY4 ACCESS: Logout: *no key*/(Woodrow Houser)
+[13:34:12] bNp-amY4 ACCESS: Login: Ultimate Shrek Fan/(Woodrow Houser) from 127.0.0.1-1238305795 || BYOND v511
+[13:34:20] bNp-amY4 ADMIN: Ultimate Shrek Fan/(Woodrow Houser) changed their view range to 7. (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=114;Y=87;Z=2'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000002]'>MOB</a>)
+[13:34:38] bNp-amY4 ACCESS: Logout: Ultimate Shrek Fan/(Woodrow Houser)
+
+
+Starting up. (ID: bNp-apb2) 22:06.40
+---------------------
+[08:30:00] bNp-apb2 ADMIN: Loading jobban_rank
+[08:30:00] bNp-apb2 ADMIN: jobban_keylist was empty
+[08:30:00] bNp-apb2 ADMIN: Loading Banlist
+[08:30:00] bNp-apb2 DEBUG: Rebuilding Master Controller
+[08:30:00] bNp-apb2 ACCESS: Login: Ultimate Shrek Fan/(Ultimate Shrek Fan) from 127.0.0.1-1238305795 || BYOND v511
+[08:30:00] bNp-apb2 ADMIN: Ultimate Shrek Fan has started the game.
+[08:30:00] bNp-apb2 ACCESS: Logout: *no key*/(Ultimate Shrek Fan)
+[08:30:00] bNp-apb2 ACCESS: Login: Ultimate Shrek Fan/(Woodrow Houser) from 127.0.0.1-1238305795 || BYOND v511
+[08:30:00] bNp-apb2 DEBUG: Next event of severity Mundane in 13.19 minutes.
+[08:30:00] bNp-apb2 DEBUG: Next event of severity Moderate in 48.266 minutes.
+[08:30:00] bNp-apb2 DEBUG: Next event of severity Major in 81.8617 minutes.
+[08:32:10] bNp-apb2 ADMIN: Ultimate Shrek Fan/(Woodrow Houser) deleted Blast Door at (158,77,2)
+[08:32:13] bNp-apb2 ACCESS: Logout: Ultimate Shrek Fan/(Woodrow Houser)
+[08:32:13] bNp-apb2 ACCESS: Login: Ultimate Shrek Fan/(Woodrow Houser) from 127.0.0.1-1238305795 || BYOND v511
+[08:32:19] bNp-apb2 ADMIN: Ultimate Shrek Fan/(Woodrow Houser) jumped to the Bridge (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=111;Y=87;Z=2'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000002]'>MOB</a>)
+[08:32:30] bNp-apb2 ACCESS: Logout: Ultimate Shrek Fan/(Woodrow Houser)
+
+
+Starting up. (ID: bNp-aqrQ) 22:14.43
+---------------------
+[22:30:00] bNp-aqrQ ADMIN: Loading jobban_rank
+[22:30:00] bNp-aqrQ ADMIN: jobban_keylist was empty
+[22:30:00] bNp-aqrQ ADMIN: Loading Banlist
+[22:30:00] bNp-aqrQ DEBUG: Rebuilding Master Controller
+
+
+Starting up. (ID: bNp-arJx) 22:22.56
+---------------------
+[22:30:00] bNp-arJx ADMIN: Loading jobban_rank
+[22:30:00] bNp-arJx ADMIN: jobban_keylist was empty
+[22:30:00] bNp-arJx ADMIN: Loading Banlist
+[22:30:00] bNp-arJx DEBUG: Rebuilding Master Controller
+[22:30:00] bNp-arJx ACCESS: Login: Ultimate Shrek Fan/(Ultimate Shrek Fan) from 127.0.0.1-1238305795 || BYOND v511
+[22:30:00] bNp-arJx ADMIN: Ultimate Shrek Fan has started the game.
+[22:30:00] bNp-arJx ACCESS: Logout: *no key*/(Ultimate Shrek Fan)
+[22:30:00] bNp-arJx ACCESS: Login: Ultimate Shrek Fan/(Woodrow Houser) from 127.0.0.1-1238305795 || BYOND v511
+[22:30:00] bNp-arJx DEBUG: Next event of severity Mundane in 13.15 minutes.
+[22:30:00] bNp-arJx DEBUG: Next event of severity Moderate in 47.19 minutes.
+[22:30:00] bNp-arJx DEBUG: Next event of severity Major in 97.995 minutes.
+[22:30:22] bNp-arJx ADMIN: Ultimate Shrek Fan/(Woodrow Houser) deleted Blast Door at (158,77,2)
+[22:31:20] bNp-arJx ACCESS: Logout: Ultimate Shrek Fan/(Woodrow Houser)
+
+
+Starting up. (ID: bNp-as90) 22:32.03
+---------------------
+[13:30:00] bNp-as90 ADMIN: Loading jobban_rank
+[13:30:00] bNp-as90 ADMIN: jobban_keylist was empty
+[13:30:00] bNp-as90 ADMIN: Loading Banlist
+[13:30:00] bNp-as90 DEBUG: Rebuilding Master Controller
+[13:30:00] bNp-as90 ACCESS: Login: Ultimate Shrek Fan/(Ultimate Shrek Fan) from 127.0.0.1-1238305795 || BYOND v511
+[13:30:00] bNp-as90 ADMIN: Ultimate Shrek Fan has started the game.
+[13:30:00] bNp-as90 DEBUG: Next event of severity Mundane in 12.636 minutes.
+[13:30:00] bNp-as90 DEBUG: Next event of severity Moderate in 42.136 minutes.
+[13:30:00] bNp-as90 DEBUG: Next event of severity Major in 85.3283 minutes.
+[13:30:06] bNp-as90 ACCESS: Logout: *no key*/(Ultimate Shrek Fan)
+[13:30:06] bNp-as90 ACCESS: Login: Ultimate Shrek Fan/(Woodrow Houser) from 127.0.0.1-1238305795 || BYOND v511
+[13:30:06] bNp-as90 DEBUG: Moved - Arrivals Announcement Computer was deleted while still listening to the station intercom (General).
+[13:31:12] bNp-as90 ACCESS: Logout: *no key*/(Woodrow Houser)
+[13:31:12] bNp-as90 ACCESS: Login: Ultimate Shrek Fan/(Woodrow Houser) from 127.0.0.1-1238305795 || BYOND v511
+[13:31:19] bNp-as90 ADMIN: Ultimate Shrek Fan/(Woodrow Houser) changed their view range to 10. (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=112;Y=87;Z=2'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000001]'>MOB</a>)
+[13:36:35] bNp-as90 ACCESS: Logout: Ultimate Shrek Fan/(Woodrow Houser)
+
+
+Starting up. (ID: bNp-auIx) 22:42.06
+---------------------
+[22:30:00] bNp-auIx ADMIN: Loading jobban_rank
+[22:30:00] bNp-auIx ADMIN: jobban_keylist was empty
+[22:30:00] bNp-auIx ADMIN: Loading Banlist
+[22:30:00] bNp-auIx DEBUG: Rebuilding Master Controller
+[22:30:00] bNp-auIx ACCESS: Login: Ultimate Shrek Fan/(Ultimate Shrek Fan) from 127.0.0.1-1238305795 || BYOND v511
+[22:30:00] bNp-auIx ADMIN: Ultimate Shrek Fan has started the game.
+[22:30:00] bNp-auIx DEBUG: Next event of severity Mundane in 17.9 minutes.
+[22:30:00] bNp-auIx DEBUG: Next event of severity Moderate in 50.25 minutes.
+[22:30:00] bNp-auIx DEBUG: Next event of severity Major in 83.0033 minutes.
+[22:30:05] bNp-auIx ACCESS: Logout: *no key*/(Ultimate Shrek Fan)
+[22:30:05] bNp-auIx ACCESS: Login: Ultimate Shrek Fan/(Woodrow Houser) from 127.0.0.1-1238305795 || BYOND v511
+[22:30:05] bNp-auIx DEBUG: Moved - Arrivals Announcement Computer was deleted while still listening to the station intercom (General).
+[22:30:34] bNp-auIx ACCESS: Logout: Ultimate Shrek Fan/(Woodrow Houser)
+
+
+Starting up. (ID: bNp-avrT) 22:46.47
+---------------------
+[03:30:00] bNp-avrT ADMIN: Loading jobban_rank
+[03:30:00] bNp-avrT ADMIN: jobban_keylist was empty
+[03:30:00] bNp-avrT ADMIN: Loading Banlist
+[03:30:00] bNp-avrT DEBUG: Rebuilding Master Controller
+[03:30:00] bNp-avrT ACCESS: Login: Ultimate Shrek Fan/(Ultimate Shrek Fan) from 127.0.0.1-1238305795 || BYOND v511
+[03:30:00] bNp-avrT ADMIN: Ultimate Shrek Fan has started the game.
+[03:30:00] bNp-avrT DEBUG: Next event of severity Mundane in 12.634 minutes.
+[03:30:00] bNp-avrT DEBUG: Next event of severity Moderate in 51.032 minutes.
+[03:30:00] bNp-avrT DEBUG: Next event of severity Major in 93.64 minutes.
+[03:30:06] bNp-avrT ACCESS: Logout: *no key*/(Ultimate Shrek Fan)
+[03:30:06] bNp-avrT ACCESS: Login: Ultimate Shrek Fan/(Woodrow Houser) from 127.0.0.1-1238305795 || BYOND v511
+[03:30:06] bNp-avrT DEBUG: Moved - Arrivals Announcement Computer was deleted while still listening to the station intercom (General).
+[03:31:45] bNp-avrT ADMIN: Ultimate Shrek Fan/(Woodrow Houser) changed their view range to 8. (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=112;Y=87;Z=2'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000002]'>MOB</a>)
+[03:31:52] bNp-avrT ADMIN: Ultimate Shrek Fan/(Woodrow Houser) changed their view range to 7. (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=112;Y=87;Z=2'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000002]'>MOB</a>)
+[03:31:59] bNp-avrT ADMIN: Ultimate Shrek Fan/(Woodrow Houser) changed their view range to 12. (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=112;Y=87;Z=2'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000002]'>MOB</a>)
+[03:32:11] bNp-avrT ADMIN: Ultimate Shrek Fan/(Woodrow Houser) changed their view range to 7. (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=112;Y=87;Z=2'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000002]'>MOB</a>)
+[03:32:17] bNp-avrT ADMIN: Ultimate Shrek Fan/(Woodrow Houser) changed their view range to 10. (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=112;Y=87;Z=2'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000002]'>MOB</a>)
+[03:32:34] bNp-avrT ADMIN: Ultimate Shrek Fan/(Woodrow Houser) changed their view range to 7. (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=112;Y=87;Z=2'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000002]'>MOB</a>)
+[03:32:40] bNp-avrT ADMIN: Ultimate Shrek Fan/(Woodrow Houser) changed their view range to 10. (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=112;Y=87;Z=2'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000002]'>MOB</a>)
+[03:32:51] bNp-avrT ACCESS: Logout: Ultimate Shrek Fan/(Woodrow Houser)
+
+
+Starting up. (ID: bNp-awoY) 22:52.51
+---------------------
+[03:30:00] bNp-awoY ADMIN: Loading jobban_rank
+[03:30:00] bNp-awoY ADMIN: jobban_keylist was empty
+[03:30:00] bNp-awoY ADMIN: Loading Banlist
+[03:30:00] bNp-awoY DEBUG: Rebuilding Master Controller
+[03:30:00] bNp-awoY ACCESS: Login: Ultimate Shrek Fan/(Ultimate Shrek Fan) from 127.0.0.1-1238305795 || BYOND v511
+[03:30:00] bNp-awoY OOC: Ultimate Shrek Fan - usr: Ultimate Shrek Fan/(Ultimate Shrek Fan) : art
+[03:30:00] bNp-awoY ADMIN: Ultimate Shrek Fan has started the game.
+[03:30:00] bNp-awoY DEBUG: Next event of severity Mundane in 15.31 minutes.
+[03:30:00] bNp-awoY DEBUG: Next event of severity Moderate in 45.37 minutes.
+[03:30:00] bNp-awoY DEBUG: Next event of severity Major in 83.5433 minutes.
+[03:30:08] bNp-awoY ACCESS: Logout: *no key*/(Ultimate Shrek Fan)
+[03:30:08] bNp-awoY ACCESS: Login: Ultimate Shrek Fan/(Woodrow Houser) from 127.0.0.1-1238305795 || BYOND v511
+[03:30:08] bNp-awoY DEBUG: Moved - Arrivals Announcement Computer was deleted while still listening to the station intercom (General).
+[03:37:56] bNp-awoY ACCESS: Logout: Ultimate Shrek Fan/(Woodrow Houser)

@@ -190,6 +190,16 @@
 	maxhealth = 600
 	block_air_zones = 1
 
+/obj/machinery/door/blast/shuttlebay
+	icon_state_open = "pdoor0"
+	icon_state_opening = "pdoorc0"
+	icon_state_closed = "pdoor1"
+	icon_state_closing = "pdoorc1"
+	icon_state = "pdoor1"
+	maxhealth = 600
+
+	block_air_zones = 1
+
 /obj/machinery/door/blast/regular/open
 	begins_closed = FALSE
 

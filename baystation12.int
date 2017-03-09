@@ -1,11 +1,11 @@
 // BEGIN_INTERNALS
 /*
-LAST_COMPILE_TIME: 1489013648
-DIR: code code\datums code\datums\outfits code\datums\outfits\jobs code\game code\game\jobs code\game\jobs\job code\game\objects code\game\objects\effects code\game\objects\items code\game\objects\items\weapons code\modules code\modules\clothing maps maps\cronus 
+LAST_COMPILE_TIME: 1489027731
+DIR: code code\game code\game\machinery code\game\machinery\doors icons icons\obj icons\obj\doors maps maps\cronus 
 AUTO_FILE_DIR: OFF
 MAP_ICON_TYPE: 0
 LAST_COMPILE_VERSION: 511.1367
-WINDOW: maps\cronus\cronus-1.dmm
+WINDOW: code\game\machinery\doors\blast_door.dm;icons\obj\doors\rapid_pdoor.dmi;maps\cronus\cronus-1.dmm
 FILE: maps\cronus\cronus-1.dmm
 */
 // END_INTERNALS
