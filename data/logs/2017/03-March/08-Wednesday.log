@@ -1,0 +1,128 @@
+
+
+Starting up. (ID: bNo-c6Ek) 15:53.05
+---------------------
+[03:30:00] bNo-c6Ek ADMIN: Loading jobban_rank
+[03:30:00] bNo-c6Ek ADMIN: jobban_keylist was empty
+[03:30:00] bNo-c6Ek ADMIN: Loading Banlist
+[03:30:00] bNo-c6Ek DEBUG: Rebuilding Master Controller
+
+
+Starting up. (ID: bNo-c6JC) 15:53.38
+---------------------
+[03:30:00] bNo-c6JC ADMIN: Loading jobban_rank
+[03:30:00] bNo-c6JC ADMIN: jobban_keylist was empty
+[03:30:00] bNo-c6JC ADMIN: Loading Banlist
+[03:30:00] bNo-c6JC DEBUG: Rebuilding Master Controller
+[03:30:00] bNo-c6JC ACCESS: Login: Ultimate Shrek Fan/(Ultimate Shrek Fan) from 127.0.0.1-1238305795 || BYOND v511
+[03:30:00] bNo-c6JC ADMIN: Ultimate Shrek Fan has started the game.
+[03:30:00] bNo-c6JC ACCESS: Logout: *no key*/(Ultimate Shrek Fan)
+[03:30:00] bNo-c6JC ACCESS: Login: Ultimate Shrek Fan/(Woodrow Houser) from 127.0.0.1-1238305795 || BYOND v511
+[03:30:00] bNo-c6JC DEBUG: Next event of severity Mundane in 16.452 minutes.
+[03:30:00] bNo-c6JC DEBUG: Next event of severity Moderate in 39.096 minutes.
+[03:30:00] bNo-c6JC DEBUG: Next event of severity Major in 89.425 minutes.
+[03:32:48] bNo-c6JC ACCESS: Logout: Ultimate Shrek Fan/(Woodrow Houser)
+
+
+Starting up. (ID: bNo-dmj3) 17:39.54
+---------------------
+[03:30:00] bNo-dmj3 ADMIN: Loading jobban_rank
+[03:30:00] bNo-dmj3 ADMIN: jobban_keylist was empty
+[03:30:00] bNo-dmj3 ADMIN: Loading Banlist
+[03:30:00] bNo-dmj3 DEBUG: Rebuilding Master Controller
+
+
+Starting up. (ID: bNo-dncV) 17:45.34
+---------------------
+[03:30:00] bNo-dncV ADMIN: Loading jobban_rank
+[03:30:00] bNo-dncV ADMIN: jobban_keylist was empty
+[03:30:00] bNo-dncV ADMIN: Loading Banlist
+[03:30:00] bNo-dncV DEBUG: Rebuilding Master Controller
+[03:30:00] bNo-dncV ACCESS: Login: Ultimate Shrek Fan/(Ultimate Shrek Fan) from 127.0.0.1-1238305795 || BYOND v511
+[03:30:00] bNo-dncV ADMIN: Ultimate Shrek Fan has started the game.
+[03:30:00] bNo-dncV ACCESS: Logout: *no key*/(Ultimate Shrek Fan)
+[03:30:00] bNo-dncV ACCESS: Login: Ultimate Shrek Fan/(Woodrow Houser) from 127.0.0.1-1238305795 || BYOND v511
+[03:30:00] bNo-dncV DEBUG: Next event of severity Mundane in 13.85 minutes.
+[03:30:00] bNo-dncV DEBUG: Next event of severity Moderate in 37.81 minutes.
+[03:30:00] bNo-dncV DEBUG: Next event of severity Major in 94.6233 minutes.
+[03:30:47] bNo-dncV ACCESS: Logout: Ultimate Shrek Fan/(Woodrow Houser)
+
+
+Starting up. (ID: bNo-dsFF) 18:20.34
+---------------------
+[22:30:00] bNo-dsFF ADMIN: Loading jobban_rank
+[22:30:00] bNo-dsFF ADMIN: jobban_keylist was empty
+[22:30:00] bNo-dsFF ADMIN: Loading Banlist
+[22:30:00] bNo-dsFF DEBUG: Rebuilding Master Controller
+[22:30:00] bNo-dsFF ACCESS: Login: Ultimate Shrek Fan/(Ultimate Shrek Fan) from 127.0.0.1-1238305795 || BYOND v511
+[22:30:00] bNo-dsFF ADMIN: Ultimate Shrek Fan has started the game.
+[22:30:00] bNo-dsFF ACCESS: Logout: *no key*/(Ultimate Shrek Fan)
+[22:30:00] bNo-dsFF ACCESS: Login: Ultimate Shrek Fan/(Woodrow Houser) from 127.0.0.1-1238305795 || BYOND v511
+[22:30:00] bNo-dsFF DEBUG: Next event of severity Mundane in 15.216 minutes.
+[22:30:00] bNo-dsFF DEBUG: Next event of severity Moderate in 48.662 minutes.
+[22:30:00] bNo-dsFF DEBUG: Next event of severity Major in 99.7133 minutes.
+[22:31:12] bNo-dsFF ACCESS: Logout: *no key*/(Woodrow Houser)
+[22:31:12] bNo-dsFF ACCESS: Login: Ultimate Shrek Fan/(Woodrow Houser) from 127.0.0.1-1238305795 || BYOND v511
+[22:31:12] bNo-dsFF ADMIN: *no key*/(Woodrow Houser) used gibself. (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=134;Y=73;Z=2'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000002]'>MOB</a>)
+[22:31:21] bNo-dsFF ADMIN: Ultimate Shrek Fan/(Woodrow Houser) toggled respawn to Off. (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=134;Y=73;Z=2'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000001]'>MOB</a>)
+[22:31:54] bNo-dsFF ACCESS: Logout: *no key*/(Woodrow Houser)
+[22:31:54] bNo-dsFF ACCESS: Login: Ultimate Shrek Fan/(Woodrow Houser) from 127.0.0.1-1238305795 || BYOND v511
+[22:31:59] bNo-dsFF ADMIN: Ultimate Shrek Fan/(Woodrow Houser) has allowed Ultimate Shrek Fan/(Woodrow Houser) to bypass the 30 minute respawn limit. (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=134;Y=73;Z=2'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000002]'>MOB</a>)
+[22:32:19] bNo-dsFF ADMIN: Ultimate Shrek Fan/(Woodrow Houser) toggled respawn to On. (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=134;Y=73;Z=2'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000002]'>MOB</a>)
+[22:32:22] bNo-dsFF SAY: (DSAY) Ultimate Shrek Fan - usr: Ultimate Shrek Fan/(Woodrow Houser) : <span class='name'>Woodrow Houser</span> no longer skulks in the realm of the dead. 
+[22:32:22] bNo-dsFF ACCESS: Logout: *no key*/(Woodrow Houser)
+[22:32:22] bNo-dsFF ACCESS: Login: Ultimate Shrek Fan/(new player) from 127.0.0.1-1238305795 || BYOND v511
+[22:32:22] bNo-dsFF ADMIN: Ultimate Shrek Fan/(new player) has respawned. (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000005]'>MOB</a>)
+[22:32:53] bNo-dsFF ACCESS: Logout: *no key*/(new player)
+[22:32:53] bNo-dsFF ACCESS: Login: Ultimate Shrek Fan/(Woodrow Houser) from 127.0.0.1-1238305795 || BYOND v511
+[22:32:53] bNo-dsFF DEBUG: Moved - Arrivals Announcement Computer was deleted while still listening to the station intercom (General).
+[22:43:45] bNo-dsFF ADMIN: Ultimate Shrek Fan/(Woodrow Houser) jumped to Cronus Power Storage (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=210;Y=99;Z=2'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000002]'>MOB</a>)
+[22:43:57] bNo-dsFF ACCESS: Logout: *no key*/(Woodrow Houser)
+[22:43:57] bNo-dsFF ACCESS: Login: Ultimate Shrek Fan/(Woodrow Houser) from 127.0.0.1-1238305795 || BYOND v511
+[22:45:14] bNo-dsFF DEBUG: Next event of severity Mundane in 12.074 minutes.
+[22:45:14] bNo-dsFF DEBUG: Starting event 'Trivial News' of severity Mundane.
+[22:45:20] bNo-dsFF ADMIN: Ultimate Shrek Fan/(Woodrow Houser) modified power cable's d2 from '4' to '8' (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=125;Y=87;Z=2'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000005]'>MOB</a>)
+[22:45:37] bNo-dsFF DEBUG: Event 'Trivial News' has completed at 22:45.
+[22:50:05] bNo-dsFF ACCESS: Logout: Ultimate Shrek Fan/(Woodrow Houser)
+
+
+Starting up. (ID: bNo-dxg0) 18:50.04
+---------------------
+[03:30:00] bNo-dxg0 ADMIN: Loading jobban_rank
+[03:30:00] bNo-dxg0 ADMIN: jobban_keylist was empty
+[03:30:00] bNo-dxg0 ADMIN: Loading Banlist
+[03:30:00] bNo-dxg0 DEBUG: Rebuilding Master Controller
+[03:30:00] bNo-dxg0 ACCESS: Login: Ultimate Shrek Fan/(Ultimate Shrek Fan) from 127.0.0.1-1238305795 || BYOND v511
+[03:30:00] bNo-dxg0 ADMIN: Ultimate Shrek Fan has started the game.
+[03:30:00] bNo-dxg0 ACCESS: Logout: *no key*/(Ultimate Shrek Fan)
+[03:30:00] bNo-dxg0 ACCESS: Login: Ultimate Shrek Fan/(Woodrow Houser) from 127.0.0.1-1238305795 || BYOND v511
+[03:30:00] bNo-dxg0 DEBUG: Next event of severity Mundane in 12.668 minutes.
+[03:30:00] bNo-dxg0 DEBUG: Next event of severity Moderate in 39.234 minutes.
+[03:30:00] bNo-dxg0 DEBUG: Next event of severity Major in 96.41 minutes.
+[03:30:06] bNo-dxg0 ACCESS: Logout: *no key*/(Woodrow Houser)
+[03:30:06] bNo-dxg0 ACCESS: Login: Ultimate Shrek Fan/(Woodrow Houser) from 127.0.0.1-1238305795 || BYOND v511
+[03:30:06] bNo-dxg0 ADMIN: *no key*/(Woodrow Houser) used gibself. (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=105;Y=77;Z=2'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000002]'>MOB</a>)
+[03:30:10] bNo-dxg0 ADMIN: Ultimate Shrek Fan/(Woodrow Houser) toggled respawn to Off. (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=105;Y=79;Z=2'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000001]'>MOB</a>)
+[03:30:22] bNo-dxg0 ADMIN: Ultimate Shrek Fan/(Woodrow Houser) toggled respawn to On. (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=105;Y=79;Z=2'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000001]'>MOB</a>)
+[03:30:32] bNo-dxg0 ADMIN: Ultimate Shrek Fan/(Woodrow Houser) toggled respawn to Off. (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=105;Y=79;Z=2'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000001]'>MOB</a>)
+[03:30:53] bNo-dxg0 ADMIN: Ultimate Shrek Fan/(Woodrow Houser) toggled respawn to On. (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=105;Y=79;Z=2'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000001]'>MOB</a>)
+[03:31:40] bNo-dxg0 ADMIN: Ultimate Shrek Fan/(Woodrow Houser) initiated a reboot.
+[03:31:45] bNo-dxg0 ACCESS: Logout: Ultimate Shrek Fan/(Woodrow Houser)
+
+
+Starting up. (ID: bNo-dxJI) 18:53.01
+---------------------
+[22:30:00] bNo-dxJI ADMIN: Loading jobban_rank
+[22:30:00] bNo-dxJI ADMIN: jobban_keylist was empty
+[22:30:00] bNo-dxJI ADMIN: Loading Banlist
+[22:30:00] bNo-dxJI DEBUG: Rebuilding Master Controller
+[22:30:00] bNo-dxJI ACCESS: Login: Ultimate Shrek Fan/(Ultimate Shrek Fan) from 127.0.0.1-1238305795 || BYOND v511
+[22:30:00] bNo-dxJI ADMIN: Ultimate Shrek Fan has started the game.
+[22:30:00] bNo-dxJI ACCESS: Logout: *no key*/(Ultimate Shrek Fan)
+[22:30:00] bNo-dxJI ACCESS: Login: Ultimate Shrek Fan/(Woodrow Houser) from 127.0.0.1-1238305795 || BYOND v511
+[22:30:00] bNo-dxJI DEBUG: Next event of severity Mundane in 16.656 minutes.
+[22:30:00] bNo-dxJI DEBUG: Next event of severity Moderate in 44.69 minutes.
+[22:30:00] bNo-dxJI DEBUG: Next event of severity Major in 93.4367 minutes.
+[22:40:24] bNo-dxJI ACCESS: Logout: Ultimate Shrek Fan/(Woodrow Houser)
+[22:40:24] bNo-dxJI ACCESS: Login: Ultimate Shrek Fan/(Woodrow Houser) from 127.0.0.1-1238305795 || BYOND v511
+[22:44:26] bNo-dxJI ACCESS: Logout: Ultimate Shrek Fan/(Woodrow Houser)

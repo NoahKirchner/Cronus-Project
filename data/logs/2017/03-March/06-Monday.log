@@ -1,0 +1,450 @@
+
+
+Starting up. (ID: bNm-aZEn) 02:05.35
+---------------------
+[03:30:00] bNm-aZEn ADMIN: Loading jobban_rank
+[03:30:00] bNm-aZEn ADMIN: jobban_keylist was empty
+[03:30:00] bNm-aZEn ADMIN: Loading Banlist
+[03:30:00] bNm-aZEn DEBUG: Rebuilding Master Controller
+[03:30:00] bNm-aZEn ACCESS: Login: Ultimate Shrek Fan/(Ultimate Shrek Fan) from 127.0.0.1-1238305795 || BYOND v511
+[03:30:00] bNm-aZEn ADMIN: Ultimate Shrek Fan has started the game.
+[03:30:00] bNm-aZEn ACCESS: Logout: *no key*/(Ultimate Shrek Fan)
+[03:30:00] bNm-aZEn ACCESS: Login: Ultimate Shrek Fan/(Woodrow Houser) from 127.0.0.1-1238305795 || BYOND v511
+[03:30:00] bNm-aZEn DEBUG: Next event of severity Mundane in 13.382 minutes.
+[03:30:00] bNm-aZEn DEBUG: Next event of severity Moderate in 43.922 minutes.
+[03:30:00] bNm-aZEn DEBUG: Next event of severity Major in 91.2133 minutes.
+[03:30:01] bNm-aZEn EMOTE: Ian/ : <B>Ian</B> chases their tail
+[03:30:16] bNm-aZEn EMOTE: Tom/ : <B>Tom</B> squeeks.
+[03:30:18] bNm-aZEn EMOTE: mouse (103)/ : <B>The mouse (103)</B> runs in a circle.
+[03:30:27] bNm-aZEn ADMIN: Ultimate Shrek Fan/(Woodrow Houser) spawned /obj/item/weapon/rig/hazmat/equipped at (121,126,3) (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=121;Y=126;Z=3'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x300005d]'>MOB</a>)
+[03:30:35] bNm-aZEn EMOTE: mouse (101)/ : <B>The mouse (101)</B> squiks.
+[03:30:49] bNm-aZEn SAY: mouse (108)/ : Squeek?
+[03:31:02] bNm-aZEn EMOTE: mouse (106)/ : <B>The mouse (106)</B> squeeks.
+[03:31:55] bNm-aZEn EMOTE: mouse (103)/ : <B>The mouse (103)</B> runs in a circle.
+[03:32:33] bNm-aZEn EMOTE: mouse (102)/ : <B>The mouse (102)</B> shakes.
+[03:32:57] bNm-aZEn EMOTE: mouse (114)/ : <B>The mouse (114)</B> squeeks.
+[03:33:04] bNm-aZEn EMOTE: Ian/ : <B>Ian</B> dances around
+[03:33:04] bNm-aZEn EMOTE: mouse (114)/ : <B>The mouse (114)</B> squeeks.
+[03:33:06] bNm-aZEn SAY: Experiment 68a/ : ...
+[03:33:37] bNm-aZEn SAY: Tom/ : Squeek!
+[03:35:04] bNm-aZEn EMOTE: Experiment 68a/ : <B>Experiment 68a</B> clicks.
+[03:35:33] bNm-aZEn EMOTE: Experiment 68a/ : <B>Experiment 68a</B> clacks.
+[03:35:35] bNm-aZEn EMOTE: Tom/ : <B>Tom</B> squeeks.
+[03:36:02] bNm-aZEn SAY: Ian/ : AUUUUUU
+[03:36:14] bNm-aZEn EMOTE: Experiment 68a/ : <B>Experiment 68a</B> clicks.
+[03:36:24] bNm-aZEn SAY: Tom/ : Squeek?
+[03:37:14] bNm-aZEn EMOTE: Ian/ : <B>Ian</B> chases their tail
+[03:38:35] bNm-aZEn EMOTE: Tom/ : <B>Tom</B> runs in a circle.
+[03:39:08] bNm-aZEn EMOTE: Ian/ : <B>Ian</B> chases their tail
+[03:39:54] bNm-aZEn SAY: crab/ : ...
+[03:43:02] bNm-aZEn EMOTE: Coffee/ : <B>Coffee</B> clacks.
+[03:43:12] bNm-aZEn EMOTE: Experiment 68a/ : <B>Experiment 68a</B> clacks.
+[03:43:23] bNm-aZEn DEBUG: Next event of severity Mundane in 12.428 minutes.
+[03:43:23] bNm-aZEn DEBUG: Starting event 'Trivial News' of severity Mundane.
+[03:43:35] bNm-aZEn EMOTE: mouse (111)/ : <B>The mouse (111)</B> shakes.
+[03:43:43] bNm-aZEn EMOTE: mouse (111)/ : <B>The mouse (111)</B> scritches at something.
+[03:43:46] bNm-aZEn DEBUG: Event 'Trivial News' has completed at 03:43.
+[03:44:27] bNm-aZEn EMOTE: Coffee/ : <B>Coffee</B> clicks.
+[03:44:37] bNm-aZEn EMOTE: Experiment 68a/ : <B>Experiment 68a</B> clicks.
+[03:44:39] bNm-aZEn EMOTE: Coffee/ : <B>Coffee</B> clicks.
+[03:45:47] bNm-aZEn EMOTE: crab/ : <B>The crab</B> clacks.
+[03:46:19] bNm-aZEn SAY: grey baby slime (739)/ : Blorble...
+[03:46:56] bNm-aZEn EMOTE: Coffee/ : <B>Coffee</B> clicks.
+[03:47:08] bNm-aZEn EMOTE: Ian/ : <B>Ian</B> chases their tail
+[03:47:16] bNm-aZEn SAY: Experiment 97d/ : EHEHEHEHEH
+[03:50:04] bNm-aZEn EMOTE: Ian/ : <B>Ian</B> shivers.
+[03:50:10] bNm-aZEn EMOTE: Coffee/ : <B>Coffee</B> clacks.
+[03:50:19] bNm-aZEn SAY: Coffee/ : ...
+[03:51:04] bNm-aZEn EMOTE: Runtime/ : <B>Runtime</B> shivers.
+[03:51:27] bNm-aZEn EMOTE: Ian/ : <B>Ian</B> dances around
+[03:52:21] bNm-aZEn EMOTE: Experiment 97d/ : <B>Experiment 97d</B> shakes its head.
+[03:52:23] bNm-aZEn EMOTE: mouse (112)/ : <B>The mouse (112)</B> scritches at something.
+[03:52:50] bNm-aZEn SAY: grey baby slime (566)/ : Lonely...
+[03:53:58] bNm-aZEn SAY: Experiment 68a/ : ...
+[03:54:46] bNm-aZEn EMOTE: Ian/ : <B>Ian</B> dances around
+[03:55:00] bNm-aZEn SAY: Ian/ : Bark!
+[03:55:34] bNm-aZEn ACCESS: Logout: Ultimate Shrek Fan/(Woodrow Houser)
+
+
+Starting up. (ID: bNm-a6E7) 02:43.57
+---------------------
+[13:30:00] bNm-a6E7 ADMIN: Loading jobban_rank
+[13:30:00] bNm-a6E7 ADMIN: jobban_keylist was empty
+[13:30:00] bNm-a6E7 ADMIN: Loading Banlist
+[13:30:00] bNm-a6E7 DEBUG: Rebuilding Master Controller
+[13:30:00] bNm-a6E7 ACCESS: Login: Ultimate Shrek Fan/(Ultimate Shrek Fan) from 127.0.0.1-1238305795 || BYOND v511
+[13:30:00] bNm-a6E7 ADMIN: Ultimate Shrek Fan has started the game.
+[13:30:00] bNm-a6E7 ACCESS: Logout: *no key*/(Ultimate Shrek Fan)
+[13:30:00] bNm-a6E7 ACCESS: Login: Ultimate Shrek Fan/(Woodrow Houser) from 127.0.0.1-1238305795 || BYOND v511
+[13:30:00] bNm-a6E7 DEBUG: Next event of severity Mundane in 14.436 minutes.
+[13:30:00] bNm-a6E7 DEBUG: Next event of severity Moderate in 36.798 minutes.
+[13:30:00] bNm-a6E7 DEBUG: Next event of severity Major in 82.87 minutes.
+[13:30:08] bNm-a6E7 ADMIN: Ultimate Shrek Fan/(Woodrow Houser) spawned /obj/item/weapon/rig/hazmat/equipped at (122,126,3) (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=122;Y=126;Z=3'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000059]'>MOB</a>)
+[13:30:30] bNm-a6E7 EMOTE: mouse (115)/ : <B>The mouse (115)</B> shakes.
+[13:30:43] bNm-a6E7 SAY: mouse (119)/ : SQUEEK!
+[13:30:45] bNm-a6E7 SAY: mouse (120)/ : Squeek?
+[13:30:47] bNm-a6E7 EMOTE: crab/ : <B>The crab</B> clicks.
+[13:31:14] bNm-a6E7 SAY: mouse (119)/ : Squeek!
+[13:31:16] bNm-a6E7 EMOTE: mouse (108)/ : <B>The mouse (108)</B> shakes.
+[13:31:30] bNm-a6E7 SAY: mouse (101)/ : Squeek?
+[13:32:43] bNm-a6E7 EMOTE: mouse (111)/ : <B>The mouse (111)</B> squeaks.
+[13:33:11] bNm-a6E7 ACCESS: Logout: Ultimate Shrek Fan/(Woodrow Houser)
+
+
+Starting up. (ID: bNm-a8Jk) 02:57.02
+---------------------
+[22:30:00] bNm-a8Jk ADMIN: Loading jobban_rank
+[22:30:00] bNm-a8Jk ADMIN: jobban_keylist was empty
+[22:30:00] bNm-a8Jk ADMIN: Loading Banlist
+[22:30:00] bNm-a8Jk DEBUG: Rebuilding Master Controller
+[22:30:00] bNm-a8Jk ACCESS: Login: Ultimate Shrek Fan/(Ultimate Shrek Fan) from 127.0.0.1-1238305795 || BYOND v511
+[22:30:00] bNm-a8Jk ADMIN: Ultimate Shrek Fan has started the game.
+[22:30:00] bNm-a8Jk ACCESS: Logout: *no key*/(Ultimate Shrek Fan)
+[22:30:00] bNm-a8Jk ACCESS: Login: Ultimate Shrek Fan/(Woodrow Houser) from 127.0.0.1-1238305795 || BYOND v511
+[22:30:00] bNm-a8Jk DEBUG: Next event of severity Mundane in 17.848 minutes.
+[22:30:00] bNm-a8Jk DEBUG: Next event of severity Moderate in 40.852 minutes.
+[22:30:00] bNm-a8Jk DEBUG: Next event of severity Major in 98.885 minutes.
+[22:30:15] bNm-a8Jk ADMIN: Ultimate Shrek Fan/(Woodrow Houser) spawned /obj/item/weapon/rig/hazmat/equipped at (122,126,3) (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=122;Y=126;Z=3'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000056]'>MOB</a>)
+[22:31:01] bNm-a8Jk SAY: mouse (107)/ : Squeek?
+[22:31:03] bNm-a8Jk EMOTE: Ian/ : <B>Ian</B> dances around
+[22:31:14] bNm-a8Jk SAY: mouse (106)/ : Squeek?
+[22:31:20] bNm-a8Jk SAY: mouse (103)/ : Squeek!
+[22:31:41] bNm-a8Jk EMOTE: mouse (113)/ : <B>The mouse (113)</B> scritches at something.
+[22:31:43] bNm-a8Jk EMOTE: Ian/ : <B>Ian</B> chases their tail
+[22:31:49] bNm-a8Jk EMOTE: mouse (103)/ : <B>The mouse (103)</B> shakes.
+[22:32:49] bNm-a8Jk EMOTE: mouse (106)/ : <B>The mouse (106)</B> shakes.
+[22:33:01] bNm-a8Jk EMOTE: mouse (113)/ : <B>The mouse (113)</B> runs in a circle.
+[22:33:16] bNm-a8Jk EMOTE: mouse (106)/ : <B>The mouse (106)</B> squeaks.
+[22:33:20] bNm-a8Jk EMOTE: mouse (106)/ : <B>The mouse (106)</B> squeaks.
+[22:33:24] bNm-a8Jk EMOTE: mouse (105)/ : <B>The mouse (105)</B> shakes.
+[22:33:47] bNm-a8Jk EMOTE: mouse (106)/ : <B>The mouse (106)</B> runs in a circle.
+[22:35:10] bNm-a8Jk SAY: grey baby slime (741)/ : Rawr...
+[22:36:22] bNm-a8Jk EMOTE: Runtime/ : <B>Runtime</B> shivers.
+[22:36:37] bNm-a8Jk EMOTE: mouse (107)/ : <B>The mouse (107)</B> squeaks.
+[22:36:51] bNm-a8Jk EMOTE: Runtime/ : <B>Runtime</B> meows.
+[22:36:51] bNm-a8Jk EMOTE: Ian/ : <B>Ian</B> chases their tail
+[22:36:59] bNm-a8Jk EMOTE: mouse (108)/ : <B>The mouse (108)</B> squeaks.
+[22:37:14] bNm-a8Jk EMOTE: crab/ : <B>The crab</B> clacks.
+[22:37:51] bNm-a8Jk SAY: mouse (106)/ : SQUEEK!
+[22:38:12] bNm-a8Jk EMOTE: Coffee/ : <B>Coffee</B> clacks.
+[22:38:14] bNm-a8Jk SAY: mouse (103)/ : Squeek!
+[22:38:20] bNm-a8Jk EMOTE: Ian/ : <B>Ian</B> chases their tail
+[22:38:35] bNm-a8Jk EMOTE: Ian/ : <B>Ian</B> chases their tail
+[22:39:06] bNm-a8Jk EMOTE: mouse (116)/ : <B>The mouse (116)</B> squeaks.
+[22:40:51] bNm-a8Jk SAY: grey baby slime (780)/ : Blop...
+[22:41:02] bNm-a8Jk EMOTE: Experiment 68a/ : <B>Experiment 68a</B> clacks.
+[22:41:31] bNm-a8Jk EMOTE: mouse (107)/ : <B>The mouse (107)</B> shakes.
+[22:42:14] bNm-a8Jk SAY: mouse (107)/ : Squeek!
+[22:42:25] bNm-a8Jk ADMIN: Ultimate Shrek Fan/(Woodrow Houser) healed / revived <a href='?priv_msg=[0x5000000]'>Ultimate Shrek Fan</a>/(Woodrow Houser)! (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=101;Y=183;Z=2'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000056]'>MOB</a>)
+[22:42:34] bNm-a8Jk ACCESS: Logout: *no key*/(Woodrow Houser)
+[22:42:34] bNm-a8Jk ACCESS: Login: Ultimate Shrek Fan/(Woodrow Houser) from 127.0.0.1-1238305795 || BYOND v511
+[22:43:04] bNm-a8Jk ADMIN: Ultimate Shrek Fan/(Woodrow Houser) jumped to @Ultimate Shrek Fan/(Woodrow Houser) (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=103;Y=184;Z=3'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000053]'>MOB</a>)
+[22:43:09] bNm-a8Jk ACCESS: Logout: *no key*/(Woodrow Houser)
+[22:43:09] bNm-a8Jk ACCESS: Login: Ultimate Shrek Fan/(Woodrow Houser) from 127.0.0.1-1238305795 || BYOND v511
+[22:43:20] bNm-a8Jk EMOTE: Coffee/ : <B>Coffee</B> clicks.
+[22:43:33] bNm-a8Jk ADMIN: Ultimate Shrek Fan/(Woodrow Houser) jumped to the Security - Processing (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=98;Y=175;Z=3'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000056]'>MOB</a>)
+[22:44:08] bNm-a8Jk EMOTE: Coffee/ : <B>Coffee</B> clicks.
+[22:47:16] bNm-a8Jk EMOTE: Ian/ : <B>Ian</B> pants.
+[22:47:52] bNm-a8Jk DEBUG: Next event of severity Mundane in 13.312 minutes.
+[22:47:52] bNm-a8Jk DEBUG: Starting event 'Economic News' of severity Mundane.
+[22:48:00] bNm-a8Jk SAY: grey baby slime (780)/ : Lonely...
+[22:48:16] bNm-a8Jk SAY: crab/ : ...
+[22:48:27] bNm-a8Jk SAY: mouse (107)/ : Squeek!
+[22:48:31] bNm-a8Jk ADMIN: Ultimate Shrek Fan/(Woodrow Houser) jumped to the Research - RD's Office (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=189;Y=113;Z=3'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000056]'>MOB</a>)
+[22:48:45] bNm-a8Jk ADMIN: Ultimate Shrek Fan/(Woodrow Houser) jumped to the Research - RD's Office (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=185;Y=111;Z=3'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000056]'>MOB</a>)
+[22:48:54] bNm-a8Jk EMOTE: mouse (107)/ : <B>The mouse (107)</B> squeaks.
+[22:49:48] bNm-a8Jk ADMIN: ADMIN: Ultimate Shrek Fan/(Woodrow Houser) : yo
+[22:49:54] bNm-a8Jk SAY: (DSAY) Ultimate Shrek Fan - usr: Ultimate Shrek Fan/(Woodrow Houser) : yo
+[22:50:32] bNm-a8Jk ADMIN: Ultimate Shrek Fan/(Woodrow Houser) jumped to the Engine Maintenance (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=104;Y=62;Z=3'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000056]'>MOB</a>)
+[22:51:16] bNm-a8Jk EMOTE: Ian/ : <B>Ian</B> dances around
+[22:53:00] bNm-a8Jk ADMIN: Ultimate Shrek Fan/(Woodrow Houser) has allowed Woodrow Houser to change his appearance, including races that requires whitelisting (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=112;Y=81;Z=3'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000056]'>MOB</a>)
+[22:53:20] bNm-a8Jk ADMIN: Ultimate Shrek Fan/(Woodrow Houser) spawned /obj/item/clothing/mask/gas/swat/vox at (112,81,3) (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=112;Y=81;Z=3'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000056]'>MOB</a>)
+[22:53:34] bNm-a8Jk ADMIN: Ultimate Shrek Fan/(Woodrow Houser) spawned /obj/item/clothing/suit/space/vox/stealth at (112,81,3) (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=112;Y=81;Z=3'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000056]'>MOB</a>)
+[22:53:45] bNm-a8Jk SAY: Runtime/ : Esp!
+[22:53:48] bNm-a8Jk ADMIN: Ultimate Shrek Fan/(Woodrow Houser) spawned /obj/item/clothing/head/helmet/space/vox/stealth at (113,81,3) (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=113;Y=81;Z=3'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000056]'>MOB</a>)
+[22:53:58] bNm-a8Jk ADMIN: Ultimate Shrek Fan/(Woodrow Houser) spawned /obj/item/clothing/gloves/vox at (113,80,3) (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=113;Y=80;Z=3'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000056]'>MOB</a>)
+[22:54:09] bNm-a8Jk DEBUG: Event 'Economic News' has completed at 22:54.
+[22:54:14] bNm-a8Jk ADMIN: Ultimate Shrek Fan/(Woodrow Houser) spawned /obj/item/clothing/shoes/magboots/vox at (113,80,3) (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=113;Y=80;Z=3'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000056]'>MOB</a>)
+[22:55:28] bNm-a8Jk ADMIN: Ultimate Shrek Fan/(Woodrow Houser) has allowed Woodrow Houser to change his appearance, including races that requires whitelisting (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=112;Y=80;Z=3'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000056]'>MOB</a>)
+[22:56:29] bNm-a8Jk SAY: Runtime/ : HSSSSS
+[22:56:41] bNm-a8Jk EMOTE: mouse (107)/ : <B>The mouse (107)</B> squiks.
+[22:56:53] bNm-a8Jk ADMIN: Ultimate Shrek Fan/(Woodrow Houser) spawned /obj/machinery/portable_atmospherics/canister/nitrogen/engine_setup at (104,73,3) (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=104;Y=73;Z=3'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000056]'>MOB</a>)
+[22:57:08] bNm-a8Jk EMOTE: Experiment 68a/ : <B>Experiment 68a</B> clacks.
+[22:57:11] bNm-a8Jk ADMIN: Ultimate Shrek Fan/(Woodrow Houser) spawned /obj/item/weapon/tank/emergency/oxygen/double at (102,72,3) (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=102;Y=72;Z=3'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000056]'>MOB</a>)
+[22:57:21] bNm-a8Jk EMOTE: Ian/ : <B>Ian</B> chases their tail
+[22:57:25] bNm-a8Jk ADMIN: Ultimate Shrek Fan/(Woodrow Houser) spawned /obj/machinery/portable_atmospherics/canister/empty/air at (103,70,3) (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=103;Y=70;Z=3'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000056]'>MOB</a>)
+[22:57:48] bNm-a8Jk EMOTE: Experiment 68a/ : <B>Experiment 68a</B> clacks.
+[22:58:35] bNm-a8Jk EMOTE: Ian/ : <B>Ian</B> dances around
+[22:58:39] bNm-a8Jk ADMIN: Ultimate Shrek Fan/(Woodrow Houser) spawned /obj/item/weapon/tank/nitrogen at (114,81,3) (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=114;Y=81;Z=3'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000056]'>MOB</a>)
+[22:59:33] bNm-a8Jk EMOTE: Experiment 97d/ : <B>Experiment 97d</B> stamps a foot.
+[22:59:41] bNm-a8Jk EMOTE: Runtime/ : <B>Runtime</B> meows.
+[23:00:06] bNm-a8Jk EMOTE: Experiment 68a/ : <B>Experiment 68a</B> clacks.
+[23:00:44] bNm-a8Jk SAY: Coffee/ : ...
+[23:00:54] bNm-a8Jk EMOTE: Ian/ : <B>Ian</B> dances around
+[23:01:11] bNm-a8Jk DEBUG: Next event of severity Mundane in 12.228 minutes.
+[23:01:11] bNm-a8Jk DEBUG: Starting event 'Trivial News' of severity Mundane.
+[23:01:34] bNm-a8Jk DEBUG: Event 'Trivial News' has completed at 23:01.
+[23:01:48] bNm-a8Jk ACCESS: Logout: Ultimate Shrek Fan/(Woodrow Houser)
+
+
+Starting up. (ID: bNm-bhXp) 04:04.21
+---------------------
+[13:30:00] bNm-bhXp ADMIN: Loading jobban_rank
+[13:30:00] bNm-bhXp ADMIN: jobban_keylist was empty
+[13:30:00] bNm-bhXp ADMIN: Loading Banlist
+[13:30:00] bNm-bhXp DEBUG: Rebuilding Master Controller
+[13:30:00] bNm-bhXp ACCESS: Login: Ultimate Shrek Fan/(Ultimate Shrek Fan) from 127.0.0.1-1238305795 || BYOND v511
+[13:30:00] bNm-bhXp DEBUG: Runtime in turbolift_map.dm,224: list index out of bounds <A HREF='?src=[0x210086ca];viewruntime=[0x210086ca]'>[view]</A>
+[13:30:00] bNm-bhXp DEBUG: Exodus turbolift map placeholder - Engineering cannot find a component turf at 0,0 on floor 0. Aborting.
+[13:30:00] bNm-bhXp DEBUG: Exodus turbolift map placeholder - Research cannot find a component turf at 0,0 on floor 0. Aborting.
+[13:30:00] bNm-bhXp DEBUG: Exodus turbolift map placeholder - Cargo cannot find a component turf at 0,0 on floor 0. Aborting.
+[13:30:00] bNm-bhXp DEBUG: Exodus turbolift map placeholder - Securiy cannot find a component turf at 0,0 on floor 0. Aborting.
+[13:30:00] bNm-bhXp ADMIN: Ultimate Shrek Fan has started the game.
+[13:30:00] bNm-bhXp ACCESS: Logout: *no key*/(Ultimate Shrek Fan)
+[13:30:00] bNm-bhXp ACCESS: Login: Ultimate Shrek Fan/(Woodrow Houser) from 127.0.0.1-1238305795 || BYOND v511
+[13:30:00] bNm-bhXp DEBUG: Next event of severity Mundane in 17.57 minutes.
+[13:30:00] bNm-bhXp DEBUG: Next event of severity Moderate in 38.704 minutes.
+[13:30:00] bNm-bhXp DEBUG: Next event of severity Major in 83.715 minutes.
+[13:30:03] bNm-bhXp EMOTE: mouse (112)/ : <B>The mouse (112)</B> shakes.
+[13:30:08] bNm-bhXp SAY: grey baby slime (886)/ : Blop...
+[13:30:18] bNm-bhXp SAY: mouse (102)/ : Squeek!
+[13:30:39] bNm-bhXp SAY: mouse (104)/ : Squeek!
+[13:31:16] bNm-bhXp SAY: Ian/ : Bark!
+[13:32:06] bNm-bhXp EMOTE: mouse (113)/ : <B>The mouse (113)</B> scritches at something.
+[13:32:37] bNm-bhXp EMOTE: mouse (107)/ : <B>The mouse (107)</B> runs in a circle.
+[13:33:22] bNm-bhXp EMOTE: crab/ : <B>The crab</B> clicks.
+[13:33:24] bNm-bhXp EMOTE: mouse (117)/ : <B>The mouse (117)</B> scritches at something.
+[13:33:53] bNm-bhXp SAY: mouse (114)/ : SQUEEK!
+[13:34:07] bNm-bhXp ADMIN: Ultimate Shrek Fan/(Woodrow Houser) spawned /obj/item/clothing/accessory/holster/thigh at (118,175,4) (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=118;Y=175;Z=4'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000058]'>MOB</a>)
+[13:34:28] bNm-bhXp SAY: Experiment 97d/ : eh?
+[13:34:38] bNm-bhXp ADMIN: Ultimate Shrek Fan/(Woodrow Houser) spawned /obj/item/clothing/accessory/holster/hip at (118,177,4) (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=118;Y=177;Z=4'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000058]'>MOB</a>)
+[13:35:02] bNm-bhXp SAY: mouse (104)/ : SQUEEK!
+[13:35:14] bNm-bhXp ACCESS: Logout: Ultimate Shrek Fan/(Woodrow Houser)
+[13:35:14] bNm-bhXp ACCESS: Login: Ultimate Shrek Fan/(Woodrow Houser) from 127.0.0.1-1238305795 || BYOND v511
+[13:35:22] bNm-bhXp EMOTE: Tom/ : <B>Tom</B> runs in a circle.
+[13:35:28] bNm-bhXp ADMIN: Ultimate Shrek Fan/(Woodrow Houser) spawned /obj/item/weapon/rig/hazmat/equipped at (118,177,4) (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=118;Y=177;Z=4'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000058]'>MOB</a>)
+[13:35:33] bNm-bhXp EMOTE: mouse (102)/ : <B>The mouse (102)</B> squeeks.
+[13:35:39] bNm-bhXp EMOTE: Ian/ : <B>Ian</B> dances around
+[13:35:41] bNm-bhXp SAY: Runtime/ : Meow!
+[13:35:41] bNm-bhXp EMOTE: Coffee/ : <B>Coffee</B> clicks.
+[13:36:16] bNm-bhXp EMOTE: Ian/ : <B>Ian</B> dances around
+[13:36:28] bNm-bhXp ADMIN: Ultimate Shrek Fan/(Woodrow Houser) spawned /obj/item/weapon/rig/light at (114,172,4) (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=114;Y=172;Z=4'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000058]'>MOB</a>)
+[13:38:14] bNm-bhXp EMOTE: Experiment 97d/ : <B>Experiment 97d</B> shakes its head.
+[13:38:18] bNm-bhXp SAY: grey baby slime (886)/ : Rawr...
+[13:39:08] bNm-bhXp EMOTE: Ian/ : <B>Ian</B> dances around
+[13:39:58] bNm-bhXp EMOTE: Experiment 68a/ : <B>Experiment 68a</B> clacks.
+[13:40:24] bNm-bhXp EMOTE: Ian/ : <B>Ian</B> chases their tail
+[13:41:12] bNm-bhXp ACCESS: Logout: Ultimate Shrek Fan/(Woodrow Houser)
+
+
+Starting up. (ID: bNm-dngi) 17:56.30
+---------------------
+[08:30:00] bNm-dngi ADMIN: Loading jobban_rank
+[08:30:00] bNm-dngi ADMIN: jobban_keylist was empty
+[08:30:00] bNm-dngi ADMIN: Loading Banlist
+[08:30:00] bNm-dngi DEBUG: Rebuilding Master Controller
+[08:30:00] bNm-dngi ACCESS: Login: Ultimate Shrek Fan/(Ultimate Shrek Fan) from 127.0.0.1-1238305795 || BYOND v511
+[08:30:00] bNm-dngi ADMIN: Ultimate Shrek Fan has started the game.
+[08:30:00] bNm-dngi DEBUG: Next event of severity Mundane in 13.052 minutes.
+[08:30:00] bNm-dngi DEBUG: Next event of severity Moderate in 44.25 minutes.
+[08:30:00] bNm-dngi DEBUG: Next event of severity Major in 99.14 minutes.
+[08:30:08] bNm-dngi EMOTE: Meatbag/ : <B>Meatbag</B> turns and flies towards the insulated gauntlets
+[08:30:29] bNm-dngi SAY: Medbot/ : I knew it, I should&#39;ve been a plastic surgeon.
+[08:30:33] bNm-dngi SAY: Coffee/ : ...
+[08:30:37] bNm-dngi EMOTE: Experiment 68a/ : <B>Experiment 68a</B> clacks.
+[08:30:48] bNm-dngi SAY: Medbot/ : Delicious!
+[08:31:23] bNm-dngi EMOTE: Experiment 68a/ : <B>Experiment 68a</B> clicks.
+[08:32:00] bNm-dngi SAY: grey baby slime (57)/ : Lonely...
+[08:33:00] bNm-dngi SAY: Medbot/ : Radar, put a mask on!
+[08:33:35] bNm-dngi SAY: Meatbag/ : Squaaak!
+[08:33:48] bNm-dngi ACCESS: Logout: *no key*/(Ultimate Shrek Fan)
+[08:33:48] bNm-dngi ACCESS: Login: Ultimate Shrek Fan/(Woodrow Houser) from 127.0.0.1-1238305795 || BYOND v511
+[08:33:48] bNm-dngi DEBUG: Moved - Arrivals Announcement Computer was deleted while still listening to the station intercom (General).
+[08:33:56] bNm-dngi SAY: Runtime/ : Purr!
+[08:35:54] bNm-dngi SAY: Runtime/ : Meow!
+[08:36:41] bNm-dngi ADMIN: Ultimate Shrek Fan/(Woodrow Houser) spawned /obj/item/weapon/rig/hazmat/equipped at (73,138,5) (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=73;Y=138;Z=5'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x300002e]'>MOB</a>)
+[08:37:08] bNm-dngi SAY: Experiment 97d/ : EHEHEHEHEH
+[08:38:15] bNm-dngi SAY: grey baby slime (874)/ : Lonely...
+[08:38:27] bNm-dngi SAY: Meatbag/ : Squaaak!
+[08:39:11] bNm-dngi EMOTE: Experiment 97d/ : <B>Experiment 97d</B> stamps a foot.
+[08:39:16] bNm-dngi ADMIN: Ultimate Shrek Fan/(Woodrow Houser) healed / revived <a href='?priv_msg=[0x5000000]'>Ultimate Shrek Fan</a>/(Woodrow Houser)! (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=93;Y=136;Z=2'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x300002e]'>MOB</a>)
+[08:39:47] bNm-dngi ACCESS: Logout: *no key*/(Woodrow Houser)
+[08:39:47] bNm-dngi ACCESS: Login: Ultimate Shrek Fan/(Woodrow Houser) from 127.0.0.1-1238305795 || BYOND v511
+[08:39:50] bNm-dngi DEBUG: Runtime in airlock.dm,411: Cannot execute null.IsIndexCut(). <A HREF='?src=[0x21006dae];viewruntime=[0x21006dae]'>[view]</A>
+[08:39:50] bNm-dngi ACCESS: Logout: *no key*/(Woodrow Houser)
+[08:39:50] bNm-dngi ACCESS: Login: Ultimate Shrek Fan/(Woodrow Houser) from 127.0.0.1-1238305795 || BYOND v511
+[08:39:54] bNm-dngi EMOTE: Ian/ : <B>Ian</B> dances around
+[08:40:19] bNm-dngi EMOTE: Experiment 68a/ : <B>Experiment 68a</B> clicks.
+[08:40:22] bNm-dngi ADMIN: Ultimate Shrek Fan/(Woodrow Houser) toggled respawn to Off. (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=91;Y=133;Z=2'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x300002e]'>MOB</a>)
+[08:40:32] bNm-dngi ADMIN: Ultimate Shrek Fan/(Woodrow Houser) toggled respawn to On. (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=91;Y=133;Z=2'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x300002e]'>MOB</a>)
+[08:40:34] bNm-dngi ADMIN: Ultimate Shrek Fan/(Woodrow Houser) toggled reviving to 0. (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=91;Y=133;Z=2'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x300002e]'>MOB</a>)
+[08:40:46] bNm-dngi ADMIN: Ultimate Shrek Fan/(Woodrow Houser) toggled reviving to 1. (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=87;Y=133;Z=2'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x300002e]'>MOB</a>)
+[08:40:57] bNm-dngi ADMIN: Ultimate Shrek Fan/(Woodrow Houser) has allowed Ultimate Shrek Fan/(Woodrow Houser) to bypass the 30 minute respawn limit. (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=88;Y=133;Z=2'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x300002e]'>MOB</a>)
+[08:40:58] bNm-dngi SAY: Medbot/ : Delicious!
+[08:41:04] bNm-dngi SAY: (DSAY) Ultimate Shrek Fan - usr: Ultimate Shrek Fan/(Woodrow Houser) : <span class='name'>Woodrow Houser</span> no longer lurks in the realm of the dead. 
+[08:41:04] bNm-dngi ACCESS: Logout: *no key*/(Woodrow Houser)
+[08:41:04] bNm-dngi ACCESS: Login: Ultimate Shrek Fan/(new player) from 127.0.0.1-1238305795 || BYOND v511
+[08:41:04] bNm-dngi ADMIN: Ultimate Shrek Fan/(new player) has respawned. (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000031]'>MOB</a>)
+[08:41:31] bNm-dngi ACCESS: Logout: *no key*/(new player)
+[08:41:31] bNm-dngi ACCESS: Login: Ultimate Shrek Fan/(Woodrow Houser) from 127.0.0.1-1238305795 || BYOND v511
+[08:41:31] bNm-dngi DEBUG: Moved - Arrivals Announcement Computer was deleted while still listening to the station intercom (General).
+[08:42:27] bNm-dngi EMOTE: Runtime/ : <B>Runtime</B> shakes their head.
+[08:42:48] bNm-dngi EMOTE: crab/ : <B>The crab</B> clacks.
+[08:43:04] bNm-dngi DEBUG: Next event of severity Mundane in 12.28 minutes.
+[08:43:04] bNm-dngi DEBUG: Starting event 'Economic News' of severity Mundane.
+[08:43:11] bNm-dngi ADMIN: Ultimate Shrek Fan/(Woodrow Houser) healed / revived *no key*/(Woodrow Houser)! (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=91;Y=131;Z=2'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x300002e]'>MOB</a>)
+[08:43:22] bNm-dngi ADMIN: Ultimate Shrek Fan/(Woodrow Houser) has entered build mode.
+[08:43:25] bNm-dngi EMOTE: crab/ : <B>The crab</B> clacks.
+[08:43:39] bNm-dngi ADMIN: Ultimate Shrek Fan/(Woodrow Houser) has left build mode.
+[08:43:44] bNm-dngi ADMIN: Ultimate Shrek Fan/(Woodrow Houser) healed / revived *no key*/(Woodrow Houser)! (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=91;Y=132;Z=2'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x300002e]'>MOB</a>)
+[08:44:38] bNm-dngi EMOTE: Ian/ : <B>Ian</B> dances around
+[08:44:46] bNm-dngi ADMIN: Ultimate Shrek Fan/(Woodrow Houser) healed / revived *no key*/(Woodrow Houser)! (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=91;Y=132;Z=2'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x300002e]'>MOB</a>)
+[08:44:58] bNm-dngi SAY: Meatbag/ : Fight me Matey!
+[08:45:24] bNm-dngi ADMIN: Ultimate Shrek Fan/(Woodrow Houser) jumped to the lift (upper deck) (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=91;Y=137;Z=2'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x300002e]'>MOB</a>)
+[08:45:29] bNm-dngi ACCESS: Logout: *no key*/(Woodrow Houser)
+[08:45:29] bNm-dngi ACCESS: Login: Ultimate Shrek Fan/(Woodrow Houser) from 127.0.0.1-1238305795 || BYOND v511
+[08:45:29] bNm-dngi SAY: (DSAY) Ultimate Shrek Fan - usr: *no key*/(Woodrow Houser) : The ghost of <span class='name'>Woodrow Houser</span> now creeps among the dead. 
+[08:45:52] bNm-dngi EMOTE: Ian/ : <B>Ian</B> pants.
+[08:46:50] bNm-dngi EMOTE: Ian/ : <B>Ian</B> chases their tail
+[08:46:52] bNm-dngi ADMIN: Ultimate Shrek Fan/(Woodrow Houser) Toggled admin jumping to 0. (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=254;Y=293;Z=2'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000031]'>MOB</a>)
+[08:46:58] bNm-dngi ADMIN: Ultimate Shrek Fan/(Woodrow Houser) Toggled admin jumping to 1. (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=254;Y=293;Z=2'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000031]'>MOB</a>)
+[08:47:33] bNm-dngi DEBUG: Event 'Economic News' has completed at 08:47.
+[08:47:40] bNm-dngi ADMIN: Ultimate Shrek Fan/(Woodrow Houser) jumped to coordinates 108, 81, 6 (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=108;Y=81;Z=6'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000031]'>MOB</a>)
+[08:47:54] bNm-dngi ADMIN: Ultimate Shrek Fan/(Woodrow Houser) jumped to coordinates 108, 81, 1 (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=108;Y=81;Z=1'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000031]'>MOB</a>)
+[08:48:05] bNm-dngi ADMIN: Ultimate Shrek Fan/(Woodrow Houser) jumped to coordinates 108, 81, 2 (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=108;Y=81;Z=2'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000031]'>MOB</a>)
+[08:48:25] bNm-dngi ADMIN: Ultimate Shrek Fan/(Woodrow Houser) jumped to coordinates 108, 81, 11 (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=108;Y=81;Z=11'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000031]'>MOB</a>)
+[08:48:58] bNm-dngi ADMIN: Ultimate Shrek Fan/(Woodrow Houser) jumped to 101,156,9 in the Construction Site Fore Hallway (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=108;Y=81;Z=11'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000031]'>MOB</a>)
+[08:49:05] bNm-dngi ACCESS: Logout: Ultimate Shrek Fan/(Woodrow Houser)
+[08:49:05] bNm-dngi ACCESS: Login: Ultimate Shrek Fan/(Woodrow Houser) from 127.0.0.1-1238305795 || BYOND v511
+[08:49:21] bNm-dngi ADMIN: Ultimate Shrek Fan/(Woodrow Houser) has allowed Ultimate Shrek Fan/(Woodrow Houser) to bypass the 30 minute respawn limit. (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=101;Y=158;Z=9'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000031]'>MOB</a>)
+[08:49:25] bNm-dngi SAY: (DSAY) Ultimate Shrek Fan - usr: Ultimate Shrek Fan/(Woodrow Houser) : <span class='name'>Woodrow Houser</span> no longer prowls in the realm of the dead. 
+[08:49:25] bNm-dngi ACCESS: Logout: *no key*/(Woodrow Houser)
+[08:49:25] bNm-dngi ACCESS: Login: Ultimate Shrek Fan/(new player) from 127.0.0.1-1238305795 || BYOND v511
+[08:49:25] bNm-dngi ADMIN: Ultimate Shrek Fan/(new player) has respawned. (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000033]'>MOB</a>)
+[08:49:45] bNm-dngi ACCESS: Logout: *no key*/(new player)
+[08:49:45] bNm-dngi ACCESS: Login: Ultimate Shrek Fan/(Woodrow Houser) from 127.0.0.1-1238305795 || BYOND v511
+[08:49:45] bNm-dngi DEBUG: Moved - Arrivals Announcement Computer was deleted while still listening to the station intercom (General).
+[08:50:44] bNm-dngi EMOTE: Runtime/ : <B>Runtime</B> shakes their head.
+[08:50:51] bNm-dngi ADMIN: Ultimate Shrek Fan/(Woodrow Houser) has toggled Ultimate Shrek Fan/(Woodrow Houser)'s nodamage to On
+[08:51:15] bNm-dngi EMOTE: Coffee/ : <B>Coffee</B> clicks.
+[08:51:15] bNm-dngi SAY: Medbot/ : There&#39;s always a catch, and it&#39;s the best there is.
+[08:51:54] bNm-dngi EMOTE: Ian/ : <B>Ian</B> shivers.
+[08:53:05] bNm-dngi ADMIN: Ultimate Shrek Fan/(Woodrow Houser) healed / revived <a href='?priv_msg=[0x5000000]'>Ultimate Shrek Fan</a>/(Woodrow Houser)! (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=124;Y=124;Z=5'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000031]'>MOB</a>)
+[08:53:32] bNm-dngi EMOTE: Experiment 68a/ : <B>Experiment 68a</B> clacks.
+[08:53:43] bNm-dngi ADMIN: Ultimate Shrek Fan/(Woodrow Houser) healed / revived *no key*/(Woodrow Houser)! (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=125;Y=124;Z=5'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000031]'>MOB</a>)
+[08:53:46] bNm-dngi EMOTE: Experiment 68a/ : <B>Experiment 68a</B> clicks.
+[08:53:55] bNm-dngi DEBUG: Moved - Woodrow Houser was deleted while still listening to Woodrow Houser's brain.
+[08:53:55] bNm-dngi ADMIN: Ultimate Shrek Fan/(Woodrow Houser) healed / revived *no key*/(Woodrow Houser)! (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=125;Y=123;Z=5'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000031]'>MOB</a>)
+[08:54:57] bNm-dngi ADMIN: Ultimate Shrek Fan/(Woodrow Houser) healed / revived *no key*/(Woodrow Houser)! (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=122;Y=124;Z=5'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000031]'>MOB</a>)
+[08:55:07] bNm-dngi SAY: crab/ : ...
+[08:55:07] bNm-dngi ADMIN: Ultimate Shrek Fan/(Woodrow Houser) healed / revived <a href='?priv_msg=[0x5000000]'>Ultimate Shrek Fan</a>/(Woodrow Houser)! (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=122;Y=133;Z=5'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000031]'>MOB</a>)
+[08:55:11] bNm-dngi EMOTE: crab/ : <B>The crab</B> clacks.
+[08:55:21] bNm-dngi ADMIN: PM: Ultimate Shrek Fan/(Woodrow Houser)->Ultimate Shrek Fan/(Woodrow Houser): j
+[08:55:21] bNm-dngi DEBUG: Next event of severity Mundane in 14.302 minutes.
+[08:55:21] bNm-dngi DEBUG: Starting event 'Trivial News' of severity Mundane.
+[08:55:44] bNm-dngi DEBUG: Event 'Trivial News' has completed at 08:56.
+[08:56:36] bNm-dngi SAY: Medbot/ : I knew it, I should&#39;ve been a plastic surgeon.
+[08:56:55] bNm-dngi EMOTE: Experiment 97d/ : <B>Experiment 97d</B> shakes its head.
+[08:56:56] bNm-dngi ADMIN: Ultimate Shrek Fan/(Woodrow Houser) gave Ultimate Shrek Fan/(Woodrow Houser) the spell /spell/targeted/equip_item/party_hardy. (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=147;Y=131;Z=5'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000031]'>MOB</a>)
+[08:56:58] bNm-dngi SAY: Unknown (as Woodrow Houser)/Ultimate Shrek Fan : LSET`SU`G&#39;ET`RUCKEND!
+[08:56:58] bNm-dngi ATTACK: Ultimate Shrek Fan/(Woodrow Houser) cast the spell Summon Party (INTENT: HELP) (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=147;Y=131;Z=5'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000031]'>MOB</a>)
+[08:57:28] bNm-dngi SAY: Experiment 97d/ : eh?
+[08:57:38] bNm-dngi SAY: Medbot/ : I knew it, I should&#39;ve been a plastic surgeon.
+[08:58:24] bNm-dngi ACCESS: Logout: *no key*/(Woodrow Houser)
+[08:58:24] bNm-dngi ACCESS: Login: Ultimate Shrek Fan/(cortical borer) from 127.0.0.1-1238305795 || BYOND v511
+[08:58:24] bNm-dngi ADMIN: *null* made Ultimate Shrek Fan/(cortical borer) into a Cortical Borer.
+[08:58:46] bNm-dngi SAY: Medbot/ : I knew it, I should&#39;ve been a plastic surgeon.
+[08:59:21] bNm-dngi ADMIN: Ultimate Shrek Fan/(cortical borer) spawned /mob/living/carbon/human at (137,132,5) (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=137;Y=132;Z=5'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000029]'>MOB</a>)
+[08:59:33] bNm-dngi EMOTE: cortical borer/Ultimate Shrek Fan : <B>The cortical borer</B> prods David Price!
+[08:59:34] bNm-dngi SAY: Medbot/ : Delicious!
+[08:59:54] bNm-dngi ACCESS: Logout: *no key*/(cortical borer)
+[08:59:54] bNm-dngi ACCESS: Login: ultimateshrekfan/(David Price) from 127.0.0.1-1238305795 || BYOND v511
+[09:00:10] bNm-dngi ACCESS: Logout: *no key*/(David Price)
+[09:00:10] bNm-dngi ACCESS: Login: ultimateshrekfan/(cortical borer) from 127.0.0.1-1238305795 || BYOND v511
+[09:00:10] bNm-dngi DEBUG: Moved - David Price was deleted while still listening to the cortical borer.
+[09:00:26] bNm-dngi ACCESS: Logout: *no key*/(cortical borer)
+[09:00:26] bNm-dngi ACCESS: Login: ultimateshrekfan/(David Price) from 127.0.0.1-1238305795 || BYOND v511
+[09:00:34] bNm-dngi SAY: Experiment 68a/ : ...
+[09:00:49] bNm-dngi ACCESS: Logout: *no key*/(David Price)
+[09:00:49] bNm-dngi ACCESS: Login: ultimateshrekfan/(cortical borer) from 127.0.0.1-1238305795 || BYOND v511
+[09:00:49] bNm-dngi DEBUG: Moved - David Price was deleted while still listening to the cortical borer.
+[09:02:53] bNm-dngi SAY: Meatbag/ : Squaaak!
+[09:03:49] bNm-dngi EMOTE: Ian/ : <B>Ian</B> dances around
+[09:03:55] bNm-dngi EMOTE: Coffee/ : <B>Coffee</B> clacks.
+[09:04:01] bNm-dngi EMOTE: crab/ : <B>The crab</B> clacks.
+[09:04:38] bNm-dngi EMOTE: Experiment 97d/ : <B>Experiment 97d</B> stamps a foot.
+[09:04:47] bNm-dngi EMOTE: Ian/ : <B>Ian</B> dances around
+[09:05:04] bNm-dngi ACCESS: Logout: ultimateshrekfan/(cortical borer)
+
+
+Starting up. (ID: bNm-dJ28) 20:11.48
+---------------------
+[08:30:00] bNm-dJ28 ADMIN: Loading jobban_rank
+[08:30:00] bNm-dJ28 ADMIN: jobban_keylist was empty
+[08:30:00] bNm-dJ28 ADMIN: Loading Banlist
+[08:30:00] bNm-dJ28 DEBUG: Rebuilding Master Controller
+[08:30:00] bNm-dJ28 ACCESS: Login: Ultimate Shrek Fan/(Ultimate Shrek Fan) from 127.0.0.1-1238305795 || BYOND v511
+[08:30:00] bNm-dJ28 ADMIN: Ultimate Shrek Fan has started the game.
+[08:30:00] bNm-dJ28 ACCESS: Logout: *no key*/(Ultimate Shrek Fan)
+[08:30:00] bNm-dJ28 ACCESS: Login: Ultimate Shrek Fan/(Woodrow Houser) from 127.0.0.1-1238305795 || BYOND v511
+[08:30:00] bNm-dJ28 DEBUG: Runtime in job_controller.dm,434: pick() from empty list <A HREF='?src=[0x21002673];viewruntime=[0x21002673]'>[view]</A>
+[08:30:00] bNm-dJ28 DEBUG: Next event of severity Mundane in 12.288 minutes.
+[08:30:00] bNm-dJ28 DEBUG: Next event of severity Moderate in 53.026 minutes.
+[08:30:00] bNm-dJ28 DEBUG: Next event of severity Major in 98.705 minutes.
+[08:30:18] bNm-dJ28 ADMIN: Ultimate Shrek Fan/(Woodrow Houser) has toggled Ultimate Shrek Fan/(Woodrow Houser)'s nodamage to On
+[08:30:29] bNm-dJ28 ADMIN: Ultimate Shrek Fan/(Woodrow Houser) healed / revived <a href='?priv_msg=[0x5000000]'>Ultimate Shrek Fan</a>/(Woodrow Houser)! (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=291;Y=178;Z=1'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000004]'>MOB</a>)
+[08:30:51] bNm-dJ28 ADMIN: Ultimate Shrek Fan/(Woodrow Houser) spawned /obj/item/weapon/rig/hazmat/equipped at (291,178,1) (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=291;Y=178;Z=1'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000004]'>MOB</a>)
+[08:32:07] bNm-dJ28 ADMIN: Ultimate Shrek Fan/(Woodrow Houser) healed / revived <a href='?priv_msg=[0x5000000]'>Ultimate Shrek Fan</a>/(Woodrow Houser)! (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=39;Y=139;Z=1'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000004]'>MOB</a>)
+[08:32:24] bNm-dJ28 ADMIN: Ultimate Shrek Fan/(Woodrow Houser) jumped to the Morgue (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=123;Y=104;Z=2'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000004]'>MOB</a>)
+[08:33:32] bNm-dJ28 ACCESS: Logout: Ultimate Shrek Fan/(Woodrow Houser)
+
+
+Starting up. (ID: bNn-af21) 21:07.57
+---------------------
+[03:30:00] bNn-af21 ADMIN: Loading jobban_rank
+[03:30:00] bNn-af21 ADMIN: jobban_keylist was empty
+[03:30:00] bNn-af21 ADMIN: Loading Banlist
+[03:30:00] bNn-af21 DEBUG: Rebuilding Master Controller
+[03:30:00] bNn-af21 ACCESS: Login: Ultimate Shrek Fan/(Ultimate Shrek Fan) from 127.0.0.1-1238305795 || BYOND v511
+[03:30:00] bNn-af21 ACCESS: Logout: Ultimate Shrek Fan/(Ultimate Shrek Fan)
+
+
+Starting up. (ID: bNn-anTd) 21:58.18
+---------------------
+[08:30:00] bNn-anTd ADMIN: Loading jobban_rank
+[08:30:00] bNn-anTd ADMIN: jobban_keylist was empty
+[08:30:00] bNn-anTd ADMIN: Loading Banlist
+[08:30:00] bNn-anTd DEBUG: Rebuilding Master Controller
+[08:30:00] bNn-anTd ACCESS: Login: Ultimate Shrek Fan/(Ultimate Shrek Fan) from 127.0.0.1-1238305795 || BYOND v511
+[08:30:00] bNn-anTd VOTE: Gamemode vote started by the server.
+[08:30:00] bNn-anTd DEBUG: The server has called a gamemode vote
+[08:30:00] bNn-anTd ADMIN: Ultimate Shrek Fan has started the game.
+[08:30:00] bNn-anTd ADMIN: Ultimate Shrek Fan/(Ultimate Shrek Fan) initiated a reboot.
+[08:30:00] bNn-anTd ACCESS: Logout: Ultimate Shrek Fan/(Ultimate Shrek Fan)
+
+
+Starting up. (ID: bNn-aqva) 22:15.03
+---------------------
+[22:30:00] bNn-aqva ADMIN: Loading jobban_rank
+[22:30:00] bNn-aqva ADMIN: jobban_keylist was empty
+[22:30:00] bNn-aqva ADMIN: Loading Banlist
+[22:30:00] bNn-aqva DEBUG: Rebuilding Master Controller
+[22:30:00] bNn-aqva ACCESS: Login: Ultimate Shrek Fan/(Ultimate Shrek Fan) from 127.0.0.1-1238305795 || BYOND v511
+[22:30:00] bNn-aqva VOTE: Gamemode vote started by the server.
+[22:30:00] bNn-aqva DEBUG: The server has called a gamemode vote
+[22:30:00] bNn-aqva ADMIN: Ultimate Shrek Fan has started the game.
+[22:30:00] bNn-aqva ACCESS: Logout: *no key*/(Ultimate Shrek Fan)
+[22:30:00] bNn-aqva ACCESS: Login: Ultimate Shrek Fan/(Woodrow Houser) from 127.0.0.1-1238305795 || BYOND v511
+[22:30:00] bNn-aqva DEBUG: Runtime in job_controller.dm,434: pick() from empty list <A HREF='?src=[0x21002616];viewruntime=[0x21002616]'>[view]</A>
+[22:30:00] bNn-aqva DEBUG: Next event of severity Mundane in 12.484 minutes.
+[22:30:00] bNn-aqva DEBUG: Next event of severity Moderate in 41.73 minutes.
+[22:30:00] bNn-aqva DEBUG: Next event of severity Major in 84.3717 minutes.
+[22:30:27] bNn-aqva ADMIN: Ultimate Shrek Fan/(Woodrow Houser) has toggled Ultimate Shrek Fan/(Woodrow Houser)'s nodamage to On
+[22:30:31] bNn-aqva ADMIN: Ultimate Shrek Fan/(Woodrow Houser) healed / revived <a href='?priv_msg=[0x5000000]'>Ultimate Shrek Fan</a>/(Woodrow Houser)! (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=291;Y=14;Z=1'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000002]'>MOB</a>)
+[22:30:37] bNn-aqva ACCESS: Logout: *no key*/(Woodrow Houser)
+[22:30:37] bNn-aqva ACCESS: Login: Ultimate Shrek Fan/(Woodrow Houser) from 127.0.0.1-1238305795 || BYOND v511
+[22:31:00] bNn-aqva ADMIN: Ultimate Shrek Fan/(Woodrow Houser) jumped to 141,81,2 in the Space (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=261;Y=13;Z=1'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000001]'>MOB</a>)
+[22:31:33] bNn-aqva ACCESS: Logout: *no key*/(Woodrow Houser)
+[22:31:33] bNn-aqva ACCESS: Login: Ultimate Shrek Fan/(Woodrow Houser) from 127.0.0.1-1238305795 || BYOND v511
+[22:31:46] bNn-aqva ADMIN: Ultimate Shrek Fan/(Woodrow Houser) spawned /obj/item/weapon/rig/hazmat/equipped at (291,14,1) (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=291;Y=14;Z=1'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000002]'>MOB</a>)
+[22:34:11] bNn-aqva ACCESS: Logout: Ultimate Shrek Fan/(Woodrow Houser)
