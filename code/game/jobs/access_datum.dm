@@ -384,6 +384,20 @@
 	desc = "Medical Equipment"
 	region = ACCESS_REGION_MEDBAY
 
+/var/const/access_scio = 67
+/datum/access/scio
+	id = access_scio
+	desc = "Science Officer"
+	region = ACCESS_REGION_COMMAND
+
+/var/const/access_bridge_storage = 68
+/datum/access/bridge_storage
+	id = access_bridge_storage
+	desc = "Bridge Secure Storage"
+	region = ACCESS_REGION_COMMAND
+
+
+
 /******************
 * Central Command *
 ******************/

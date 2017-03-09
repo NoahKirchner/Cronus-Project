@@ -25,7 +25,7 @@
 	faction = "Station"
 	total_positions = 2
 	spawn_positions = 2
-	supervisors = "your laws and the AI"	//Nodrak
+	supervisors = "your laws and the mission commander"	//Nodrak
 	selection_color = "#254c25"
 	minimal_player_age = 7
 	alt_titles = list("Android", "Robot")
