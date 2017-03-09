@@ -13,6 +13,7 @@
 	#include "loadout/loadout_uniform.dm"
 	#include "loadout/loadout_xeno.dm"
 	#include "loadout/~defines.dm"
+  //#include "job/jobs.dm"
 
 	#include "cronus-1.dmm"
 

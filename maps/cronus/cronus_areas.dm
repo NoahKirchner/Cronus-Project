@@ -4,6 +4,10 @@
 	name = "\improper Bridge"
 	icon_state = "bridge"
 
+/area/command/bridge/bridge_storage
+	name = "\improper Bridge Secure Storage"
+	icon_state = "armory"
+
 /area/command/bridge/meeting_room
 	name = "\improper Heads of Staff Meeting Room"
 	icon_state = "bridge"

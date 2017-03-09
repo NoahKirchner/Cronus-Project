@@ -2,7 +2,6 @@
 	name = "Cronus"
 	full_name = "USCSS Cronus"	//Heliades class
 	path = "cronus"
-	flags = MAP_HAS_BRANCH | MAP_HAS_RANK
 
 	lobby_icon = 'maps/cronus/cronus_lobby.dmi'
 
