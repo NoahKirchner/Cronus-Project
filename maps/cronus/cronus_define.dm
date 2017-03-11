@@ -1,4 +1,4 @@
-/datum/map/ship1
+/datum/map/cronus
 	name = "Cronus"
 	full_name = "USCSS Cronus"	//Heliades class
 	path = "cronus"

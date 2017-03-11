@@ -48,5 +48,5 @@
 		if(2)
 			visible_message("<span class='alium'>\The [src.target] is struggling to withstand the acid!</span>")
 		if(0 to 1)
-			visible_message("<span class='alium'>\The [src.target] begins to crumble under the acid!</span>")
+			visible_message("<span class='alium'>\The [src.target] begins to smoke and crumble under the acid!</span>")
 	spawn(rand(150, 200)) tick()
