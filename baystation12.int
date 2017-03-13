@@ -1,11 +1,11 @@
 // BEGIN_INTERNALS
 /*
-LAST_COMPILE_TIME: 1489040602
-DIR: code code\datums code\datums\appearances code\datums\appearances\automatic code\datums\outfits code\datums\outfits\jobs code\game code\game\jobs code\game\jobs\job maps maps\cronus maps\cronus\loadout maps\exodus 
+LAST_COMPILE_TIME: 1489369597
+DIR: code code\controllers code\game code\game\jobs code\game\jobs\job code\game\machinery code\game\machinery\telecomms code\game\objects code\game\objects\items code\game\objects\items\devices code\game\objects\items\devices\radio code\modules code\modules\mob code\modules\mob\living icons icons\obj maps maps\cronus maps\cronus\job 
 AUTO_FILE_DIR: OFF
 MAP_ICON_TYPE: 0
 LAST_COMPILE_VERSION: 511.1367
-WINDOW: maps\cronus\cronus-1.dmm;code\game\jobs\whitelist.dm;code\game\jobs\job\captain.dm;maps\cronus\cronus_areas.dm;code\game\jobs\access_datum.dm;maps\cronus\cronus.dm;maps\cronus\cronus_define.dm;maps\exodus\exodus_define.dm
-FILE: maps\cronus\cronus-1.dmm
+WINDOW: maps\cronus\cronus-1.dmm;code\game\jobs\job\science.dm;code\game\machinery\telecomms\presets.dm;code\controllers\communications.dm;code\game\objects\items\devices\radio\encryptionkey.dm;icons\obj\radio.dmi;code\stylesheet.dm;code\modules\mob\say.dm;code\modules\mob\living\say.dm;maps\cronus\job\outfit.dm;code\game\objects\items\devices\radio\headset.dm;maps\cronus\job\jobs.dm;maps\cronus\cronus_define.dm;maps\cronus\cronus_presets.dm;code\game\machinery\telecomms\telecomunications.dm
+FILE: code\modules\mob\living\say.dm
 */
 // END_INTERNALS

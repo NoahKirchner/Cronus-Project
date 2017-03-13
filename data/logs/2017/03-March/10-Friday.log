@@ -1,0 +1,16 @@
+
+
+Starting up. (ID: bNr-aEjj) 23:43.33
+---------------------
+[08:30:00] bNr-aEjj ADMIN: Loading jobban_rank
+[08:30:00] bNr-aEjj ADMIN: jobban_keylist was empty
+[08:30:00] bNr-aEjj ADMIN: Loading Banlist
+[08:30:00] bNr-aEjj DEBUG: Rebuilding Master Controller
+[08:30:00] bNr-aEjj ACCESS: Login: Ultimate Shrek Fan/(Ultimate Shrek Fan) from 127.0.0.1-1238305795 || BYOND v511
+[08:30:00] bNr-aEjj VOTE: Gamemode vote started by the server.
+[08:30:00] bNr-aEjj DEBUG: The server has called a gamemode vote
+[08:30:00] bNr-aEjj VOTE: <b>Vote Result: Inconclusive - No Votes!</b>
+[08:30:00] bNr-aEjj DEBUG: Next event of severity Mundane in 13.944 minutes.
+[08:30:00] bNr-aEjj DEBUG: Next event of severity Moderate in 47 minutes.
+[08:30:00] bNr-aEjj DEBUG: Next event of severity Major in 85.2433 minutes.
+[08:30:03] bNr-aEjj ACCESS: Logout: Ultimate Shrek Fan/(Ultimate Shrek Fan)

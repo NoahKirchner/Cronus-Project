@@ -218,7 +218,7 @@ var/const/NO_EMAG_ACT = -50
 	desc = "A silver card which shows honour and dedication."
 	icon_state = "silver"
 	item_state = "silver_id"
-	job_access_type = /datum/job/hop
+	job_access_type = /datum/job/ca
 
 /obj/item/weapon/card/id/gold
 	name = "identification card"
@@ -297,23 +297,8 @@ var/const/NO_EMAG_ACT = -50
 	icon_state = "med"
 	job_access_type = /datum/job/doctor
 
-/obj/item/weapon/card/id/medical/chemist
-	job_access_type = /datum/job/chemist
-
-/obj/item/weapon/card/id/medical/geneticist
-	job_access_type = /datum/job/geneticist
-
-/obj/item/weapon/card/id/medical/psychiatrist
-	job_access_type = /datum/job/psychiatrist
-
 /obj/item/weapon/card/id/medical/paramedic
 	job_access_type = /datum/job/Paramedic
-
-/obj/item/weapon/card/id/medical/head
-	name = "identification card"
-	desc = "A card which represents care and compassion."
-	icon_state = "medGold"
-	job_access_type = /datum/job/cmo
 
 /obj/item/weapon/card/id/security
 	name = "identification card"
@@ -351,23 +336,8 @@ var/const/NO_EMAG_ACT = -50
 	icon_state = "sci"
 	job_access_type = /datum/job/scientist
 
-/obj/item/weapon/card/id/science/xenobiologist
-	job_access_type = /datum/job/xenobiologist
-
 /obj/item/weapon/card/id/science/roboticist
 	job_access_type = /datum/job/roboticist
-
-/obj/item/weapon/card/id/science/head
-	name = "identification card"
-	desc = "A card which represents knowledge and reasoning."
-	icon_state = "sciGold"
-	job_access_type = /datum/job/rd
-
-/obj/item/weapon/card/id/cargo
-	name = "identification card"
-	desc = "A card issued to station cargo staff."
-	icon_state = "cargo"
-	job_access_type = /datum/job/cargo_tech
 
 /obj/item/weapon/card/id/cargo/mining
 	job_access_type = /datum/job/mining
@@ -384,26 +354,6 @@ var/const/NO_EMAG_ACT = -50
 	icon_state = "civ"
 	job_access_type = /datum/job/assistant
 
-/obj/item/weapon/card/id/civilian/bartender
-	job_access_type = /datum/job/bartender
-
-/obj/item/weapon/card/id/civilian/chef
-	job_access_type = /datum/job/chef
-
-/obj/item/weapon/card/id/civilian/botanist
-	job_access_type = /datum/job/hydro
-
-/obj/item/weapon/card/id/civilian/janitor
-	job_access_type = /datum/job/janitor
-
-/obj/item/weapon/card/id/civilian/librarian
-	job_access_type = /datum/job/librarian
-
-/obj/item/weapon/card/id/civilian/internal_affairs_agent
-	job_access_type = /datum/job/lawyer
-
-/obj/item/weapon/card/id/civilian/chaplain
-	job_access_type = /datum/job/chaplain
 
 /obj/item/weapon/card/id/civilian/head //This is not the HoP. There's no position that uses this right now.
 	name = "identification card"

@@ -316,7 +316,7 @@
 					/obj/item/clothing/under/rank/head_of_security/corp,
 					/obj/item/clothing/suit/armor/hos,
 					/obj/item/weapon/cartridge/hos,
-					/obj/item/device/radio/headset/heads/hos,
+					/obj/item/device/radio/headset/heads/headset_marshal,
 					/obj/item/clothing/glasses/sunglasses/sechud,
 					/obj/item/weapon/storage/belt/security,
 					/obj/item/device/flash,

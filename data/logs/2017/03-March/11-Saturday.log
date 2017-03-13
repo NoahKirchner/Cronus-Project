@@ -1,0 +1,19 @@
+
+
+Starting up. (ID: bNr-cCWN) 12:49.13
+---------------------
+[13:30:00] bNr-cCWN ADMIN: Loading jobban_rank
+[13:30:00] bNr-cCWN ADMIN: jobban_keylist was empty
+[13:30:00] bNr-cCWN ADMIN: Loading Banlist
+[13:30:00] bNr-cCWN DEBUG: Rebuilding Master Controller
+[13:30:00] bNr-cCWN ACCESS: Login: Ultimate Shrek Fan/(Ultimate Shrek Fan) from 127.0.0.1-1238305795 || BYOND v511
+[13:30:00] bNr-cCWN ADMIN: Ultimate Shrek Fan has started the game.
+[13:30:00] bNr-cCWN DEBUG: Next event of severity Mundane in 12.332 minutes.
+[13:30:00] bNr-cCWN DEBUG: Next event of severity Moderate in 39.658 minutes.
+[13:30:00] bNr-cCWN DEBUG: Next event of severity Major in 86.0283 minutes.
+[13:30:04] bNr-cCWN ACCESS: Logout: *no key*/(Ultimate Shrek Fan)
+[13:30:04] bNr-cCWN ACCESS: Login: Ultimate Shrek Fan/(Woodrow Houser) from 127.0.0.1-1238305795 || BYOND v511
+[13:30:04] bNr-cCWN DEBUG: Moved - Arrivals Announcement Computer was deleted while still listening to the station intercom (General).
+[13:30:10] bNr-cCWN ACCESS: Logout: *no key*/(Woodrow Houser)
+[13:30:10] bNr-cCWN ACCESS: Login: Ultimate Shrek Fan/(Woodrow Houser) from 127.0.0.1-1238305795 || BYOND v511
+[13:30:35] bNr-cCWN ACCESS: Logout: Ultimate Shrek Fan/(Woodrow Houser)

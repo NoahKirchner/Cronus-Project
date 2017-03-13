@@ -56,6 +56,10 @@ em						{font-style: normal;font-weight: bold;}
 .sciradio				{color: #993399;}
 .supradio				{color: #5F4519;}
 .srvradio				{color: #6eaa2c;}
+.medsciradio			{color: #8E4585;}
+.servicesradio			{color: #892C1A;}
+.emergradio				{color: #F319FF;}
+.surveyradio			{color: #993399;}
 
 /* Miscellaneous */
 .name					{font-weight: bold;}

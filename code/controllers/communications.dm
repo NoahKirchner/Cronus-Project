@@ -118,6 +118,10 @@ var/const/MED_FREQ = 1355
 var/const/SCI_FREQ = 1351
 var/const/SRV_FREQ = 1349
 var/const/SUP_FREQ = 1347
+var/const/SVC_FREQ = 1327
+var/const/MRD_FREQ = 1339
+var/const/EMG_FREQ = 1335
+var/const/SUR_FREQ = 1329
 
 // internal department channels
 var/const/MED_I_FREQ = 1485
@@ -134,11 +138,15 @@ var/list/radiochannels = list(
 	"Special Ops" 	= DTH_FREQ,
 	"Mercenary" 	= SYND_FREQ,
 	"Supply" 		= SUP_FREQ,
-	"Service" 		= SRV_FREQ,
+	"Cargo" 		= SRV_FREQ,
 	"AI Private"	= AI_FREQ,
 	"Entertainment" = ENT_FREQ,
 	"Medical(I)"	= MED_I_FREQ,
-	"Security(I)"	= SEC_I_FREQ
+	"Security(I)"	= SEC_I_FREQ,
+	"MedSci"		= MRD_FREQ,
+	"Services" 		= SVC_FREQ,
+	"EMERGENCY" 	= EMG_FREQ,
+	"Survey" 		= SUR_FREQ
 )
 
 // central command channels, i.e deathsquid & response teams
@@ -181,9 +189,16 @@ var/list/DEPT_FREQS = list(AI_FREQ, COMM_FREQ, ENG_FREQ, MED_FREQ, SEC_FREQ, SCI
 		return "srvradio"
 	if(frequency == ENT_FREQ) //entertainment
 		return "entradio"
+	if(frequency == MRD_FREQ)
+		return "medsciradio"
+	if(frequency == SVC_FREQ)
+		return "servicesradio"
+	if(frequency == EMG_FREQ)
+		return "emergradio"
+	if(frequency == SUR_FREQ)
+		return "surveyradio"
 	if(frequency in DEPT_FREQS)
 		return "deptradio"
-
 	return "radio"
 
 /* filters */

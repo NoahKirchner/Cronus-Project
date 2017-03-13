@@ -28,7 +28,7 @@
 		new /obj/item/clothing/gloves/insulated(src)
 		new /obj/item/clothing/shoes/brown(src)
 		new /obj/item/weapon/cartridge/ce(src)
-		new /obj/item/device/radio/headset/heads/ce(src)
+		new /obj/item/device/radio/headset/heads/headset_ce(src)
 		new /obj/item/weapon/storage/toolbox/mechanical(src)
 		new /obj/item/clothing/suit/storage/hazardvest(src)
 		new /obj/item/clothing/mask/gas(src)

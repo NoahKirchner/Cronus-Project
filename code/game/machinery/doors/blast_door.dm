@@ -200,6 +200,9 @@
 
 	block_air_zones = 1
 
+/obj/machinery/door/blast/shuttlebay/open
+	begins_closed = FALSE
+
 /obj/machinery/door/blast/regular/open
 	begins_closed = FALSE
 
